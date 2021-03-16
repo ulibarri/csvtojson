@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "address-analysis": "^1.0.1",
+    "addresser": "^1.1.19",
+    "convert-csv-to-json": "0.0.15",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "string": "^3.3.3",
+    "underscore": "^1.12.0",
+    "xlsx-to-json": "^0.3.0"
+  }
+}
