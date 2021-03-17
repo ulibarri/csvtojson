@@ -42,7 +42,7 @@ today = mm + '/' + dd + '/' + yyyy;
 // console.log(csv_row);
 csv_row = {};
 
-fs.createReadStream('FriFeb12CSV.csv')
+fs.createReadStream('Wed_3_16_CSV.csv')
     .pipe(csv())
     .on('data', (row) => {
         csv_row["Verification"] = '';
