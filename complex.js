@@ -1,6 +1,7 @@
 
 const addresser = require("addresser");
 const moment = require('moment');
+const chalk = require('chalk');
 var S = require('string');
 
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
@@ -42,13 +43,13 @@ today = mm + '/' + dd + '/' + yyyy;
 // console.log(csv_row);
 csv_row = {};
 
-fs.createReadStream('Wed_3_16_CSV.csv')
+fs.createReadStream('June 9 CSV - June 9 CSV.csv')
     .pipe(csv())
     .on('data', (row) => {
         csv_row["Verification"] = '';
         for (let key in row) {
             let str = row["Participant"];
-            if ((str.includes('Non-Participant Event')) || (str.includes('TEST'))) {
+            if ((str.includes('Non-Participant Event')) || (str.includes('TEST,'))) {
                 console.log("NO SE puede procesar esta fila ----------", str);
                 // csv_row
             } else {
@@ -63,6 +64,7 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                         // const nowCopy = new Date(row["Start_Time"]);
                         // console.log("Start_Time valor tipo DATE ---->", nowCopy);
                         csv_row["Appointment_Time"] = row["Start_Time"];
+                        //restamos 15 minutos al Start_Time
                         try {
                             let aux = `${today} ${row["Start_Time"]}`;
                             hora = new Date(aux);
@@ -74,7 +76,7 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                             // console.log("start time -30 ------------------------->", tiempo);
                             csv_row["Start_Time"] = tiempo;
                         } catch (error) {
-                            console.log("************** Error calculating Start_Date value", error);
+                            console.log(chalk.redBright("************** Error calculating Start_Date value", error));
                             csv_row["Verification"] = csv_row["Verification"] + " Start_Time, ";
                         }
                         break;
@@ -89,8 +91,20 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                         break;
                     case "Event_Location_Information":
                         let event_location = row["Event_Location_Information"];
+                        event_location=event_location.replace(/  +/g, ' ');//"remove multiple blank spaces"
                         console.log(`event_location=----> ${event_location}`)
                         //first remove phone number
+
+
+                        if (event_location.includes("SONUS 07")){
+                            console.log('-------------------------------------------------------------------------------------------> ENCONTRE UN SONUS 07 ')
+                            console.log(event_location);
+                            event_location= "310 3RD AVE, 2ND FLOOR, Ste. B-21 CHULA VISTA, CA 91910-396";//event_location.replace("SONUS 07", "");
+                            console.log('-------------------------------------------------------------------------------------------> NUEVA LOCATION')
+                            console.log(event_location);
+                            
+                        }
+
                         let myPhone = event_location.match(/([0-9]{3})\-([0-9]{3})\-([0-9]{4})/);
                         // console.log(`myPhone=----> ${myPhone}`);
                         if (myPhone) {
@@ -166,53 +180,7 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                             // first part has bee removed
                             flag = 1;
 
-                            // // remove zip code 9XXXX - XXXX
-                            // let myExtraZipcode = myLocation.match(/(9[0-9]{4})\-([0-9]{4})/);
-                            // if (myExtraZipcode) {
-                            //     myExtraZipIndex = myLocation.indexOf(myExtraZipcode[0]);
-                            //     let cadAux = myLocation.substr(0, myExtraZipIndex - 1);
-                            //     let cadAux2 = myLocation.substr(myExtraZipIndex + 10, myLocation.length);
-                            //     if (cadAux2) {
-                            //         myLocation = `${cadAux} ${cadAux2}`;
-                            //     }
-                            //     else {
-                            //         myLocation = `${cadAux}`;
-                            //     }
-                            //     console.log(`Location without extra zip code=----> ${myLocation}`);
-                            // }
-
-                            // //remove tradicional zip code 9XXXX
-                            // myZipcode = myLocation.match(/CA\s([0-9]{5})/);
-                            // if (myZipcode) {
-                            //     myZipIndex = myLocation.indexOf(myZipcode[0]);
-                            //     let cadAux = myLocation.substr(0, myZipIndex + 2);
-                            //     let cadAux2 = myLocation.substr(myZipIndex + 8, myLocation.length);
-                            //     if (cadAux2) {
-                            //         myFinalLocation = `${cadAux} ${cadAux2}`;
-                            //     }
-                            //     else {
-                            //         myFinalLocation = `${cadAux}`;
-                            //     }
-                            //     console.log(`myFinalLocation=----> ${myFinalLocation}`);
-
-                            // } else {
-                            //     myFinalLocation = myLocation;
-                            // }
-
-
-                            // myZipcode = myLocation.match(/[A-Z][A-Z]\s([0-9]{5})/); //buscamos la abreviatura del estado, un espacio y cinco numeros
-                            // // console.log(`myZipcode=----> ${myZipcode}`);
-                            // myZipIndex = myLocation.indexOf(myZipcode);
-                            // // console.log(`myZipIndex=----> ${myZipIndex}`);
-                            // myFinalLocation = myLocation.substr(0, myIndex + 8);
-                            // console.log("myFinalLocation --------->", myFinalLocation);
-
-
-                            // myFinalLocation = myFinalLocation.sub(/r'(?<=\d)(?=[^\d\s])|(?<=[^\d\s])(?=\d)/, ' ', myFinalLocation);
-                            // var re = /[^0-9](?=[0-9])/g;
-                            // var str1 = myFinalLocation;
-                            // var result = str1.replace(re, '$& ');
-                            // console.log("myFinalLocation --------->", result);
+                           
                             myFinalLocation = myLocation;
                             try {
                                 //parseamos ladireccion para dejarla sin informacion basura
@@ -220,17 +188,20 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                                 // console.log(finalBreakdown);
                                 if (!finalBreakdown.addressLine2) {
                                     csv_row["Event_Location_Information"] = (`${finalBreakdown.addressLine1},${finalBreakdown.placeName},${finalBreakdown.stateAbbreviation} ${finalBreakdown.zipCode}`).toUpperCase();
+                                    csv_row["Destination"] = (`${finalBreakdown.addressLine1},${finalBreakdown.placeName},${finalBreakdown.stateAbbreviation} ${finalBreakdown.zipCode}`).toUpperCase();
 
                                 }
                                 else {
                                     csv_row["Event_Location_Information"] = (`${finalBreakdown.addressLine1},${finalBreakdown.addressLine2},${finalBreakdown.placeName},${finalBreakdown.stateAbbreviation} ${finalBreakdown.zipCode}`).toUpperCase();
+                                    csv_row["Destination"] = (`${finalBreakdown.addressLine1},${finalBreakdown.addressLine2},${finalBreakdown.placeName},${finalBreakdown.stateAbbreviation} ${finalBreakdown.zipCode}`).toUpperCase();
 
                                 }
 
                             } catch (error) {
-                                console.log('Event_Location_Information ******************************************************************** ', error);
+                                console.log(chalk.redBright('Event_Location_Information ******************************************************************** ', error));
                                 console.log('Event_Location', myFinalLocation);
                                 csv_row["Event_Location_Information"] = (myLocation).toUpperCase();
+                                csv_row["Destination"] = (myLocation).toUpperCase();
                                 csv_row["Verification"] = csv_row["Verification"] + " event_location, ";
 
                             }
@@ -243,20 +214,24 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                             // console.log("Verificacion antes = ", csv_row["Verification"]);
                             if (flag == 1) {
                                 csv_row["Event_Location_Information"] = myLocation.toUpperCase();
+                                csv_row["Destination"] = myLocation.toUpperCase();
                             }
                             else {
                                 csv_row["Event_Location_Information"] = event_location.toUpperCase();
+                                csv_row["Destination"] = event_location.toUpperCase();
                             }
 
                             csv_row["Verification"] = csv_row["Verification"] + " event_location, ";
                             // console.log("Verificacion despues= ", csv_row["Verification"]);
 
                         }
-
+                        
 
                         break;
                     case "Participant":
+                        /****************** SEPARAMOS EL CODIGO DEL CLIENTE  */
                         let str = row["Participant"];
+                        str = str.replace(/  +/g, ' ');//"remove multiple blank spaces"
                         // if (str.includes('Non-Participant Event')) {
                         //     console.log("NO SE debe procesar esta fila ----------");
 
@@ -266,6 +241,7 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                             let substring = str.substr(n + 1, 9);
                             csv_row["Client_Code"] = substring;
                             csv_row["Participant"] = str.substr(0, n - 1);
+                            console.log(chalk.green(`Participant ->${csv_row["Participant"]} Code->${csv_row["Client_Code"]}`));
                         }
                         else {
                             // console.log(`Participant :, --------------------->${str}`);
@@ -277,6 +253,7 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                         break;
                     case "Resource_Name":
                         let s = row["Resource_Name"];
+                        s=s.replace(/  +/g, ' ');//"remove multiple blank spaces"
                         // console.log("Resource_Name longitud --------->", s.toString().length);
                         let r = /\d+/;
                         let matches = s.match(r);
@@ -296,8 +273,22 @@ fs.createReadStream('Wed_3_16_CSV.csv')
 
                         break;
                     case "Address":
-
-                        let adddress = row["Address"].toString();
+                        //****************** HACEMOS UN PARSEO DE LA DIRECCION PARA IDENTIDFICAR SUS ELEMENTOS */
+                        let address = row["Address"].toString();
+                        address=address.replace(/  +/g, ' ');//"remove multiple blank spaces"
+                        // if (address.includes('Via las Palmas')){
+                        //     console.log('aqui esta', address);
+                        // }
+                        //****************** REMOVEMOS DOBLES COMAS */
+                        let  coma = address.search(",,");
+                        if (coma>0){
+                            console.log('-------------------------------------------------------------------------------------------> ENCONTRE UNA DOBLE COMA')
+                            console.log(address);
+                            address= address.replace(",,", ",");
+                            console.log('-------------------------------------------------------------------------------------------> NUEVA ADDRESS')
+                            console.log(address);
+                            
+                        }
                         // console.log(`Original value ------> ${adddress}`);
                         // console.log(adddress.toString().length)
 
@@ -307,8 +298,8 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                         // } catch (error) {
 
                         // }
-                        if (!adddress) {
-                            console.log('Address ------------------->NO address detected');
+                        if (!address) {
+                            console.log(chalk.redBright('Address ---------------------------------------->Empty field'));
                             // console.log("Verificacion antes = ", csv_row["Verification"]);
                             csv_row["Address"] = 'no address detected';
                             csv_row["Verification"] = csv_row["Verification"] + " address, ";
@@ -316,19 +307,23 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                         }
                         else {
                             try {
-                                let breakdown = addresser.parseAddress(adddress);
+                                let breakdown = addresser.parseAddress(address);
                                 // console.log(breakdown);
                                 if (!breakdown.addressLine2) {
                                     csv_row["Address"] = (`${breakdown.addressLine1},${breakdown.placeName},${breakdown.stateAbbreviation} ${breakdown.zipCode}`).toUpperCase();
+                                    csv_row["Origin"] = (`${breakdown.addressLine1},${breakdown.placeName},${breakdown.stateAbbreviation} ${breakdown.zipCode}`).toUpperCase();
 
                                 }
                                 else {
                                     csv_row["Address"] = (`${breakdown.addressLine1},${breakdown.addressLine2},${breakdown.placeName},${breakdown.stateAbbreviation} ${breakdown.zipCode}`).toUpperCase();
+                                    csv_row["Origin"] = (`${breakdown.addressLine1},${breakdown.addressLine2},${breakdown.placeName},${breakdown.stateAbbreviation} ${breakdown.zipCode}`).toUpperCase();
 
                                 }
 
                             } catch (error) {
-                                console.log('****************', error)
+                                console.log(chalk.redBright('***********************************************'), error)
+                                csv_row["Address"] = address;
+                                csv_row["Origin"] = 'ERROR PARSING ADDRESS';
                             }
 
                         }
@@ -336,70 +331,10 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                     case "Event_Reason":
                         // let flipped = false;
                         csv_row["Event_Reason"] = row["Event_Reason"].toString().toUpperCase();
-                    // // reason = String(reason);
-                    // if ((reason.includes('DIALYSIS GOING HOME')) && (flipped === false)) {
-                    //     console.log(`++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++>${csv_row["Participant"]}  GOING HOME`)
-                    //     console.log(`Event_Reason--> ${row["Event_Reason"]}`);
-                    //     // console.log(`Reason =${(reason)}`);
-                    //     // console.log(`Reason.LENGHT =${(reason.length)}`);
+                        csv_row["Event_Reason"]=csv_row["Event_Reason"].replace(/  +/g, ' ');//"remove multiple blank spaces"
+                    
 
-                    //     // let aux = csv_row["Event_Location_Information"];
-                    //     csv_row["Verification"] = csv_row["Verification"] + " DESTINY address flipped ";
-                    //     // 4765 CARMEL MOUNTAIN RD SAN DIEGO, CALI
-                    //        Eastlake Sleep Center 841 Kuhn Drive  Suite 201Chula Vista, CA 91914 619-623-3816
-                    //        841 Kuhn Drive  Suite 201Chula Vista, CA 91914 619-623-3816
-                    //     //           1         2         3         4         5         6         7         8         9         100       10        20    
-                    //     // 012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
-                    //     // AT DIALYSIS GOING HOME FRESENIUS KIDNEY CARE LA JOLLA 4765 CARMEL MOUNTAIN RD SAN DIEGO, CALIFORNIA 92130
-                    //     //                                                      0         1        2         3         4         5         6         7         8         9         100       10        20    
-                    //     // @ DIALYSIS GOING HOME FRESENIUS DIALYSIS EASTLAKE 2391 BOSWELL RD, CHULA VISTA, CA 91914
-                    //     let index_going = reason.indexOf('GOING HOME');
-                    //     let index_glenner = reason.indexOf('AT GLENNER');
-                    //     let decimal = /\d+/;
-                    //     let match_d = reason.match(decimal);
-
-
-                    //     if (match_d) {  //si hay un numero 
-                    //         console.log(`match_d =${match_d.index}, index_glenner=${index_glenner}, index_going${index_going}`);
-                    //         // console.log(`match_d =${match_d.index}`);
-                    //         // console.log(`index_going${index_going}`);
-
-                    //         if ((index_glenner > 0) && (index_going > 0) && (flipped === false)) {
-                    //             let destiny_address = reason.substr(match_d.index, (reason.length - (match_d.index)));
-                    //             // console.log(`destiny_address.len ${destiny_address.length}`)
-                    //             // console.log("-----------", reason.length - (match_d.index))
-
-                    //             let aux = csv_row["Address"];
-                    //             csv_row["Address"] = "PICKUP AT --->" + destiny_address;
-                    //             csv_row["Event_Reason"] = "DROP OFF AT -> " + aux;
-
-                    //             console.log(`@GLENNER Address ${csv_row["Address"]}`);
-                    //             console.log(`Event_Reason ${csv_row["Event_Reason"]}`);
-                    //             flipped = true;
-
-                    //         } else if ((index_going > 0) && (flipped === false)) {
-                    //             let destiny_address = reason.substr(match_d.index, (reason.length - (match_d.index)));
-                    //             let aux = csv_row["Address"];
-                    //             csv_row["Address"] = "PICKUP AT --->" + destiny_address;
-                    //             csv_row["Event_Reason"] = "DROP OFF AT -> " + aux;
-
-                    //             console.log(`Address ${csv_row["Address"]}`);
-                    //             console.log(`Event_Reason ${csv_row["Event_Reason"]}`);
-
-                    //         }
-                    //     } else {
-                    //         console.log(`--------->HOUSE NUMBER NOT DETECTED `);
-
-
-
-                    //     }
-                    //     // // csv_row["Address"];
-                    //     // csv_row["Address"] = 2222222
-                    //     // aux;
-                    //     //console.log(csv_row["Verification"]);
-                    // }
-
-                    // break;
+                    
                 }
             }
         }//for
@@ -410,21 +345,7 @@ fs.createReadStream('Wed_3_16_CSV.csv')
         }
         else {
             if (csv_row.Participant.length > 0) {
-                // console.log("condit");
-                //} else {
-                // if (message.length > 0) {
-                //     csv_row["Verification"] = 'Verify one of the following: ';
-                //     console.log(message);
-                // }
-                // else {
-                //     csv_row["Verification"] = '';
-                // }
-                // let number = csv_row["Client_Code"].toString();
-                // console.log("---->number", number);
-                // if (number == 'SDP506493') {
-                //     console.log(csv_row);
-
-                // }
+  
 
                 csv_rows.push(csv_row);
                 rows++;
@@ -457,7 +378,9 @@ fs.createReadStream('Wed_3_16_CSV.csv')
                 { id: 'Resource_Name', title: 'Resource_Name' },
                 { id: 'Event_Reason', title: 'Event_Reason' },
                 { id: 'Event_Location_Information', title: 'Event_Location_Information' },
-                { id: 'Verification', title: 'Verification' }
+                { id: 'Verification', title: 'Verification' },
+                { id: 'Origin', title: 'Origin' },
+                { id: 'Destination', title: 'Destination' }
 
             ]
         });

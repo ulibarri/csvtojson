@@ -1,0 +1,81 @@
+Pan, mostaza, jitomate, lechuga, pepinillos y huevo
+
+
+Proceres del desfalco, padres de la argucia , maestros de la maña, artiffices de la debacle financiera, versados en el arte del esquilmar  Erarios, degluten presupuestos y deyectan sus detritos a sus gobernados
+
+
+Leer out.csv de 100 en 100
+Copiar a output.js
+Remover duplicados
+Cambiar el valor de currentIndex a 5
+Modificar la dependencia en insertPtp.js
+Ejecutar insertPtp.js
+Ejecutar findPtp.js y leerlos de 100 en 100
+
+Copiar en participants.js
+Modificar los criterios
+Cambiar el valor de currentIndex a 0
+Ejecutar deletecol.js
+Cambiar dependencia en insertptp.js
+
+Ejecutar insertPtp.js
+
+
+Nota: notifications setup con GARY
+
+
+hfqcmx@gmail.com ,cordova.jauregui@gmail.com, jmpuente@gmail.com, raghum76@gmail.com
+
+CO MO SABER A QUE HORA TOMA UN CAMION QUE SE ESTA CAMBIANDO
+Definir el formato de los reportes para cada catálogo
+Terminar de definir la sección de calendario de los vehículos
+
+Deceased Participants
+El TC puede decirnos cuando hace “check in” al center y cuando esta “listo para salir”
+
+Revisar empleados-users juntos con Gary
+
+Averiguar el flujo de Borrado
+
+
+
+1628 PALM AVENUE, SAN DIEGO, CA, 92154
+4060 FOURTH AVENUE
+
+
+Llegamos a tiempo 30 minutos después de que nos llamaron
+Pasaron mas de 1 hr en el vehicle?
+
+88515326 cancelar green peace
+
+CV PACE					  				  880 3RD AVENUE, CHULA VISTA, CA, 91911
+SAN DIEGO PACE 3		     			3364 BEYER BLVD, SAN YSIDRO, CA, 92173
+SY PACE 				     			3364 BEYER BLVD, SAN YSIDRO, CA, 92173
+Beyer Trolley station 		     			4035 BEYER BLVD, SAN YSIDRO, CA, 92173
+FMC CHULA VISTA 		     			2252 VERUS ST, SAN DIEGO, CA, 92154
+DAVITA San Ysidro 		     			1445 30TH ST, SAN DIEGO, CA, 92154
+					     				875 EL CAJON BLVD, EL CAJON, CA, 92020
+@ C.V Center 			     			880 3RD AVENUE, CHULA VISTA, CA, 91911
+NORTH COUNTY DAY CENTER 		2095 W VISTA WAY, VISTA, CA, 92083
+									751 MEDICAL CENTER CT, CHULA VISTA, CA, 91911
+									3638 UNIVERSITY AVENUE, SUITE 221, RIVERSIDE, CA, 92501
+									8901 ACTIVITY RD, SAN DIEGO, CA, 92126
+									8851 CENTER DRIVE, SUITE 406, LA MESA, CA, 91942
+									230 PROSPECT PL., SUITE 250, CORONADO, CA, 92118
+									2999 HEALTH CENTER DR, SAN DIEGO, CA, 92123
+									995 GATEWAY CENTER WAY, SUITE# 209, SAN DIEGO , CA, 92102
+									9350 CAMPUS POINT DR, SUITE A, LA JOLLA, CA, 92903
+									1767 E MAIN ST, EL CAJON, CA, 92021
+									5129 GARFIELD STREET, LA MESA, CA, 91941
+									4060 FOURTH AVE, #630, SAN DIEGO, CA, 92103
+
+
+
+PREGUNTAR SOBRE LAS PARTICIPANTS CONDITIONS CON GARY MANANA
+
+
+Revisar : Return home from Dialysis to 303 47th St Spc C-33 San Diego, CA 92102  Junio 8
+Hacer una nueva columna de LOCATION NAME
+HACER UNA NUEVA COLUMNA DE SPACE TYPE
+Hacer una nueva columna con  PRIMARY LANGUAGE
+REVISAR QUE LAS CITAS NO QUEDAN EN LA NOCHE
