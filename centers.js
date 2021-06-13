@@ -722,6 +722,22 @@ let centers=[
         criteria: ['480','FOURTH A','201','CHULA','91910']
     },
     {
+        name: "NOT AVAILABLE",
+        address: "480 4TH AVENUE, SUITE 4004, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['480','FOURTH A','4004','CHULA','91910']
+    },
+    {
+        name: "NOT AVAILABLE",
+        address: "480 4TH AVENUE, SUITE 4004, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['480','4TH A','4004','CHULA','91910']
+    },
+    {
         name: "SOUTH BAY FOOT AND ANKLE",
         address: "610 EUCLID AVE, SUITE 301, NATIONAL CITY, CA, 91950",
         abbrev: null,
@@ -874,6 +890,15 @@ let centers=[
         phone: '619-263-9729',
         criteria: ['995','GATEWAY C','207','DIEGO','92102']
     },
+    {
+        name: "NOT AVAILABLE",
+        address: "995 GATEWAY CENTER WAY, SUITE# 209, SAN DIEGO , CA, 92102",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['995','GATEWAY C','209','DIEGO','92102']
+    },
+    
     {
         name: "UROLOGY",
         address: "3444 KEARNY VILLA RD, SUITE # 202, SAN DIEGO, CA, 92123",
@@ -1450,7 +1475,7 @@ let centers=[
         abbrev: null,
         category: 'NEUROLOGY',
         phone: null,
-        criteria: ['9350','CAMPUS','POINT','2A','JOLLA','92037']
+        criteria: ['9350','CAMPUS','POINT D','2A','JOLLA','92037']
     },
     { 
         name: "UCSD",
@@ -1483,6 +1508,22 @@ let centers=[
         category: 'UROLOGY',
         phone: '619-297-4707',
         criteria: ['4060','FOURTH A','310','DIEGO','92103']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "4060 4TH AVE, #630, SAN DIEGO, CA, 92103",
+        abbrev: null,
+        category: 'UROLOGY',
+        phone: '619-297-4707',
+        criteria: ['4060','FOURTH A','630','DIEGO','92103']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "4060 4TH AVE, #630, SAN DIEGO, CA, 92103",
+        abbrev: null,
+        category: 'UROLOGY',
+        phone: '619-297-4707',
+        criteria: ['4060','4TH A','630','DIEGO','92103']
     },
     { 
         name: "MEDIC",
@@ -1699,7 +1740,16 @@ let centers=[
         category: null,
         phone: '619-522-3600',
         criteria: ['250','PROSPECT P', 'CORONADO','92118']
+    },    
+    { 
+        name: "NOT AVAILABLE",
+        address: "230 PROSPECT PL., SUITE 250, CORONADO, CA, 92118",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['230','PROSPECT P','250', 'CORONADO','92118']
     },
+    
     { 
         name: "SHARP COMMUNITY MEDICAL GROUP",
         address: "131 ORANGE AVE, SUITE 101B, CORONADO, CA, 92118",
@@ -1837,7 +1887,89 @@ let centers=[
         category: null,
         phone: '619-243-0663',
         criteria: ['3939','THIRD AV','DIEGO','92103']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "550 WASHINGTON ST , #641, SAN DIEGO , CA, 92103",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['550','WASHINGTON ST','641','DIEGO','92103']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "2240 PLAZA BLVD SUITE FG, NATIONAL CITY, CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2240','PLAZA B','FG','NATIONAL','91950']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "2240 E PLAZA BLVD, NATIONAL CITY, CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2240 E','PLAZA B','NATIONAL','91950']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "2427 TRANSPORTATION AVE, NATIONAL CITY, CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2427','TRANS','AV','NATIONAL','91950']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "1615 SWEETWATER RD, NATIONAL CITY, CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1615','SWEETWATER','NATIONAL','91950']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "5129 GARFIELD STREET, LA MESA, CA, 91941",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['5129','GARFIELD ST','MESA','91941']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "1767 E MAIN ST, EL CAJON, CA, 92021",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1767 E','MAIN ST','CAJON','92021']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "2999 HEALTH CENTER DR, SAN DIEGO, CA, 92123",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2999','HEALTH C','DIEGO','92123']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "8901 ACTIVITY RD, SAN DIEGO, CA, 92126",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['8901','ACTIVITY R','DIEGO','92126']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "3638 UNIVERSITY AVENUE, SUITE 221, RIVERSIDE, CA, 92501",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3638','UNIVERSITY AV','221','RIVERSIDE','92501']
     }
+
+    
     
     
     
