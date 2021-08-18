@@ -10,23 +10,25 @@ let csv_row = {};
 let rows = 1;
 
 //encabezados del csv
-csv_row["Event_Date"] = "Event Date";
-csv_row["Start_Time"] = "Start Time";
-csv_row["Appointment_Time"] = "Appointment Time";
-csv_row["DOB"] = "DOB";
-csv_row["Sex"] = "Sex";
-csv_row["Phone"] = "Phone";
-csv_row["Event_Location_Information"] = "Event Location Information";
-csv_row["Client_Code"] = "Client Code";
-csv_row["Participant"] = "Participant";
-csv_row["Resource_Name"] = "Resource Name";
-csv_row["Event_reason"] = "Event reason";
-csv_row["Address"] = "Address";
-csv_row["Verification"] = "Verification"
-csv_row["Origin"] = "Origin";
-csv_row["Destiny"] = "Destiny"
-csv_rows.push(csv_row);
-csv_row = {};
+// csv_row["Event_Date"] = "Event Date";
+// csv_row["Start_Time"] = "Start Time";
+// csv_row["Appointment_Time"] = "Appointment Time";
+// csv_row["DOB"] = "DOB";
+// csv_row["Sex"] = "Sex";
+// csv_row["Phone"] = "Phone";
+// csv_row["Event_Location_Information"] = "Event Location Information";
+// csv_row["Client_Code"] = "Client Code";
+// csv_row["Participant"] = "Participant";
+// csv_row["Resource_Name"] = "Resource Name";
+// csv_row["Event_reason"] = "Event reason";
+// csv_row["Address"] = "Address";
+// csv_row["Verification"] = "Verification"
+// csv_row["Origin"] = "Origin";
+// csv_row["Destiny"] = "Destiny"
+// csv_row["eli"] = "eli"
+// csv_row["er"] = "er"
+// csv_rows.push(csv_row);
+// csv_row = {};
 
 fs.createReadStream('out.csv')
     .pipe(csv())
@@ -85,6 +87,13 @@ fs.createReadStream('out.csv')
                     case "Destination":
                         csv_row["Destination"] = "Destination"
                         break;
+                    case "eli":
+                        csv_row["eli"] = row["eli"];
+                        break;
+                    case "er":
+                        csv_row["er"] = row["er"];
+                        break;
+                            
                     case "Event_Reason":
                         let temp = "";
                         let flipped = false;
@@ -719,6 +728,17 @@ fs.createReadStream('out.csv')
                             console.log(`--------->PICK UP AT 841 KUHN DRIVE , SUITE 201, CHULA VISTA, CA, 91914 `);
                             flipped = true;
                         }
+                        else if ((reason.includes('PICK UP')) && (reason.includes('541 S')) && (reason.includes('V AV')) && (reason.includes('NATIONAL')) && (reason.includes('91950')) && (flipped === false)) {
+                            console.log(chalk.greenBright(`---->Condición 78`));
+                            console.log(`Participant--> ${row["Participant"]}`);
+                            csv_row["Event_Reason"] = row["Address"];
+                            csv_row["Address"] = "541 S V AVE, NATIONAL CITY, CA, 91950";
+                            csv_row["Verification"] = csv_row["Verification"] + " DESTINY address flipped ";
+                            console.log(`--------->PICK UP AT 541 S V AVE, NATIONAL CITY, CA, 91950 `);
+                            flipped = true;
+                        }
+                        // else if ((event.includes('541 S')) && (event.includes('V AV'))&& (event.includes('NATIONAL'))&& (event.includes('91950')) && (flipped === false)) {
+         
 
                         else if (((reason.includes('@DIALYSIS GOING HOME')) || reason.includes('@ DIALYSIS GOING HOME') || reason.includes('AT DIALYSIS GOING HOME') || reason.includes('GOING HOME'))  && (flipped === false)) {
                             //  AQUI ESTAMOS BUSCANDO LA DIRECCION EN LA COLUMNA Event_Location_Information
@@ -763,7 +783,7 @@ fs.createReadStream('out.csv')
                                     console.log(`Condición 51`);
                                     console.log(`Participant--> ${row["Participant"]}`);
                                     csv_row["Event_Reason"] = row["Address"];
-                                    csv_row["Address"] = "3010 DEL SOL BLVD, SAN DIEGO, CA 92154";
+                                    csv_row["Address"] = "3010 DEL SOL BLVD, SAN DIEGO, CA, 92154";
                                     csv_row["Verification"] = csv_row["Verification"] + " DESTINY address flipped ";
                                     console.log(`---- ----->PT GOING HOME PICK UP AT 3010 DEL SOL BLVD SAN DIEGO, CA 92154`);
                                     flipped = true;
@@ -772,7 +792,7 @@ fs.createReadStream('out.csv')
                                     console.log(`Condición 57`);
                                     console.log(`Participant--> ${row["Participant"]}`);
                                     csv_row["Event_Reason"] = row["Address"];
-                                    csv_row["Address"] = "3010 DEL SOL BLVD, SAN DIEGO, CA 92154";
+                                    csv_row["Address"] = "3010 DEL SOL BLVD, SAN DIEGO, CA, 92154";
                                     csv_row["Verification"] = csv_row["Verification"] + " DESTINY address flipped ";
                                     console.log(`---- ----->PT GOING HOME PICK UP AT 3010 DEL SOL BLVD SAN DIEGO, CA 92154`);
                                     flipped = true;
@@ -781,11 +801,12 @@ fs.createReadStream('out.csv')
                                     console.log(`Condición 58`);
                                     console.log(`Participant--> ${row["Participant"]}`);
                                     csv_row["Event_Reason"] = row["Address"];
-                                    csv_row["Address"] = "3010 DEL SOL BLVD, SAN DIEGO, CA 92154";
+                                    csv_row["Address"] = "3010 DEL SOL BLVD, SAN DIEGO, CA, 92154";
                                     csv_row["Verification"] = csv_row["Verification"] + " DESTINY address flipped ";
                                     console.log(`---- ----->PT GOING HOME PICK UP AT 3010 DEL SOL BLVD SAN DIEGO, CA 92154`);
                                     flipped = true;
                                 }
+
                             }else{
                                 console.log(chalk.redBright('************************************************************************************ NO ADDRESS DETECTED'));
                                 csv_row["Verification"] = csv_row["Verification"] + " NO ADDRESS DETECTED ";
@@ -889,12 +910,13 @@ fs.createReadStream('out.csv')
                 { id: 'Sex', title: 'Sex' },
                 { id: 'Address', title: 'Address' },
                 { id: 'Phone', title: 'Phone' },
-                { id: 'Resource_Name', title: 'Resource_Name' },
                 { id: 'Event_Reason', title: 'Event_Reason' },
                 { id: 'Event_Location_Information', title: 'Event_Location_Information' },
                 { id: 'Verification', title: 'Verification' },
                 { id: 'Origin', title: 'Origin' },
-                { id: 'Destination', title: 'Destination' }
+                { id: 'Destination', title: 'Destination' },
+                { id: 'eli', title: 'eli' },
+                { id: 'er', title: 'er' }
 
             ]
         });

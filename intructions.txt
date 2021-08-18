@@ -1,7 +1,7 @@
 Pan, mostaza, jitomate, lechuga, pepinillos y huevo
 
 
-Proceres del desfalco, padres de la argucia , maestros de la maña, artiffices de la debacle financiera, versados en el arte del esquilmar  Erarios, degluten presupuestos y deyectan sus detritos a sus gobernados
+Proceres del desfalco, padres de la argucia , runfla de truhanes, maestros de la maña, artiffices de la debacle financiera, versados en el arte del esquilmar  Erarios que degluten presupuestos y deyectan sus detritos a sus gobernados
 
 
 Leer out.csv de 100 en 100
@@ -48,6 +48,7 @@ Pasaron mas de 1 hr en el vehicle?
 
 88515326 cancelar green peace
 
+El Cajon PACE						875 EL CAJON BLVD, EL CAJON, CA, 92020
 CV PACE					  			880 3RD AVENUE, CHULA VISTA, CA, 91911
 SAN DIEGO PACE 3		     		3364 BEYER BLVD, SAN YSIDRO, CA, 92173
 SY PACE 				     		3364 BEYER BLVD, SAN YSIDRO, CA, 92173
@@ -80,14 +81,30 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083
 									6402 EL CAJON BLVD STE 102 SD CA  92115 
 
 									REVISAR 340 4TH AVENUE , SUITE 4, CHULA VISTA, CA, 91910
-									LA 340 4TH AVENUE , SUITE 19, CHULA VISTA, CA, 91910
+									340 4TH AVENUE , SUITE 19, CHULA VISTA, CA, 91910
 									SALE COMO SUITE 4
 									752 MEDICAL CENTER CT., SUITE 207, CHULA VISTA, CA, 91911
 									3638 UNIVERSITY AVENUE, SUITE 221, RIVERSIDE, CA, 92501
 									4510 EXECUTIVE DR, SAN DIEGO, CA,92121
 									678 3RD AVE, CHULA VISTA, CA, 91910
 
+									340 E 8TH
+									PALM AV
+									4060 FOURTH
+									4060 4TH
+									303 47TH
+									VIA 
+									FLOOR
+									880-
 
+									UC SAN DIEGO HEALTH 330 LEWIS ST,SAN DIEGO, CA, 92103
+									SARJAN PATEL, MD 6945 EL CAJON BOULEVARD, EL CAJON, CA 92115, 619-445-2687
+									PER VALERIA, PULMONOLOGIST 655 EUCLID AVENUE,SUITE 206,NATINAL CITY CA 91950 W/DR.SAZON.
+									QUALITY INN & SUITES  930 W SAN YSIDRO BOULEVARD, SAN YSIDRO, CA, 92173
+									KIDNEY CARE BALBOA- KEARNY MESA 7927 OSTROW ST. SUITE A SAN DIEGO, CA 92111
+
+									Fresenius Kidney Care Raven Dialysis located at 499 Raven St San Diego, California 92102 phone: 619-263-1518. 
+							
 
 PREGUNTAR SOBRE LAS PARTICIPANTS CONDITIONS CON GARY MANANA
 
@@ -97,3 +114,6 @@ Hacer una nueva columna de LOCATION NAME
 HACER UNA NUEVA COLUMNA DE SPACE TYPE
 Hacer una nueva columna con  PRIMARY LANGUAGE
 REVISAR QUE LAS CITAS NO QUEDAN EN LA NOCHE
+
+
+CASTLE MANOR NURSING & REHABILITATION CENTER  541 S V AVE, NATIONAL CITY, CA 91950

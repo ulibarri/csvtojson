@@ -43,7 +43,7 @@ today = mm + '/' + dd + '/' + yyyy;
 // console.log(csv_row);
 csv_row = {};
 
-fs.createReadStream('June 11 CSV - June 11 CSV.csv')
+fs.createReadStream('August 19th Manifest - August 19th Manifest.csv')
     .pipe(csv())
     .on('data', (row) => {
         csv_row["Verification"] = '';
@@ -91,6 +91,7 @@ fs.createReadStream('June 11 CSV - June 11 CSV.csv')
                         break;
                     case "Event_Location_Information":
                         let event_location = row["Event_Location_Information"];
+                        csv_row["eli"] = row["Event_Location_Information"].toString().toUpperCase();
                         event_location=event_location.replace(/  +/g, ' ');//"remove multiple blank spaces"
                         console.log(`event_location=----> ${event_location}`)
                         //first remove phone number
@@ -331,10 +332,12 @@ fs.createReadStream('June 11 CSV - June 11 CSV.csv')
                     case "Event_Reason":
                         // let flipped = false;
                         csv_row["Event_Reason"] = row["Event_Reason"].toString().toUpperCase();
+                        csv_row["er"] = row["Event_Reason"].toString().toUpperCase();
                         csv_row["Event_Reason"]=csv_row["Event_Reason"].replace(/  +/g, ' ');//"remove multiple blank spaces"
-                    
+                        break;
 
-                    
+
+                       
                 }
             }
         }//for
@@ -375,12 +378,13 @@ fs.createReadStream('June 11 CSV - June 11 CSV.csv')
                 { id: 'Sex', title: 'Sex' },
                 { id: 'Address', title: 'Address' },
                 { id: 'Phone', title: 'Phone' },
-                { id: 'Resource_Name', title: 'Resource_Name' },
                 { id: 'Event_Reason', title: 'Event_Reason' },
                 { id: 'Event_Location_Information', title: 'Event_Location_Information' },
                 { id: 'Verification', title: 'Verification' },
                 { id: 'Origin', title: 'Origin' },
-                { id: 'Destination', title: 'Destination' }
+                { id: 'Destination', title: 'Destination' },
+                { id: 'eli', title: 'eli' },
+                { id: 'er', title: 'er' }
 
             ]
         });
