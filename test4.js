@@ -24,7 +24,7 @@ csv_row["Event_Location_Information"] = "Event Location Information";
 csv_row["Client_Code"] = "Client Code";
 csv_row["Participant"] = "Participant";
 csv_row["Resource_Name"] = "Resource Name";
-csv_row["Event_reason"] = "Event reason";
+csv_row["Event_Reason"] = "Event Reason";
 csv_row["Address"] = "Address";
 csv_row["Verification"] = "Verification"
 csv_row["Origin"] = "Origin";
@@ -75,7 +75,7 @@ let ptpArray=[];
 fs.createReadStream('out3.csv')
     .pipe(csv())
     .on('data', (row) => {
-        rows++;
+        // rows++;
         if ((row["Verification"].includes('DESTINY'))) {
             console.log(chalk.cyanBright(`${row["Client_Code"]} -> Fila procesada ----------", ${row["Verification"]}`));
             // csv_row
@@ -146,7 +146,7 @@ fs.createReadStream('out3.csv')
                         {
                         //     // console.log(chalk.yellowBright(`PTPID ---------------------------------->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]} Address--->${row["Address"]}`));
                             // csv_row["Destination"]= participant.address; //=row["Address"];
-                            // csv_row["Origin"]=row["Event_reason"];
+                            // csv_row["Origin"]=row["Event_Reason"];
                         // }
                         // else
                         // {
@@ -223,7 +223,7 @@ fs.createReadStream('out3.csv')
 
                         break;
                     case "Event_Reason":
-                        csv_row["Event_reason"] = row["Event_reason"];
+                        csv_row["Event_Reason"] = row["Event_Reason"];
                         break;
                     case "Verification":
                         csv_row["Verification"] = row["Verification"];                    
@@ -238,7 +238,7 @@ fs.createReadStream('out3.csv')
                     // case "Origin":
                     //     if ((row["Verification"].includes('DESTINY'))) 
                     //     {
-                    //         csv_row["Origin"]=row["Event_reason"];
+                    //         csv_row["Origin"]=row["Event_Reason"];
                     //     }else{
                     //         csv_row["Origin"]=participant.address;
                     //     }
@@ -248,7 +248,7 @@ fs.createReadStream('out3.csv')
                     //     {
                     //         csv_row["Destination"]= participant.address; //=row["Address"];
                     //     }else{
-                    //         csv_row["Destination"]=row["Event_reason"];
+                    //         csv_row["Destination"]=row["Event_Reason"];
                     //     }
                   
                     //     break;

@@ -83,7 +83,7 @@ fs.createReadStream('out2.csv')
         } //else 
         // { }//DESTINY
         // csv_row["Verification"] = '';
-        rows++;
+        // rows++;
         for (let key in row) {
            
             // console.log(chalk.red('verification-->',str));
@@ -139,8 +139,8 @@ fs.createReadStream('out2.csv')
                         csv_row["Resource_Name"] = row["Resource_Name"];
                         break;
                     case "Event_Reason":
-                        csv_row["Event_reason"] = row["Event_reason"];
-                        // console.log(chalk.yellowBright(`PTPID --->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]} Address--->${row["Address"]}`));
+                        csv_row["Event_Reason"] = row["Event_Reason"]; //aqui
+                        // consolelog(chalk.yellowBright(`PTPID --->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]} Address--->${row["Address"]}`));
                         // if(currentPtpID.includes('SDP000514')){
                         //     console.log(chalk.yellowBright(`PTPID --->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]} Address--->${row["Address"]}`));
                         // }
@@ -170,10 +170,11 @@ fs.createReadStream('out2.csv')
                             let i=0;
                             try {
                                 centers.forEach((data, index) =>{
-                                    // console.log(data.criteria);
+                                    // console.log('data content----------------------------->',data.criteria);
                                     data["criteria"].forEach(element => {
                                         if (currentCenterAddress.includes(element)){
                                             i++;
+                                            // console.log(`criteria ${element}  found`);
                                         }
                                         else{
                                          //console.log(`criteria ${element} not found`);
@@ -195,7 +196,7 @@ fs.createReadStream('out2.csv')
                                         if(i>=3) {
                                             console.log(chalk.magentaBright(`${data["name"]}--> ${i} out of ${data["criteria"].length} matching criteria`));
                                         }else{
-                                            // console.log(chalk.yellow(`${data["name"]}--> ${i} out of ${data["criteria"].length} matching criteria`));
+                                            //  console.log(chalk.yellow(`${data["name"]}--> ${i} out of ${data["criteria"].length} matching criteria`));
                                         }
                                         csv_row["Destination"] ="Destination";
                                         csv_row["er"] = "Destination";

@@ -12566,7 +12566,7 @@ let info= [
   {
     name: 'HOOD, JOHNNY',
     participantID: 'SDP559735',
-    address: [ '1433 GROVE AVE APT E,IMPERIAL BEACH,CA, 91932' ],
+    address: [ '1433 GROVE AVE, APT E,IMPERIAL BEACH,CA, 91932' ],
     criteria: [ '1433', 'GROVE A', ' E', 'IMPERIAL', '91932' ],
     category: null,
     wc: false,

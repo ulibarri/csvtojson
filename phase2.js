@@ -716,7 +716,7 @@ fs.createReadStream('out.csv')
                             csv_row["Event_Reason"] = row["Address"];
                             csv_row["Address"] = "3987 BATEMAN AVENUE, EXT 2120, SAN DIEGO, CA, 92154";
                             csv_row["Verification"] = csv_row["Verification"] + " DESTINY address flipped ";
-                            console.log(`--------->PICK UP AT 3987 BATEMAN AVENUE EXT 2120 SAN DIEGO, CA, 92154`);
+                            console.log(`--------->PICK UP AT 3987 BATEMAN AVENUE, EXT 2120, SAN DIEGO, CA, 92154`);
                             flipped = true;
                         }
                         else if ((reason.includes('PICK UP')) && (reason.includes('TAKE HER HOME')) && (reason.includes('841')) && (reason.includes('KUHN DRIVE')) && (reason.includes('201')) && (flipped === false)) {

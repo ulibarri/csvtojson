@@ -43,7 +43,7 @@ today = mm + '/' + dd + '/' + yyyy;
 // console.log(csv_row);
 csv_row = {};
 
-fs.createReadStream('August 19th Manifest - August 19th Manifest.csv')
+fs.createReadStream('out9.csv')
     .pipe(csv())
     .on('data', (row) => {
         csv_row["Verification"] = '';
@@ -93,6 +93,27 @@ fs.createReadStream('August 19th Manifest - August 19th Manifest.csv')
                         let event_location = row["Event_Location_Information"];
                         csv_row["eli"] = row["Event_Location_Information"].toString().toUpperCase();
                         event_location=event_location.replace(/  +/g, ' ');//"remove multiple blank spaces"
+                        // event_location=event_location.replace('SSN', 'SAN');
+                        // event_location=event_location.replace('VSITA', 'VISTA');
+                        // event_location=event_location.replace('CJAON', 'CAJON');
+                        // event_location=event_location.replace('DIEOG', 'DIEGO');
+                        // event_location=event_location.replace('YSDIRO', 'YSIDRO');
+                        // event_location=event_location.replace('SUIT 101', 'SUITE 101');
+                        // event_location=event_location.replace('SUIT 4', 'SUITE 4');
+                        // event_location=event_location.replace('920103', '92103');
+                        // event_location=event_location.replace('MEDWAY', 'MIDWAY');
+                        // event_location=event_location.replace('VAJJEY', 'VALLEY');
+                        // event_location=event_location.replace('CAMPUES', 'CAMPUS');
+                        // event_location=event_location.replace('CTIY', 'CITY');
+                        
+                        
+                        
+                        
+                        
+                        
+
+                        
+                        
                         console.log(`event_location=----> ${event_location}`)
                         //first remove phone number
 
