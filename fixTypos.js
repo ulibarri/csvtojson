@@ -53,7 +53,7 @@ let participant=
 let currentPtpID="";
 let currentCenterAddress="";
 let ptpArray=[];
-fs.createReadStream('Jan 17 Manifest - Jan 17 Manifest.csv')
+fs.createReadStream('manifest 6-14 - manifest 6-14.csv')
     .pipe(csv())
     .on('data', (row) => {
         // rows++;
@@ -74,11 +74,19 @@ fs.createReadStream('Jan 17 Manifest - Jan 17 Manifest.csv')
                     case "Participant":
                         csv_row["Participant"] =row["Participant"];
                         participant.name=row["Participant"];
+                        if(participant.name.indexOf ('SDP564748')>0){
+                            console.log(chalk.bgBlueBright(`--------------------------------->SDP564748`));
+                        }
                         break;
                     case "Client_Code":
+                        //en esta version del archivo, esta columna NO EXISTE
                         csv_row["Client_Code"] =row["Client_Code"];
                         participant.participantID=row["Client_Code"];
                         currentPtpID= row["Client_Code"];
+                        // console.log(chalk.bgBlueBright(`New address --------------------------------------------->${currentPtpID}`));
+                        // if (currentPtpID=='SDP564748'){
+                        //     console.log(chalk.bgBlueBright(`New address --------------------------------------------->SDP564748`));
+                        // }
                         break;
                     case "DOB":
                         csv_row["DOB"] = row["DOB"];
@@ -90,6 +98,7 @@ fs.createReadStream('Jan 17 Manifest - Jan 17 Manifest.csv')
                         break;
                     case "Address":
                         // csv_row["Address"] =row["Address"];
+                        
                         console.log(chalk.bgMagenta(`---------------------------->${row["Address"]}`));
                         csv_row["Address"] = fixer( row["Address"]);
                         console.log(chalk.bgMagenta(`New address ---------------->${csv_row["Address"]}`));
@@ -97,6 +106,7 @@ fs.createReadStream('Jan 17 Manifest - Jan 17 Manifest.csv')
                         participant.address.push( row["Address"]);
                         break;
                     case "Phone":
+                        
                         csv_row["Phone"] = row["Phone"];
                         participant.phone=row["Phone"]
                         break;
@@ -106,6 +116,7 @@ fs.createReadStream('Jan 17 Manifest - Jan 17 Manifest.csv')
                     case "Event_Location_Information":
                         let vacia=false;
                         csv_row["Event_Location_Information"] =row["Event_Location_Information"];     
+                        
                         let cad =   csv_row["Event_Location_Information"];             
                         //convertimos a mayuscula
                         cad=cad.toUpperCase();
@@ -156,6 +167,7 @@ fs.createReadStream('Jan 17 Manifest - Jan 17 Manifest.csv')
 
                         csv_row["Event_Reason"] = row["Event_Reason"];
                         let cad2 =   csv_row["Event_Reason"];
+                    
                         
                         if (cad2)
                         {

@@ -21,10 +21,19 @@
 
 
 
-
+const chalk = require('chalk');
 const addressParser = require('./addressParser');
-let addresParser= require('./addressParser');
+// let addresParser= require('./addressParser');
 
-let address = '1415 RIDGEBACK RD, SUITE 1, CHULA VISTA, CA, 28010';
+let address = '6MONTH RE-ASSESSMENT ORDERS';
 // console.log(`La direccion buscada es: ${address}`);
-console.log(`La direccion es: ${addressParser(address)}`);
+let retVal=addressParser(address);
+if (retVal=='NOT FOUND'){
+    console.log(chalk.redBright(retVal));
+}else{
+    // console.log(chalk.greenBright(`ADDRESS FOUND: ${addressParser(address)}`));
+    console.log(chalk.greenBright(retVal));
+}
+
+
+

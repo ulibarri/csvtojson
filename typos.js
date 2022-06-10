@@ -139,7 +139,7 @@ module.exports=[
     replacement:'SUITE 101, LA MESA'},
     {typo: 'BUILDING 3, SUITE 101 & 154LA MESA',
     replacement:'SUITE 101, LA MESA'},
-    {typo: 'BUILDING 3',
+    {typo: ' BUILDING ',
     replacement:' '},
     {typo: 'SUITE 112EL CAJON',
     replacement:'SUITE 112, EL CAJON'},
@@ -213,6 +213,115 @@ module.exports=[
     replacement:'1840 WEST DR, VISTA, CA, 92083'},
     {typo: '2095 WEST VISTA WAY VISTA, CA, 92083',
     replacement:'1840 WEST DR, VISTA, CA, 92083'},
+    {typo: '5565 GROSSMONT CENTER DR 1 SUITE 211',
+    replacement:'5565 GROSSMONT CENTER DRIVE, SUITE 221'},
+    {typo: '1620 ALPINE BLVD SUITE 110 ALPINE CA. 91910',
+    replacement:'1620 ALPINE BLVD, SUITE 110, ALPINE, CA, 91901'},
+    {typo: '3855 HEALTH SCIENCE DR',
+    replacement:'3855 HEALTH SCIENCES DR'},
+    {typo: '321 E STREET CHULA VISTA CA 91911',
+    replacement:'321 E STREET CHULA VISTA CA 91910'},
+    {typo: 'NATIONAL CITY CA 919150',
+    replacement:'NATIONAL CITY CA 91950'},
+    {typo: '408 DICKINSON DR.',
+    replacement:'408 DICKINSON ST,'},
+    {typo: '751 MEDICAL CENTER CT. 751 MEDICAL CENTER CT., CA 91911 ',
+    replacement:'751 MEDICAL CENTER COURT, CHULA VISTA, CA, 91911'},
+    {typo: '751 MEDICAL CENTER CT. , CA, 91911',
+    replacement:'751 MEDICAL CENTER COURT, CHULA VISTA, CA, 91911'},
+    {typo: '211CHULA',
+    replacement:'211, CHULA'},
+    {typo: '570 S. MOLLISON ST, #1, , C',
+    replacement:'570 SOUTH MOLLISON ST, #1C'},
+    {typo: '1845 E 12TH ST, NATIONAL CITY , CA 92021',
+    replacement:'1845 E 12TH ST, NATIONAL CITY, CA, 91950'},
+    {typo: '3364 BEYER BLVD #102 SAN DIEGO',
+    replacement:'3364 BEYER BLVD #102 SAN YSIDRO'},
+    {typo: 'BEYER BLVD SD 92173',
+    replacement:'BEYER BLVD, SAN DIEGO, 92173'},
+    {typo: 'STEET',
+    replacement:'STREET'},
+    {typo: '4150 REGENTS PARK ROW, STE 195 LA JOLLA, CA, 92 320',
+    replacement:'4150 REGENTS PARK ROW, STE 195, LA JOLLA, CA, 92037'},
+    {typo: '303 Hst',
+    replacement:'303 H ST'},
+    {typo: '830 BROADWAY APT 40 ELCAJON, CA 92021',
+    replacement:'830 BROADWAY, UNIT 40,EL CAJON, CA, 92021'},
+    {typo: '704 E GRAND ESCONDIDO 92025',
+    replacement:'704 E GRAND AVE, ESCONDIDO, CA, 92025'},
+    {typo: 'VITSA',
+    replacement:'VISTA'},
+    {typo: 'GENESSE',
+    replacement:'GENESEE'},
+    {typo: '1535 E PLAZA BLVD APT 211 NATIONAL, CA 91950',
+    replacement:'1535 E PLAZA BLVD, APT 211, NATIONAL CITY, CA, 91950'},
+    {typo: 'GENESEEE',
+    replacement:'GENESEE'},
+    {typo: '303 HST',
+    replacement:'303 H ST'},
+    {typo: 'APT 211 NATIONAL, CA',
+    replacement:'APT 211 NATIONAL CITY, CA'},
+    {typo: '704 E GRAND ESCONDIDO',
+    replacement:'704 E GRAND AVE, ESCONDIDO'},
+    {typo: 'CAMOUS P',
+    replacement:'CAMPUS P'},
+    {typo: '5565 GROSSMONT CENTER DRIVE 3',
+    replacement:'5565 GROSSMONT CENTER DR'},
+    {typo: '4303 VILLAGE DR',
+    replacement:'4303 LA JOLLA VILLAGE DR'},
+    {typo: 'CHULA VITA',
+    replacement:'CHULA VISTA'},
+    {typo: '754 MEDICAL CT COURT',
+    replacement:'754 MEDICAL CENTER CT'},
+    {typo: 'SUITE 106 SD, CA',
+    replacement:'SUITE 106, SAN DIEGO, CA'},
+    {typo: 'PADUA HLS',
+    replacement:'PADUA HILLS'},
+    {typo: 'CENTER DRIVE SD CA',
+    replacement:'CENTER DRIVE, SAN DIEGO, CA'},
+    {typo: '950 EUCLID',
+    replacement:'950 S EUCLID'},
+    {typo: ' SY CA',
+    replacement:' SAN YSIDRO, CA'},
+    {typo: 'CHUVISTA',
+    replacement:'CHULA VISTA'},
+    {typo: '2999 HEALTH CTR DRIVE SD',
+    replacement:'2999 HEALTH CTR DRIVE SAN DIEGO'},
+    {typo: 'SOSTICE',
+    replacement:'SOLSTICE'},
+    {typo: 'SANTE FE DR',
+    replacement:'SANTA FE DR'},
+    {typo: '200 ARBOR DRIVE',
+    replacement:'200 WEST ARBOR DR'},
+    {typo: '1111 BROADWAY #305',
+    replacement:'1111 BROADWAY AV #305'},
+    {typo: '1111 BROADWAY 305',
+    replacement:'1111 BROADWAY AV #305'},
+    {typo: '1111 BROADWAY SUITE 305',
+    replacement:'1111 BROADWAY AV #305'},
+    {typo: 'CHUL VISTA',
+    replacement:'CHULA VISTA'},
+    {typo: 'COVINA STREET MIRA MESA',
+    replacement:'COVINA STREET, MESA'},
+    {typo: '754 MEDICAL CENTER DRIVE',
+    replacement:'754 MEDICAL CENTER CT'},
+    {typo: '4510 EXECUTIVE DRIVE, SAN DIEGO, CA, 92921',
+    replacement:'4510 EXECUTIVE DRIVE, SAN DIEGO, CA, 92121'},
+    {typo: '9000 WAKARUSA DR',
+    replacement:'9000 WAKARUSA ST'},
+    {typo: 'SUITE 360 SD',
+    replacement:'SUITE 360, SAN DIEGO'},
+    {typo: '9400 CAMPUS DRIVE',
+    replacement:'9400 CAMPUS POINT DRIVE'},
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -222,40 +331,12 @@ module.exports=[
 
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     
 
 
     
-    
-    
-    
 
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
     
     
         

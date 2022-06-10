@@ -2,10 +2,10 @@
 let info= require('./centers');
 
 const chalk = require('chalk');
+const addressParser = require('./addressParser');
 
 
-
-// este codigo procesa Event_reason
+// este codigo procesa Event_Location_Information
 
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 const csv = require('csv-parser');
@@ -25,16 +25,15 @@ let csv_row = {};
 // csv_row["Client_Code"] = "Client Code";
 // csv_row["Participant"] = "Participant";
 // csv_row["Resource_Name"] = "Resource Name";
-// csv_row["Event_reason"] = "Event reason";
+// csv_row["Event_Reason"] = "Event Reason";
 // csv_row["Address"] = "Address";
 // csv_row["Verification"] = "Verification"
 // csv_row["Origin"] = "Origin";
 // csv_row["Destination"] = "Destination";
 // csv_row["eli"] = "eli";
 // csv_row["er"] = "er";
-
 // csv_rows.push(csv_row);   //metemos el encabezado
-// csv_row = {};
+csv_row = {};
 
 let rows = 0;
 csv_row = {};
@@ -74,16 +73,17 @@ let participant=
 let currentPtpID="";
 let currentCenterAddress="";
 let ptpArray=[];
-fs.createReadStream('out2.csv')
+fs.createReadStream('out4.csv')
     .pipe(csv())
     .on('data', (row) => {
+        // rows++;
         if ((row["Verification"].includes('DESTINY'))) {
             console.log(chalk.cyanBright(`${row["Client_Code"]} -> Fila procesada ----------", ${row["Verification"]}`));
             // csv_row
         } //else 
         // { }//DESTINY
         // csv_row["Verification"] = '';
-        // rows++;
+        
         for (let key in row) {
            
             // console.log(chalk.red('verification-->',str));
@@ -104,6 +104,7 @@ fs.createReadStream('out2.csv')
                         participant.name=row["Participant"];
                         break;
                     case "Client_Code":
+                        console.log("Client_Code->",row["Client_Code"])    
                         csv_row["Client_Code"] =row["Client_Code"];
                         participant.participantID=row["Client_Code"];
                         currentPtpID= row["Client_Code"];
@@ -117,18 +118,7 @@ fs.createReadStream('out2.csv')
                         participant.gender=row["Sex"];
                         break;
                     case "Address":
-                        // csv_row["Address"] =row["Address"];
-                        if ((row["Verification"].includes('DESTINY'))) 
-                        {
-                            csv_row["Origin"] =row["Address"];
-                            csv_row["Destination"] =row["Event_Reason"];
-
-                        }
-                        else{
-                            csv_row["Address"] =row["Address"];
-                            csv_row["Origin"] =row["Address"];
-
-                        }
+                        csv_row["Address"] =row["Address"];
                         participant.address.push( row["Address"]);
                         break;
                     case "Phone":
@@ -138,107 +128,54 @@ fs.createReadStream('out2.csv')
                     case "Resource_Name":
                         csv_row["Resource_Name"] = row["Resource_Name"];
                         break;
-                    case "Event_Reason":
-                        csv_row["Event_Reason"] = row["Event_Reason"]; //aqui
-                        // consolelog(chalk.yellowBright(`PTPID --->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]} Address--->${row["Address"]}`));
-                        // if(currentPtpID.includes('SDP000514')){
-                        //     console.log(chalk.yellowBright(`PTPID --->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]} Address--->${row["Address"]}`));
-                        // }
-                        if ((row["Verification"].includes('DESTINY'))) 
-                        {
-                            // console.log(chalk.yellowBright(`PTPID ---------------------------------->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]} Address--->${row["Address"]}`));
-                            // csv_row["Destination"]= participant.address; //=row["Address"];
-                            // csv_row["Origin"]=row["Event_reason"];
-                        }
-                        else
-                        {
-                            // if(currentPtpID.includes('SDP000582')){
-                            //     // console.log(chalk.bgCyanBright("-------------------------------------------------------------------------------------------------------->SDP000582"));
-                            //     console.log(`Row# --> ${rows}  PTPID --->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]}
-                            // Verification--->${row["Verification"]}`);
-                            // }
-                            // else{
-                            //     console.log(`Row# --> ${rows}  PTPID --->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]}
-                            // Verification--->${row["Verification"]}`);
-                            // }
-                            console.log(`Row# --> ${rows}  PTPID --->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]}
-                            Verification--->${row["Verification"]}`);
-
-                            currentCenterAddress=row["Event_Reason"];
-                            //  let ptp = info.find(el => el.participantID === currentPtpID);
-                            let found = false;
-                            let i=0;
-                            try {
-                                centers.forEach((data, index) =>{
-                                    // console.log('data content----------------------------->',data.criteria);
-                                    data["criteria"].forEach(element => {
-                                        if (currentCenterAddress.includes(element)){
-                                            i++;
-                                            // console.log(`criteria ${element}  found`);
-                                        }
-                                        else{
-                                         //console.log(`criteria ${element} not found`);
-                                        }
-        
-                                    });
-                                    if (i ==data["criteria"].length){
-                                        console.log(chalk.greenBright(`${data["name"]}--------->${i} out of ${data["criteria"].length} matching criteria, address = ${data["address"]}`));
-                                    
-                                        participant.Event_Reason=data["address"];
-                                        csv_row["Destination"] =data["address"];
-                                        csv_row["er"] = data["address"];
-                                        found=true;
-                                        if (i ==data["criteria"].length){
-                                            throw BreakException;
-                                        }
-
-                                    }else{
-                                        if(i>=4) {  //muestra los que cumplen con 4 o mas criterios pero que NO son un match
-                                            console.log(chalk.magentaBright(`${data["name"]}--> ${i} out of ${data["criteria"].length} matching criteria`));
-                                        }else{
-                                            //  console.log(chalk.yellow(`${data["name"]}--> ${i} out of ${data["criteria"].length} matching criteria`));
-                                        }
-                                        csv_row["Destination"] ="Destination";
-                                        csv_row["er"] = "Destination";
-                                    }
-                                    i=0;
-
-                                });
-
-                                if (found=== false){
-                                    console.log(chalk.redBright('---------------------------------------------> CENTER NAME NOT FOUND'));
-                                }
-                                found=false;
-                            
-                            } catch (error) {
-                                // if (error !== BreakException) throw e;
-                            }
-                        }
-                        csv_row["Event_reason"] = row["Event_reason"];
-                        break;
                     case "Event_Location_Information":
-                        csv_row["Event_Location_Information"] =row["Event_Location_Information"];                    
+                        csv_row["Event_Location_Information"] =row["Event_Location_Information"]; 
+                        
+                        let data_eli=row["Event_Location_Information"];
+                        // console.log("Event_Location_Information->",data_eli) 
+                        let res_eli =   addressParser(data_eli);   
+                        csv_row["eli"] = res_eli;              
+                        break;
+                    case "Event_Reason":
+                        csv_row["Event_Reason"] = row["Event_Reason"];
+                        let data_er=row["Event_Reason"];
+                        // console.log("Event_Reason->",data_er)
+                        let res_er =   addressParser(data_er);
+                        csv_row["er"] = res_er;
+
                         break;
                     case "Verification":
                         csv_row["Verification"] = row["Verification"];                    
                         break;
+                    case "er":
+                          
+                        break;
+                    case "eli":
+                         
+                        break;
+                    case "Origin":
+                        csv_row["Origin"]=row["Origin"];      
+                    //     let origin = row["Origin"].toString();
+                    //     origin=origin.replace('CA 9', 'CA, 9');
+                        break;
                     // case "Origin":
                     //     if ((row["Verification"].includes('DESTINY'))) 
                     //     {
-                    //         csv_row["Origin"]=row["Event_reason"];
+                    //         csv_row["Origin"]=row["Event_Reason"];
                     //     }else{
                     //         csv_row["Origin"]=participant.address;
                     //     }
                     //     break;
-                    // case "Destination":
+                    case "Destination":
+                        csv_row["Destination"]=row["Destination"];      
                     //     if ((row["Verification"].includes('DESTINY'))) 
                     //     {
                     //         csv_row["Destination"]= participant.address; //=row["Address"];
                     //     }else{
-                    //         csv_row["Destination"]=row["Event_reason"];
+                    //         csv_row["Destination"]=row["Event_Reason"];
                     //     }
                   
-                    //     break;
+                        break;
                     
                 }//SWITCH
      
@@ -286,7 +223,7 @@ fs.createReadStream('out2.csv')
         console.log('CSV file successfully processed');
 
         const csvWriter = createCsvWriter({
-            path: 'out3.csv',
+            path: 'out6.csv',
             header: [
                 { id: 'Event_Date', title: 'Event_Date' },
                 { id: 'Start_Time', title: 'Start_Time' },
@@ -305,6 +242,7 @@ fs.createReadStream('out2.csv')
                 { id: 'Destination', title: 'Destination' },
                 { id: 'eli', title: 'eli' },
                 { id: 'er', title: 'er' }
+
 
             ]
         });

@@ -2,6 +2,7 @@
 let info= require('./centers');
 
 const chalk = require('chalk');
+const addressParser = require('./addressParser');
 
 
 // este codigo procesa Event_Location_Information
@@ -138,7 +139,8 @@ fs.createReadStream('out3.csv')
                         csv_row["Resource_Name"] = row["Resource_Name"];
                         break;
                     case "Event_Location_Information":
-                        csv_row["Event_Location_Information"] =row["Event_Location_Information"];                    
+                        csv_row["Event_Location_Information"] =row["Event_Location_Information"]; 
+                        // csv_row["eli"]=    addressParser(row["Event_Location_Information"]);               
                         // if(currentPtpID.includes('SDP000514')){
                         //    console.log(chalk.yellowBright(`PTPID --->${currentPtpID}   Event_Reason ---->, ${row["Event_Reason"]} Address--->${row["Address"]}`));
                         // }
@@ -185,7 +187,7 @@ fs.createReadStream('out3.csv')
 
 
                                         csv_row["Destination"] =data["address"];
-
+                                        // aqui sacamos el ELI
                                         csv_row["eli"] =csv_row["Destination"];    
 
                                         
@@ -203,6 +205,7 @@ fs.createReadStream('out3.csv')
                                             // console.log(chalk.yellow(`${data["name"]}--> ${i} out of ${data["criteria"].length} matching criteria`));
                                         }
                                         csv_row["Destination"] ="Destination not found";
+                                    //    aqui sacamos el ELI
                                         csv_row["eli"] ="Destination not found";
                                     }
                                     i=0;
@@ -224,12 +227,14 @@ fs.createReadStream('out3.csv')
                         break;
                     case "Event_Reason":
                         csv_row["Event_Reason"] = row["Event_Reason"];
+                        // console.log(`Event reason=${row["Event_Reason"]}`);
+                        // csv_row["er"] = addressParser(row["Event_Reason"]);               
                         break;
                     case "Verification":
                         csv_row["Verification"] = row["Verification"];                    
                         break;
                     case "er":
-                        csv_row["er"] = row["er"];
+                        
                         break;
                     // case "Origin":
                     //     let origin = row["Origin"].toString();
