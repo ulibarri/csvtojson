@@ -313,6 +313,12 @@ module.exports=[
     replacement:'SUITE 360, SAN DIEGO'},
     {typo: '9400 CAMPUS DRIVE',
     replacement:'9400 CAMPUS POINT DRIVE'},
+    {typo: '345 FST',
+    replacement:'345 F ST'},
+    {typo: '880 3RD AVE CV 91911',
+    replacement:'880 3RD AVE, CHULA VISTA, CA, 91911'},
+    
+    
     
     
     

@@ -76,7 +76,7 @@ let ptpArray=[];
 fs.createReadStream('out4.csv')
     .pipe(csv())
     .on('data', (row) => {
-        // rows++;
+        //  rows++;
         if ((row["Verification"].includes('DESTINY'))) {
             console.log(chalk.cyanBright(`${row["Client_Code"]} -> Fila procesada ----------", ${row["Verification"]}`));
             // csv_row
@@ -185,6 +185,7 @@ fs.createReadStream('out4.csv')
         participants.push(participant);
         csv_rows.push(csv_row);
         csv_row = {};
+        console.log(`Row number---->${rows}`)
         rows++;
         participant= {
             name: '',

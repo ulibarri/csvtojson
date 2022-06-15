@@ -365,7 +365,16 @@ let centers=[
         abbrev: "UCSD ORTHOPEDICS",
         category: "ORTHOPEDICS",
         phone:"858-657-8200",
-        criteria: ['200 W','ARBOR','201','DIEGO','92103']
+        criteria: ['200 W','ARBOR',' 201','DIEGO','92103']
+    },
+    {   
+        name: "UCSD",
+        address: "200 W ARBOR DR, SUITE 411, SAN DIEGO, CA, 92103",
+        reference:'200 W ARBOR DR, BASEMENT LEVEL, SUITE 210,SOUTH WING, SAN DIEGO, CA, 92103',
+        abbrev: null,
+        category: null,
+        phone:'858-657-8590',
+        criteria: ['200 W','ARBOR','411','DIEGO','92103']
     },
     {   
         name: "UCSD",
@@ -374,7 +383,7 @@ let centers=[
         abbrev: null,
         category: null,
         phone:'858-657-8590',
-        criteria: ['200 W','ARBOR','210','DIEGO','92103']
+        criteria: ['200 W','ARBOR',' 210','DIEGO','92103']
     },
     {   
         name: "UCSD ORTHOPEDICS",
@@ -538,7 +547,7 @@ let centers=[
         abbrev: null,
         category: "PERIODONTICS",
         phone: null,
-        criteria: ['345 F','ST','240','CHULA','91910']
+        criteria: ['345 F',' ST','240','CHULA','91910']
     },
     {
         name: "SOUTH BAY FOOT AND ANKLE",
@@ -546,7 +555,7 @@ let centers=[
         abbrev: null,
         category: null,
         phone: '619-427-3481',
-        criteria: ['345 F','ST','100','CHULA','91910']
+        criteria: ['345 F',' ST','100','CHULA','91910']
     },
     {
         name: "CVTS MEDICAL GROUP, INC",
@@ -554,7 +563,7 @@ let centers=[
         abbrev: null,
         category: null,
         phone: '619-421-1111',
-        criteria: ['345 F','ST','200','CHULA','91910']
+        criteria: ['345 F',' ST','200','CHULA','91910']
     },
     {
         name: "THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
@@ -689,7 +698,7 @@ let centers=[
     },
     {
         name: "HEARING AID IMPRESSIONS- SONUS 07",
-        address: "310 THIRD AVE, STE B21, CHULA VISTA, CA, 91910-3965",
+        address: "310 THIRD AVE, STE B21, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVE, STE C11, 3RD FLOOR, CHULA VISTA, CA, 91910-3965",
         abbrev: null,
         category: "HEARING",
@@ -714,7 +723,7 @@ let centers=[
     } ,
     {
         name: "HEARING AID IMPRESSIONS- SONUS 07",
-        address: "310 THIRD AVE, STE B21, CHULA VISTA, CA, 91910-3965",
+        address: "310 THIRD AVE, STE B21, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVE, STE C11, 3RD FLOOR, CHULA VISTA, CA, 91910-3965",
         abbrev: null,
         category: "HEARING",
@@ -723,7 +732,7 @@ let centers=[
     },
     {
         name: "SONUS 07",
-        address: "310 THIRD AVE, STE C11, CHULA VISTA, CA, 91910-3965",
+        address: "310 THIRD AVE, STE C11, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVE, STE C11, 3RD FLOOR, CHULA VISTA, CA, 91910-3965",
         abbrev: null,
         category: "HEARING",
@@ -732,7 +741,7 @@ let centers=[
     },
     {
         name: "SONUS 07",
-        address: "310 THIRD AVE, STE C11, CHULA VISTA, CA, 91910-3965",
+        address: "310 THIRD AVE, STE C11, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVE, STE C11, 3RD FLOOR, CHULA VISTA, CA, 91910-3965",
         abbrev: null,
         category: "HEARING",
@@ -2013,7 +2022,7 @@ let centers=[
     },
     {
         name: "SCRIPPS MEMORIAL HOSPITAL",
-        address: "435 H ST, CHULA VISTA, CA, 91910-4307",
+        address: "435 H ST, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: 'COLONOSCOPY',
         phone: null,
@@ -2022,11 +2031,11 @@ let centers=[
     },
     {
         name: "SCRIPPS MEMORIAL HOSPITAL",
-        address: "435 H ST, CHULA VISTA, CA, 91910-4307",
+        address: "435 H ST, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: 'COLONOSCOPY',
         phone: null,
-        criteria: ['435 H','ST', 'CHULA','91910']
+        criteria: ['435 H',' ST', 'CHULA','91910']
 
     },
     {
@@ -4010,6 +4019,13 @@ let centers=[
         criteria: ['8010','FROST S','604','DIEGO', '92123']
     },
     { 
+        name: "BALBOA NEPHROLOGY--FROST STREET-SAN DIEGO",
+        address: "8010 FROST ST, SAN DIEGO, CA, 92123",
+        abbrev: null,
+        category: 'ORTHO',
+        phone: '619 576-9901',
+        criteria: ['8010','FROST S','DIEGO', '92123']
+    },    { 
         name: "SHARP MEMORIAL HOSPITAL",
         address: "808 FROST ST, SAN DIEGO, CA, 92123",
         abbrev: null,
@@ -5364,9 +5380,34 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['619','CROUCH S', '100','OCEANSIDE','92054']
+    },
+    { 
+        name: "PHYSICAL THERAPY ESCONDIDO",
+        address: "2420 VISTA WAY, #215, OCEANSIDE, CA, 92054",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2420','VISTA W', '215','OCEANSIDE','92054']
+    },
+    { 
+        name: "HUNTINGTON MANOR",
+        address: "14755 BUDWIN LN, APT 4, POWAY, CA, 92064",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['14755','BUDWIN L', '#4','POWAY','92064']
+    },
+    { 
+        name: "HUNTINGTON MANOR",
+        address: "14755 BUDWIN LN, APT 4, POWAY, CA, 92064",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['14755','BUDWIN L', 'APT 4','POWAY','92064']
     }
     
     
+     
     
     
     
