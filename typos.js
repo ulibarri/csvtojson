@@ -317,6 +317,8 @@ module.exports=[
     replacement:'345 F ST'},
     {typo: '880 3RD AVE CV 91911',
     replacement:'880 3RD AVE, CHULA VISTA, CA, 91911'},
+    {typo: '655 EUCLID',
+    replacement:'655 S EUCLID'},
     
     
     

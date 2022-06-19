@@ -500,7 +500,7 @@ let centers=[
     },
     {
         name: "SOUTH BAY PULMONARY",
-        address: "841 KUHN DR, SUITE 200, CHULA VISTA, CA, 91914-4523",
+        address: "841 KUHN DR, SUITE 200, CHULA VISTA, CA, 91914",
         abbrev: null,
         category: "PULMONARY",
         phone: '619-623-3816',
@@ -508,7 +508,7 @@ let centers=[
     },
     {
         name: "SOUTH BAY PULMONARY",
-        address: "841 KUHN DR, SUITE 200, CHULA VISTA, CA, 91914-4523",
+        address: "841 KUHN DR, SUITE 200, CHULA VISTA, CA, 91914",
         abbrev: null,
         category: "PULMONARY",
         phone: '619-623-3816',
@@ -3533,7 +3533,7 @@ let centers=[
     },
     { 
         name: "DR. PATEL",
-        address: "2240 PLAZA BLVD SUITE FG, NATIONAL CITY, CA, 91950",
+        address: "2240 E PLAZA BLVD SUITE FG, NATIONAL CITY, CA, 91950",
         abbrev: null,
         category: null,
         phone: null,
@@ -3541,7 +3541,7 @@ let centers=[
     },
     { 
         name: "DR. PATEL",
-        address: "2240 PLAZA BLVD SUITE F/G, NATIONAL CITY, CA, 91950",
+        address: "2240 E PLAZA BLVD SUITE F/G, NATIONAL CITY, CA, 91950",
         abbrev: null,
         category: null,
         phone: null,
@@ -5404,6 +5404,14 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['14755','BUDWIN L', 'APT 4','POWAY','92064']
+    },
+    { 
+        name: "DENTAL PERFECT SMILE",
+        address: "4710 RUFFNER ST, SAN DIEGO, CA, 92111",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['4710', 'RUFFNER S','DIEGO','92111']
     }
     
     
