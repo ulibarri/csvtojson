@@ -125,8 +125,7 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083
 									16918 Dove Canyon Rd Suite 100, San Diego, CA 92127 16918 DOVE CANYON RD, SUITE 100,SAN DIEGO, CA, 92127
 									3987 BATEMAN AVENUE, EXT 2120, SAN DIEGO,CA , 92154
 									verificar que la informacion de SDP542305 este COMPLETA, el drop off address es:
-									5565 GROSSMONT CENTER DRIVE, BUILDING 3, SUITE 101,LA MESA, CA, 91942
-									y en mediroutes solo sale una parte : SUITE 101,LA MESA, CA, 91942
+									
 
 									Steam Cell Clinic
 									POINTE (cuidado con esta porque hay un domicilio que incluye pointe)

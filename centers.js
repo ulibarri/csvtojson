@@ -793,7 +793,7 @@ let centers=[
     },
     {
         name: "SAN DIEGO IMAGING MEDICAL GROUP",
-        address: "765 MEDICAL CENTER CT, SUITE 100, CHULA VISTA, CA 91911-6617",
+        address: "765 MEDICAL CENTER CT, SUITE 100, CHULA VISTA, CA 91911",
         abbrev: null,
         category: "IMAGING",
         phone: '619-397-6577',
@@ -801,7 +801,7 @@ let centers=[
     },
     {
         name: "SAN DIEGO IMAGING MEDICAL GROUP - SHARP CHULA VISTA",
-        address: "765 MEDICAL CENTER CT, SUITE #205, CHULA VISTA, CA, 91911-6600",
+        address: "765 MEDICAL CENTER CT, SUITE #205, CHULA VISTA, CA, 91911",
         reference:'765 MEDICAL CENTER CT, SUITE #205,  2ND FLOOR, CHULA VISTA, CA, 91911-6600',
         abbrev: null,
         category: "IMAGING",
@@ -828,7 +828,7 @@ let centers=[
     },
     {
         name: "SAN DIEGO IMAGING MEDICAL GROUP - SHARP CHULA VISTA",
-        address: "765 MEDICAL CENTER CT, CHULA VISTA, CA, 91911-6600",
+        address: "765 MEDICAL CENTER CT, CHULA VISTA, CA, 91911",
         abbrev: null,
         category: "IMAGING",
         phone: null,
@@ -2382,7 +2382,7 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SUITE 200, LA JOLLA, CA, 92093",
+        address: "9400 CAMPUS POINT DRIVE, SUITE 200, LA JOLLA, CA, 92121",
         abbrev: null,
         category: 'UROLOGY',
         phone: null,
@@ -2390,8 +2390,8 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA , CA, 92037",
-        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, LA JOLLA , CA, 92037',
+        address: "9400 CAMPUS POINT DRIVE, LA JOLLA , CA, 92121",
+        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, LA JOLLA , CA, 92121',
         abbrev: null,
         category: null,
         phone: '858 657-8200',
@@ -2399,8 +2399,8 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA , CA, 92037",
-        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, LA JOLLA , CA, 92037',
+        address: "9400 CAMPUS POINT DRIVE, LA JOLLA , CA, 92121",
+        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, LA JOLLA , CA, 92121',
         abbrev: null,
         category: null,
         phone: null,
@@ -2417,8 +2417,8 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92037",
-        reference:'9400 CAMPUS POINT DRIVE, 1ST FLOOR, LA JOLLA, CA, 92037',
+        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
+        reference:'9400 CAMPUS POINT DRIVE, 1ST FLOOR, LA JOLLA, CA, 92121',
         abbrev: null,
         category: 'ADVANCE IMAGING',
         phone: '619-543-3405',
@@ -2426,9 +2426,9 @@ let centers=[
     },
     { 
         name: "UCSD",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA 92037",
+        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
         abbrev: null,
-        reference: "9400 CAMPUS POINT DRIVE, 1ST FLOOR RADIOLOGY, SAN DIEGO, CA, 92037",
+        reference: "9400 CAMPUS POINT DRIVE, 1ST FLOOR RADIOLOGY, SAN DIEGO, CA, 92121",
         category: null,
         phone: null,
         criteria: ['9400','CAMPUS','POINT D','92037','DIEGO','1ST', 'FLOOR']
@@ -2437,15 +2437,15 @@ let centers=[
         name: "UCSD",
         address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA 92121",
         abbrev: null,
-        reference: "9400 CAMPUS POINT DRIVE, 1ST FLOOR RADIOLOGY, SAN DIEGO, CA, 92037",
+        reference: "9400 CAMPUS POINT DRIVE, 1ST FLOOR RADIOLOGY, SAN DIEGO, CA, 92121",
         category: null,
         phone: null,
         criteria: ['9400','CAMPUS','POINT D','92037','DIEGO']
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92037",
-        reference:'9400 CAMPUS POINT DRIVE, 3RD FLOOR, LA JOLLA, CA, 92037',
+        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
+        reference:'9400 CAMPUS POINT DRIVE, 3RD FLOOR, LA JOLLA, CA, 92121',
         abbrev: null,
         category: 'ONCOLOGY',
         phone: '619-543-6980',
@@ -2453,7 +2453,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92037",
+        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2461,7 +2461,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92037",
+        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2469,7 +2469,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92093",
+        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2490,6 +2490,14 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['9400','CAMPUS POINT','POINT D','92121','JOLLA']
+    },
+    { 
+        name: "UC SAN DIEGO",
+        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA 92121",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9400','CAMPUS POINT','POINT D','92073','JOLLA']
     },
     {  
         name: "UC SAN DIEGO",
@@ -3386,11 +3394,21 @@ let centers=[
     },    
     { 
         name: "UCSD LIVER TRANSPLANT OFFICE",
-        address: "4510 EXECUTIVE DRIVE, LOWER LEVEL P7, LA JOLLA, CA, 92037",
+        address: "4510 EXECUTIVE DRIVE, SUITE P7, LA JOLLA, CA, 92121",
+        reference:"4510 EXECUTIVE DRIVE, LOWER LEVEL P7, LA JOLLA, CA, 92121",
         abbrev: null,
         category: null,
         phone: '858-657-7000',
         criteria: ['4510','EXECUTIVE D','P7','JOLLA','92037']
+    },
+    { 
+        name: "UCSD LIVER TRANSPLANT OFFICE",
+        address: "4510 EXECUTIVE DRIVE, SUITE P7, LA JOLLA, CA, 92121",
+        reference:"4510 EXECUTIVE DRIVE, LOWER LEVEL P7, LA JOLLA, CA, 92121",
+        abbrev: null,
+        category: null,
+        phone: '858-657-7000',
+        criteria: ['4510','EXECUTIVE D','P7','JOLLA','92121']
     },
     { 
         name: "UCSD HEPATOLOGY",
@@ -5412,8 +5430,23 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['4710', 'RUFFNER S','DIEGO','92111']
+    },
+    { 
+        name: "SYHC CVMP ",
+        address: "678 3RD AVE, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['678', '3RD AV','CHULA','91910']
+    },
+    { 
+        name: "SYHC CVMP ",
+        address: "678 3RD AVE, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['678', 'THIRD AV','CHULA','91910']
     }
-    
     
      
     
