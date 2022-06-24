@@ -319,6 +319,9 @@ module.exports=[
     replacement:'880 3RD AVE, CHULA VISTA, CA, 91911'},
     {typo: '655 EUCLID',
     replacement:'655 S EUCLID'},
+    {typo: '2216 EL CAMINO REAL',
+    replacement:'2216 S EL CAMINO REAL'},
+    
     
     
     

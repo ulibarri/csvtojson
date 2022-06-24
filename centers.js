@@ -2249,6 +2249,14 @@ let centers=[
         criteria: ['1625 E','MAIN S','CAJON','100','92021']
     },
     {
+        name: "SAN DIEGO SPINE & SPORT",
+        address: "1625 E MAIN ST, SUITE 104, EL CAJON, CA, 92021",
+        abbrev: null,
+        category: 'CARDIOLOGY',
+        phone: null,
+        criteria: ['1625 E','MAIN S','CAJON','104','92021']
+    },
+    {
         name: "SONUS 07",
         address: "5565 GROSSMONT CENTER DRIVE, SUITE 101,LA MESA, CA, 91942",
         abbrev: null,
@@ -3677,6 +3685,14 @@ let centers=[
         category: null,
         phone: '858-346-7171',
         criteria: ['4910','DIRECTORS PL','250','DIEGO','92121']
+    },
+    { 
+        name: "UCSD",
+        address: "4910 DIRECTORS PLACE, SAN DIEGO, CA, 92121",
+        abbrev: null,
+        category: null,
+        phone: '858-346-7171',
+        criteria: ['4910','DIRECTORS PL','DIEGO','92121']
     },
     { 
         name: "NOT AVAILABLE",
@@ -5313,11 +5329,19 @@ let centers=[
     },
     { 
         name: "TRUCARE DENTAL",
-        address: "2216 EL CAMINO REAL, SUITE 122,  OCEANSIDE, CA, 92054",
+        address: "2216 S EL CAMINO REAL, SUITE 122, OCEANSIDE, CA, 92054",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['2216','CAMINO REAL','122','OCEANSIDE','92054']
+    },
+    { 
+        name: "TRUCARE DENTAL",
+        address: "2216 S EL CAMINO REAL, SUITE 122, OCEANSIDE, CA, 92054",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2216 S','CAMINO REAL','122','OCEANSIDE','92028']
     },
     { 
         name: "NOT AVAILABLE",
@@ -5440,12 +5464,28 @@ let centers=[
         criteria: ['678', '3RD AV','CHULA','91910']
     },
     { 
-        name: "SYHC CVMP ",
+        name: "SYHC CVMP",
         address: "678 3RD AVE, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['678', 'THIRD AV','CHULA','91910']
+    },
+    { 
+        name: "SARJAN PATEL, MD",
+        address: "7339 EL CAJON BLVD SUITE JK, LA MESA, CA 91942",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['7339', 'CAJON B','JK','MESA','91942']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "105 DURIAN ST, VISTA, CA ,92083",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['105','DURIAN S','VISTA','92083']
     }
     
      
