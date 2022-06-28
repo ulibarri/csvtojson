@@ -321,6 +321,8 @@ module.exports=[
     replacement:'655 S EUCLID'},
     {typo: '2216 EL CAMINO REAL',
     replacement:'2216 S EL CAMINO REAL'},
+    {typo: 'SUITE 610 SD',
+    replacement:'SUITE 610, SAN DIEGO'},
     
     
     

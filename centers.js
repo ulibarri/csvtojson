@@ -2361,7 +2361,14 @@ let centers=[
         phone: null,
         criteria: ['5565','GROSSMONT C','R D','227', 'MESA', '91942']
     },
-    
+    {
+        name: "JERRY M. FABRIKANT",
+        address: "5565 GROSSMONT CENTER DR, SUITE 353, LA MESA, CA, 91942",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['5565','GROSSMONT C','R D','353', 'MESA', '91942']
+    },
     {
         name: "GROSSMONT SLEEP STUDY CENTER",
         address: "5525 GROSSMONT CENTER DR, # 609, LA MESA, CA, 91942",
@@ -5344,6 +5351,14 @@ let centers=[
         criteria: ['2216 S','CAMINO REAL','122','OCEANSIDE','92028']
     },
     { 
+        name: "TRUCARE DENTAL",
+        address: "2216 S EL CAMINO REAL, SUITE 122, OCEANSIDE, CA, 92054",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2216 S','CAMINO REAL','122','OCEANSIDE','92056']
+    },
+    { 
         name: "NOT AVAILABLE",
         address: "2335 VISTA WAY, OCEANSIDE, CA, 92054",
         abbrev: null,
@@ -5486,7 +5501,32 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['105','DURIAN S','VISTA','92083']
+    },
+    { 
+        name: "MCALISTER INSTITUTE",
+        address: "1180 3RD AVE, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1180','THIRD A','CHULA','91911']
+    },
+    { 
+        name: "MCALISTER INSTITUTE",
+        address: "1180 3RD AVE, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1180','3RD A','CHULA','91911']
+    },
+    { 
+        name: "THE EYE INSTITUTE OF CALIFORNIA",
+        address: "311 DEL MAR AVE, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['311','DEL MAR A','CHULA','91910']
     }
+    
     
      
     
