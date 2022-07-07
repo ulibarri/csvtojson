@@ -323,6 +323,29 @@ module.exports=[
     replacement:'2216 S EL CAMINO REAL'},
     {typo: 'SUITE 610 SD',
     replacement:'SUITE 610, SAN DIEGO'},
+    {typo: 'SUITE 4 SD',
+    replacement:'SUITE 4, SAN DIEGO'},
+    {typo: '46060 EL CAJON B',
+    replacement:'4660 EL CAJON B'},
+    {typo: 'SUITE 212 SD',
+    replacement:'SUITE 212, SAN DIEGO'},
+    {typo: '202 S.D.',
+    replacement:'202, SAN DIEGO'},
+    {typo: '9434 MEDICAL CENTER DRIVE LA JOLLA, CA 92307',
+    replacement:'9434 MEDICAL CENTER DRIVE LA JOLLA, CA 92037'},
+    {typo: '303CHULA',
+    replacement:'303 CHULA'},
+    {typo: '880 3RD AV CV 91911',
+    replacement:'880 3RD AV, CHULA VISTA, CA, 91911'},
+    
+    
+    
+
+    
+    
+    
+    
+    
     
     
     

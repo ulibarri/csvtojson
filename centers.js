@@ -751,12 +751,30 @@ let centers=[
     ,
     {
         name: "SONUS 07",
-        address: "310 THIRD AVENUE, SUITE B-21, CHULA VISTA, CA, 93021",
-        reference:"310 THIRD AVENUE, SUITE B-21, 3RD FLOOR, CHULA VISTA, CA, 93021",
+        address: "310 THIRD AVENUE, SUITE B-21, CHULA VISTA, CA, 91910",
+        reference:"310 THIRD AVENUE, SUITE B-21, 3RD FLOOR, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "HEARING",
         phone: null,
         criteria: ['310','THIRD A','21','CHULA', '93021']
+    },
+    {
+        name: "SONUS 07",
+        address: "310 THIRD AVENUE, SUITE B-21, CHULA VISTA, CA, 91910",
+        reference:"310 THIRD AVENUE, SUITE B-21, 3RD FLOOR, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: "HEARING",
+        phone: null,
+        criteria: ['310','THIRD A','21','CHULA', '91910']
+    },
+    {
+        name: "SONUS 07",
+        address: "310 THIRD AVENUE, SUITE B-21, CHULA VISTA, CA, 91910",
+        reference:"310 THIRD AVENUE, SUITE B-21, 3RD FLOOR, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: "HEARING",
+        phone: null,
+        criteria: ['310','3RD A','21','CHULA', '91910']
     },
     {
         name: "PUJA CHITKARA MD, RHEUMATOLOGY",
@@ -4718,6 +4736,14 @@ let centers=[
         criteria: ['231','WEST MAIN','CAJON','92020']
     },
     { 
+        name: "CALIFORNIA RETINA ASSOCIATES, LP/AMERICAN EYE ASSOCIATES",
+        address: "231 W MAIN ST, EL CAJON, CA, 92020",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['231 W','MAIN','CAJON','92020']
+    },
+    { 
         name: "UCSD-GYNECOLOGY",
         address: "8910 VILLA LA JOLLA DRIVE, SUITE 200, SAN DIEGO, CA, 92037",
         abbrev: null,
@@ -5525,6 +5551,22 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['311','DEL MAR A','CHULA','91910']
+    },
+    { 
+        name: "FRESENIUS KIDNEY CARE",
+        address: "570 N SECOND ST, EL CAJON, CA, 92021",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['570 N','SECOND ST','CAJON','92021']
+    },
+    { 
+        name: "FRESENIUS KIDNEY CARE",
+        address: "570 N SECOND ST, EL CAJON, CA, 92021",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['570 N','2ND ST','CAJON','92021']
     }
     
     
