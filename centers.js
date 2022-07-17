@@ -139,6 +139,22 @@ let centers=[
         criteria: ['3960','THIRD','DIEGO','92103']
     },
     {   
+        name: "FMC HILLCREST",
+        address: "3960 3RD AVE, SAN DIEGO, CA, 92103",
+        abbrev: "FMC HILL",
+        category: "DIALYSIS",
+        phone: "619-299-3900",
+        criteria: ['3960','3RD','DIEGO','92123']
+    },
+    {   
+        name: "FMC HILLCREST",
+        address: "3960 3RD AVE, SAN DIEGO, CA, 92103",
+        abbrev: "FMC HILL",
+        category: "DIALYSIS",
+        phone: "619-299-3900",
+        criteria: ['3960','THIRD','DIEGO','92123']
+    },
+    {   
         name: "FMC KEARNEY MESA",
         address: "7927 OSTROW ST SUITE A, SAN DIEGO, CA, 92111",
         abbrev: "FMC K.M.",
@@ -4262,6 +4278,14 @@ let centers=[
         criteria: ['6945','EL CAJON B','DIEGO','92115']
     },
     { 
+        name: "THE WEST COAST EYE CARE & ACUITY EYE GROUP",
+        address: "6945 EL CAJON BLVD, SAN DIEGO, CA, 92115",
+        abbrev: null,
+        category: null,
+        phone: '619-697-4600',
+        criteria: ['6945','EL CAJON B','CAJON','92115']
+    },
+    { 
         name: "ENDODONTIST DR. FREER",
         address: "273 CHURCH AVENUE, CHULA VISTA, CA, 91910",
         abbrev: null,
@@ -4745,11 +4769,19 @@ let centers=[
     },
     { 
         name: "UCSD-GYNECOLOGY",
-        address: "8910 VILLA LA JOLLA DRIVE, SUITE 200, SAN DIEGO, CA, 92037",
+        address: "8910 VILLA LA JOLLA DRIVE, SUITE 200, LA JOLLA, CA, 92037",
         abbrev: null,
         category: null,
         phone: '858-657-8737',
         criteria: ['8910','VILLA','JOLLA DR','200','DIEGO', '92037']
+    },
+    { 
+        name: "UCSD-GYNECOLOGY",
+        address: "8910 VILLA LA JOLLA DR, SUITE 200, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: null,
+        phone: '858-657-8737',
+        criteria: ['8910','VILLA','JOLLA DR', ' 2','LA JOLLA', '92037']
     },
     { 
         name: "PHILLIP DICKINSON, MD",
@@ -5242,11 +5274,19 @@ let centers=[
     },
     { 
         name: "KOLBERG OCULAR PRODUCTS",
-        address: "9663 TIERRA GRANDE ST, SUITE 201 SAN DIEGO, CA, 92126",
+        address: "9663 TIERRA GRANDE ST, SUITE 201, SAN DIEGO, CA, 92126",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['9663','TIERRA GR','201','DIEGO','92126']
+    },
+    { 
+        name: "KOLBERG OCULAR PRODUCTS",
+        address: "9663 TIERRA GRANDE ST,SAN DIEGO, CA, 92126",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9663','TIERRA GR','DIEGO','92126']
     },
     { 
         name: "SOCIAL SECURITY OFFICE",
@@ -5567,6 +5607,14 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['570 N','2ND ST','CAJON','92021']
+    },
+    { 
+        name: "KEARNY MESA OFFICE ",
+        address: "8505 AERO DR, SAN DIEGO, CA, 92123",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['8505','AERO DR','DIEGO','92123']
     }
     
     
