@@ -337,6 +337,12 @@ module.exports=[
     replacement:'303 CHULA'},
     {typo: '880 3RD AV CV 91911',
     replacement:'880 3RD AV, CHULA VISTA, CA, 91911'},
+    {typo: 'CA 9203-',
+    replacement:'CA 92121'},
+    {typo: 'JOLLA VILLAGE SAN',
+    replacement:'JOLLA VILLAGE DR SAN'},
+
+    
     
     
     

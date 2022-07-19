@@ -835,7 +835,7 @@ let centers=[
     },
     {
         name: "SAN DIEGO IMAGING MEDICAL GROUP - SHARP CHULA VISTA",
-        address: "765 MEDICAL CENTER CT, SUITE #205, CHULA VISTA, CA, 91911",
+        address: "765 MEDICAL CENTER CT, SUITE 205, CHULA VISTA, CA, 91911",
         reference:'765 MEDICAL CENTER CT, SUITE #205,  2ND FLOOR, CHULA VISTA, CA, 91911-6600',
         abbrev: null,
         category: "IMAGING",
@@ -2428,6 +2428,14 @@ let centers=[
         category: 'DERMATOLOGY',
         phone: ' 619-579-5115',
         criteria: ['292','AVOCADO A','CAJON','92020']
+    },
+    {  
+        name: "UC SAN DIEGO",
+        address: "9400 CAMPUS POINT DRIVE, SUITE 1300, LA JOLLA, CA, 92121",
+        abbrev: null,
+        category: 'UROLOGY',
+        phone: null,
+        criteria: ['9400','CAMPUS','POINT D','1300','JOLLA','200']
     },
     {  
         name: "UC SAN DIEGO",
