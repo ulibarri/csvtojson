@@ -2292,11 +2292,19 @@ let centers=[
     },
     {
         name: "SONUS 07",
+        address: "5565 GROSSMONT CENTER DRIVE, SUITE 3-444,LA MESA, CA, 91942",
+        abbrev: null,
+        category: 'HEARING',
+        phone: '619-464-3353',
+        criteria: ['5565','GROSSMONT','CENTER D','444', 'MESA', '91942']
+    },
+    {
+        name: "SONUS 07",
         address: "5565 GROSSMONT CENTER DRIVE, SUITE 101,LA MESA, CA, 91942",
         abbrev: null,
         category: 'HEARING',
         phone: '619-464-3353',
-        criteria: ['5565','GROSSMONT','CENTER D',' 3','101', 'MESA', '91942']
+        criteria: ['5565','GROSSMONT','CENTER D','101', 'MESA', '91942']
     },
     {
         name: "SONUS 07",

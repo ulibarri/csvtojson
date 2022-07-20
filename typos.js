@@ -341,6 +341,9 @@ module.exports=[
     replacement:'CA 92121'},
     {typo: 'JOLLA VILLAGE SAN',
     replacement:'JOLLA VILLAGE DR SAN'},
+    {typo: '3960 HEALTH SCIENCE ',
+    replacement:'3960 HEALTH SCIENCES '},
+    
 
     
     
