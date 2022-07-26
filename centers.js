@@ -871,11 +871,19 @@ let centers=[
 
     {
         name: "KAFRI HEART & VASCULAR",
-        address: "328 HIGHLAND AVENUE, SUITE 200 EL CAJON, CA, 92021",
+        address: "328 HIGHLAND AVENUE, SUITE 200 EL CAJON, CA, 92020",
         abbrev: null,
         category: "CARDIOLOGY",
         phone: '619-930-9404',
         criteria: ['328','HIGHLAND','200','CAJON','92021']
+    },
+    {
+        name: "KAFRI HEART & VASCULAR",
+        address: "328 HIGHLAND AVENUE, SUITE 200 EL CAJON, CA, 92020",
+        abbrev: null,
+        category: "CARDIOLOGY",
+        phone: '619-930-9404',
+        criteria: ['328','HIGHLAND','200','CAJON','92020']
     },
     {
         name: "KAFRI HEART & VASCULAR, HASSAN KAFRI, MD",
@@ -1123,6 +1131,22 @@ let centers=[
         category: "OFTHALMOLOGY",
         phone: '619-427-3355',
         criteria: ['480','FOURTH A','201','CHULA','91910']
+    },
+    {
+        name: "THE EYE INSTITUTE OF CALIFORNIA",
+        address: "480 4TH AVENUE, SUITE 201, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: "OFTHALMOLOGY",
+        phone: '619-427-3355',
+        criteria: ['480','4TH A','201','CHULA','91911']
+    },
+    {
+        name: "THE EYE INSTITUTE OF CALIFORNIA",
+        address: "480 4TH AVENUE, SUITE 201, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: "OFTHALMOLOGY",
+        phone: '619-427-3355',
+        criteria: ['480','FOURTH A','201','CHULA','91911']
     },
     {
         name: "NOT AVAILABLE",
@@ -4840,6 +4864,16 @@ let centers=[
         criteria: ['9456','CUYAMACA S','102','SANTEE', '92071']
     },
     { 
+        name: "REDDY SUMANA, MD",
+        address: "9456 CUYAMACA ST, #102,SANTEE, CA, 92071",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9456','CUYAMACA S','102','DIEGO', '92071']
+    },
+
+
+    { 
         name: "SAN DIEGO SPINE & SPORT",
         address: "8790 CUYAMACA STREET, SUITE A SANTEE, CA, 92071",
         abbrev: null,
@@ -5631,10 +5665,74 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['8505','AERO DR','DIEGO','92123']
+    },
+    { 
+        name: "PASSPORT",
+        address: "13961 CAMPO RD, JAMUL, CA, 91935",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['13961','CAMPO R','JAMUL','91935']
+    },
+    { 
+        name: "DERMATOLOGY DR STAIN",
+        address: "340 4TH AVE, SUITE 14, CHULA VISTA CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['340','4TH A','14','CHULA','91910']
+    },
+    { 
+        name: "DERMATOLOGY DR STAIN",
+        address: "340 4TH AVE, SUITE 14, CHULA VISTA CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['340','FOURTH A','14','CHULA','91910']
+    },
+    { 
+        name: "SUN & SEA MANOR",
+        address: "740 7TH ST, IMPERIAL BEACH, CA, 91932",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['740','7TH ST','IMPERIAL','91932']
+    },
+    { 
+        name: "SUN & SEA MANOR",
+        address: "740 7TH ST, IMPERIAL BEACH, CA, 91932",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['740','SEVENTH ST','IMPERIAL','91932']
+    },
+    { 
+        name: "SUN & SEA MANOR",
+        address: "740 7TH ST, IMPERIAL BEACH, CA, 91932",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['740','SEVENTH ST','IMPERIAL','91932']
+    },
+    { 
+        name: "UCSD SULPIZIO CARDIOVASCULAR CENTER",
+        address: "434 S MEDICAL CENTER DR. LA JOLLA CA 92037",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['434 S','MEDICAL C','R D','JOLLA','92037']
+    },
+    { 
+        name: "DMV",
+        address: " 6111 BUSINESS CENTER CT, SAN DIEGO, CA, 92154",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['6111','BUSINESS C','R C','DIEGO','92154']
     }
     
     
-     
+    
     
     
     

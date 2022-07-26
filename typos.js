@@ -343,6 +343,14 @@ module.exports=[
     replacement:'JOLLA VILLAGE DR SAN'},
     {typo: '3960 HEALTH SCIENCE ',
     replacement:'3960 HEALTH SCIENCES '},
+    {typo: 'CLAREMONT',
+    replacement:'CLAIREMONT'},
+    {typo: '408 DICKINSON 2ND ST',
+    replacement:'408 DICKINSON ST'},
+    {typo: '408 DICKINSON  2ND ST',
+    replacement:'408 DICKINSON ST'},
+    
+    
     
 
     
