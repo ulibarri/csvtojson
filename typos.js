@@ -349,6 +349,8 @@ module.exports=[
     replacement:'408 DICKINSON ST'},
     {typo: '408 DICKINSON  2ND ST',
     replacement:'408 DICKINSON ST'},
+    {typo: 'SAN DIE,',
+    replacement:'SAN DIEGO,'},
     
     
     

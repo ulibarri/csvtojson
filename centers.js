@@ -1647,6 +1647,24 @@ let centers=[
         criteria: ['655 S','EUCLID AV','304','NATIONAL','91950']
     },
     {
+        name: "HEIDRUN GOLLOGLY, MD",
+        address: "655 SOUTH EUCLID AVE, STE 302, NATIONAL CITY, CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['655 S','EUCLID AV','302','NATIONAL','91950']
+        
+    },
+    {
+        name: "BALBOA NEPHROLOGY--NATIONAL CITY",
+        address: "655 SOUTH EUCLID AVE, STE 303, NATIONAL CITY, CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['655 S','EUCLID AV','303','NATIONAL','91950']
+        
+    },
+    {
         name: "NOT AVAILABLE",
         address: "655 EUCLID AVENUE, SUITE 206, NATIONAL CITY, CA, 91950 ",
         abbrev: null,
@@ -1661,17 +1679,6 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['655','EUCLID AV','302','NATIONAL','91950'] 
-    },
-
-    
-    {
-        name: "HEIDRUN GOLLOGLY, MD",
-        address: "655 SOUTH EUCLID AVE STE 302 NATIONAL CITY, CA, 91950",
-        abbrev: null,
-        category: null,
-        phone: null,
-        criteria: ['655 S','EUCLID AV','302','NATIONAL','91950']
-        
     },
     {
         name: "IMAGING HEALTHCARE SPECIALISTS IHS - ALVARADO COURT",
@@ -2721,7 +2728,8 @@ let centers=[
     },
     { 
         name: "UCSD",
-        address: "9350 CAMPUS POINT DRIVE, LOWER LEVEL, SUITE D, LA JOLLA, CA, 92903",
+        address: "9350 CAMPUS POINT DRIVE, SUITE D, LA JOLLA, CA, 92903",
+        reference: '9350 CAMPUS POINT DRIVE, LOWER LEVEL, SUITE D, SAN DIEGO, CA, 92121',
         abbrev: null,
         category: null,
         phone: null,
@@ -2729,7 +2737,8 @@ let centers=[
     },
     { 
         name: "UCSD",
-        address: "9350 CAMPUS POINT DRIVE, LOWER LEVEL, SUITE D, SAN DIEGO, CA, 92121",
+        address: "9350 CAMPUS POINT DRIVE, SUITE D, SAN DIEGO, CA, 92121",
+        reference: '9350 CAMPUS POINT DRIVE, LOWER LEVEL, SUITE D, SAN DIEGO, CA, 92121',
         abbrev: null,
         category: null,
         phone: null,
@@ -5724,11 +5733,27 @@ let centers=[
     },
     { 
         name: "DMV",
-        address: " 6111 BUSINESS CENTER CT, SAN DIEGO, CA, 92154",
+        address: "6111 BUSINESS CENTER CT, SAN DIEGO, CA, 92154",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['6111','BUSINESS C','R C','DIEGO','92154']
+    },
+    { 
+        name: "BALBOA NEPHROLOGY",
+        address: "3300 VISTA WAY, SUITE B, OCEANSIDE, CA, 92056",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3300','VISTA W',' B','OCEANSIDE','92056']
+    },
+    { 
+        name: "SY DENTAL San Diego Childrens Dental Clinic",
+        address: "8110 BIRMINGHAM WAY, SAN DIEGO, CA, 92123",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['8110','BIRMINGHAM W','DIEGO','92123']
     }
     
     
