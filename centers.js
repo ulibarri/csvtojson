@@ -997,6 +997,21 @@ let centers=[
         criteria: ['340','FOURTH A','7A','CHULA','91910']
     },
     {
+        name: "CARDIOLOGY",
+        address: "340 4TH AVE, STE 11, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: "CARDIOLOGY",
+        phone: '',
+        criteria: ['340','FOURTH A','11','CHULA','91910']
+    },{
+        name: "CARDIOLOGY",
+        address: "340 4TH AVE, STE 11, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: "CARDIOLOGY",
+        phone: '',
+        criteria: ['340','4TH A','11','CHULA','91910']
+    },
+    {
         name: "NOT AVAILABLE",
         address: "480 4TH AVENUE, STE 101, CHULA VISTA, CA, 91910",
         abbrev: null,
@@ -1661,12 +1676,12 @@ let centers=[
         abbrev: null,
         category: null,
         phone: null,
-        criteria: ['655 S','EUCLID AV','303','NATIONAL','91950']
+        criteria: ['655 S','EUCLID AV','302','NATIONAL','91950']
         
     },
     {
         name: "NOT AVAILABLE",
-        address: "655 EUCLID AVENUE, SUITE 206, NATIONAL CITY, CA, 91950 ",
+        address: "655 EUCLID AVENUE, SUITE 206, NATIONAL CITY, CA, 91950",
         abbrev: null,
         category: null,
         phone: null,
@@ -1674,11 +1689,19 @@ let centers=[
     },
     {
         name: "EYE GROUP",
-        address: "655 EUCLID AVENUE, SUITE 302, NATIONAL CITY, CA, 91950 ",
+        address: "655 EUCLID AVENUE, SUITE 302, NATIONAL CITY, CA, 91950",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['655','EUCLID AV','302','NATIONAL','91950'] 
+    },
+    {
+        name: "SAN DIEGO FAMILY DERMATOLOGY",
+        address: "655 S EUCLID AVE , SUITE 301 NATIONAL CITY , CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['655','EUCLID AV','301','NATIONAL','91950'] 
     },
     {
         name: "IMAGING HEALTHCARE SPECIALISTS IHS - ALVARADO COURT",
@@ -4054,7 +4077,7 @@ let centers=[
     
     { 
         name: "CASTLE MANOR",
-        address: "541 S V AVE, NATIONAL CITY, CA 91950",
+        address: "541 S V AVE, NATIONAL CITY, CA, 91950",
         abbrev: null,
         category: null,
         phone: '619-791-7900',
@@ -4402,7 +4425,7 @@ let centers=[
     },
     { 
         name: "SEASIDE FOOT AND ANKLE",
-        address: "855 3RD AVENUE, SUITE-1100, CHULA VISTA, CA 91911",
+        address: "855 3RD AVENUE, SUITE 1100, CHULA VISTA, CA 91911",
         abbrev: null,
         category: 'PODIATRY',
         phone: null,
@@ -4410,11 +4433,27 @@ let centers=[
     },
     { 
         name: "SEASIDE FOOT AND ANKLE",
-        address: "855 3RD AVENUE, SUITE-1100, CHULA VISTA, CA 91911",
+        address: "855 3RD AVENUE, SUITE 1100, CHULA VISTA, CA 91911",
         abbrev: null,
         category: 'PODIATRY',
         phone: null,
         criteria: ['855','THIRD AV','1100','CHULA','91911']
+    },
+    { 
+        name: "ONCOLOGY",
+        address: "855 3RD AVENUE, SUITE 3330, CHULA VISTA, CA 91911",
+        abbrev: null,
+        category: 'ONCOLOGY',
+        phone: null,
+        criteria: ['855','3RD AV','3330','CHULA','91911']
+    },
+    { 
+        name: "ONCOLOGY",
+        address: "855 3RD AVENUE, SUITE 3330, CHULA VISTA, CA 91911",
+        abbrev: null,
+        category: 'ONCOLOGY',
+        phone: null,
+        criteria: ['855','THIRD AV','3330','CHULA','91911']
     },
     { 
         name: "SEAGATE MEDICAL GROUP",

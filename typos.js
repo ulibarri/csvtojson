@@ -72,7 +72,8 @@ module.exports=[
     {typo: '501LA',
     replacement:'501, LA'},
     {typo: '117ALPINE',
-    replacement:'117, ALPINE'},
+    replacement:'117, ALPINE',
+    datapoint:''},
     {typo: 'SUITE B-107 SUITE B-107SAN DIEGO',
     replacement:'SUITE B-107, SAN DIEGO'},
     {typo: 'A-1CHULA',
@@ -351,6 +352,17 @@ module.exports=[
     replacement:'408 DICKINSON ST'},
     {typo: 'SAN DIE,',
     replacement:'SAN DIEGO,'},
+    {typo: ' 427 TRANSPORTATION AV',
+    replacement:'2427 TRANSPORTATION AV'},
+    {typo: 'LOWER LEVER',
+    replacement:' '},
+    {typo: 'LOWER LEVEL',
+    replacement:' '},
+    {typo: 'LOWER LEVEL',
+    replacement:' '},
+    {typo: 'SUITE 201 SD',
+    replacement:'SUITE 201, SAN DIEGO'},
+    
     
     
     
