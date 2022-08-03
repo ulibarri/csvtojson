@@ -362,6 +362,8 @@ module.exports=[
     replacement:' '},
     {typo: 'SUITE 201 SD',
     replacement:'SUITE 201, SAN DIEGO'},
+    {typo: 'PLAZA VILLAGE 950 L AVE',
+    replacement:' 950 L AVE'},
     
     
     
