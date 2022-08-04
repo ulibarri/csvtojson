@@ -364,6 +364,9 @@ module.exports=[
     replacement:'SUITE 201, SAN DIEGO'},
     {typo: 'PLAZA VILLAGE 950 L AVE',
     replacement:' 950 L AVE'},
+    {typo: '3998 VISTA WAY SUITE 108 OCEANSIDE, CA. PH',
+    replacement:'3998 VISTA WAY, SUITE 108, OCEANSIDE, CA, 92056 '},
+    
     
     
     
