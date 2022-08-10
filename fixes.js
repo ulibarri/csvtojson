@@ -32,7 +32,10 @@ module.exports=[
     {typo: 'CA 9',
     replacement:'CA, 9'},
     {typo: '28730 HIGHWAY,94,CAMPO,CA, 91906',
-    replacement:'28730 HIGHWAY 94,CAMPO,CA, 91906'}
+    replacement:'28730 HIGHWAY 94,CAMPO,CA, 91906'},
+    {typo: 'HIGHWAY,94',
+    replacement:'HIGHWAY 94'}
+    
     
        
 ]

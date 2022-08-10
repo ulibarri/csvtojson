@@ -402,6 +402,15 @@ let centers=[
         criteria: ['200 W','ARBOR',' 210','DIEGO','92103']
     },
     {   
+        name: "UCSD",
+        address: "200 W ARBOR DR, SAN DIEGO, CA, 92103",
+        reference:'200 W ARBOR DR, SAN DIEGO, CA, 92103',
+        abbrev: null,
+        category: null,
+        phone:'858-657-8590',
+        criteria: ['200 W','ARBOR','DIEGO','92103']
+    },
+    {   
         name: "UCSD ORTHOPEDICS",
         address: "200 WEST ARBOR DRIVE SUITE 2, SAN DIEGO, CA, 92103",
         abbrev: "UCSD ORTHOPEDICS",
@@ -1634,6 +1643,14 @@ let centers=[
         category: 'ARTHRITIS',
         phone: '619-287-9730',
         criteria: ['3633','CAMINO','RIO','300','DIEGO','92108']
+    },
+    {
+        name: "SAN DIEGO ARTHRITIS MEDICAL CLINIC",
+        address: "3633 CAMINO DEL RIO SOUTH, SAN DIEGO, CA, 92108",
+        abbrev: null,
+        category: 'ARTHRITIS',
+        phone: '619-287-9730',
+        criteria: ['3633','CAMINO','RIO','DIEGO','92108']
     },
     
     
@@ -3058,6 +3075,22 @@ let centers=[
         criteria: ['681','THIRD A',' B','1015', 'CHULA','91910']
     },
     { 
+        name: "ENDOSCOPY CENTER OF CHULA VISTA",
+        address: "681 3RD AVE, STE B, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: 'ENDOSCOPY',
+        phone: '619-425-2150',
+        criteria: ['681','THIRD A',' B', 'CHULA','91910']
+    },
+    { 
+        name: "ENDOSCOPY CENTER OF CHULA VISTA",
+        address: "681 3RD AVE, STE B, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: 'ENDOSCOPY',
+        phone: '619-425-2150',
+        criteria: ['681','3RD A',' B', 'CHULA','91910']
+    },
+    { 
         name: "IHS RADIOLOGY - POWAY",
         address: "12620 MONTE VISTA ROAD, STE A, POWAY, CA, 92064",
         abbrev: null,
@@ -3890,12 +3923,19 @@ let centers=[
         criteria: ['8881','FLETCHER P','100','MESA','91942']
     },
     { 
-        name: "NOT AVAILABLE",
+        name: "UCSD",
         address: "1200 GARDEN VIEW ROAD, SUITE 110, ENCINITAS, CA, 92024",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['1200','GARDEN','VIEW R','110','ENCINITAS','92024']
+    },{ 
+        name: "UCSD",
+        address: "1200 GARDEN VIEW ROAD, ENCINITAS, CA, 92024",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1200','GARDEN','VIEW R','ENCINITAS','92024']
     },
     { 
         name: "IHS RADIOLOGY - LOGAN HEIGHTS",
@@ -5265,6 +5305,24 @@ let centers=[
         criteria: ['895','THIRD AV','CHULA', '91911']
     },
     { 
+        name: "HANGER CLINIC",
+        address: "895 3RD AVE, CHULA VISTA, #2, CA, 91911",
+        reference:"895 3RD AVE BUILDING 2, CHULA VISTA,CA 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['895','THIRD AV','CHULA','#2', '91911']
+    },
+    { 
+        name: "HANGER CLINIC",
+        address: "895 3RD AVE, CHULA VISTA, #2, CA, 91911",
+        reference:"895 3RD AVE BUILDING 2, CHULA VISTA,CA 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['895','3RD AV','CHULA','#2', '91911']
+    },
+    { 
         name: "SAN DIEGO REGIONAL CENTER",
         address: "4355 RUFFIN ROAD, SUITE 200, SAN DIEGO, CA, 92123",
         abbrev: null,
@@ -5809,17 +5867,27 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['3998','VISTA W','108', 'OCEANSIDE','92056']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "9400 CAMPUS POINT DR,SAN DIEGO, CA, 92121",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9400','CAMPUS P','POINT D', 'DIEGO','92056']
+    },
+    { 
+        name: "DENTAL",
+        address: "4700 N RIVER RD, OCEANSIDE, CA, 92057",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['4700 N','RIVER R','OCEANSIDE', '92057']
     }
     
     
     
     
-    
-    
-    
-    
-    
- 
     
     
     

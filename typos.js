@@ -366,6 +366,20 @@ module.exports=[
     replacement:' 950 L AVE'},
     {typo: '3998 VISTA WAY SUITE 108 OCEANSIDE, CA. PH',
     replacement:'3998 VISTA WAY, SUITE 108, OCEANSIDE, CA, 92056 '},
+    {typo: '400 E.',
+    replacement:'400 E'},
+    {typo: 'VIEW RD. SD',
+    replacement:'VIEW RD, SAN DIEGO'},
+    {typo: '477 NORTH EL CAMINO REAL A SUITE 102 92024',
+    replacement:'477 N EL CAMINO REAL,SUITE 102, ENCINITAS, CA, 92024'},
+    {typo: 'N.TORRY',
+    replacement:'N TORREY'},
+    {typo: '3RD.',
+    replacement:'3RD'},
+    
+    
+    
+    
     
     
     
