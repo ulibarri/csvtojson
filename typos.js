@@ -376,6 +376,13 @@ module.exports=[
     replacement:'N TORREY'},
     {typo: '3RD.',
     replacement:'3RD'},
+    {typo: 'NORDHAL',
+    replacement:'NORDAHL'},
+    {typo: 'PARK LANE, SY',
+    replacement:'PARK LANE, SAN YSIDRO'},
+    
+
+    
     
     
     

@@ -5053,6 +5053,14 @@ let centers=[
         criteria: ['838','NORDAHL R','300', 'MARCOS','92069']
     },
     { 
+        name: "CARE SAN MARCOS",
+        address: "838 NORDAHL RD, #200, SAN MARCOS, CA, 92069",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['838','NORDAHL R','200', 'MARCOS','92069']
+    },
+    { 
         name: "SYH ESCONDIDO FAMILY MEDICINE DENTAL",
         address: "704 EAST GRAND AVE, ESCONDIDO, CA, 92025",
         abbrev: null,
@@ -5883,6 +5891,22 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['4700 N','RIVER R','OCEANSIDE', '92057']
+    },
+    { 
+        name: "SS VASCULAR SURGERY & ENDOVASCULAR THERAPY",
+        address: "1045 E PENNSYLVANIA AVE, ESCONDIDO, CA, 92025",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1045 E','PENNSYLVANIA AV','ESCONDIDO', '92025']
+    },
+    { 
+        name: "PODIATRY",
+        address: "1666 PRECISION PARK LANE, SAN YSIDRO, CA, 92173",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1666','PRECISION P','K L', 'YSIDRO','92173']
     }
     
     
