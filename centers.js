@@ -67,8 +67,8 @@ let centers=[
         criteria: ['5961','UNIVERSITY','317','DIEGO','92115']
     },
     {   
-        name: "FMC CHULAVISTA SOUTH",
-        address: "2252 VERUS ST., SAN DIEGO, CA, 92154",
+        name: "FMC CHULA VISTA SOUTH",
+        address: "2252 VERUS ST, SAN DIEGO, CA, 92154",
         abbrev: "FMC CVS",
         category: "DIALYSIS",
         phone: "619-429-9201",
@@ -92,7 +92,7 @@ let centers=[
     },
     {   
         name: "FMC BALBOA EASTLAKE",
-        address: "2391 BOSWELL ROAD, CHULA VISTA, CA, 91914",
+        address: "2391 BOSWELL RD, CHULA VISTA, CA, 91914",
         abbrev: "FMC EASTLAKE",
         category: "DIALYSIS",
         phone:"619-397-0939",
@@ -1714,11 +1714,19 @@ let centers=[
     },
     {
         name: "SAN DIEGO FAMILY DERMATOLOGY",
-        address: "655 S EUCLID AVE , SUITE 301 NATIONAL CITY , CA, 91950",
+        address: "655 S EUCLID AVE , SUITE 301, NATIONAL CITY , CA, 91950",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['655','EUCLID AV','301','NATIONAL','91950'] 
+    },
+    {
+        name: "BALBOA NEPHROLOGY MEDICAL GROUP",
+        address: "655 S EUCLID AVE ,NATIONAL CITY, CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['655','EUCLID AV','NATIONAL','91950'] 
     },
     {
         name: "IMAGING HEALTHCARE SPECIALISTS IHS - ALVARADO COURT",
@@ -5907,8 +5915,23 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['1666','PRECISION P','K L', 'YSIDRO','92173']
+    },
+    { 
+        name: "ALFA SURGERY CENTER",
+        address: "440 E ST, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['440 E','CHULA','91910','E S']
+    },
+    { 
+        name: "UCSD",
+        address: "350 DICKINSON ST, SUITE 325, SAN DIEGO, CA, 92103",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['350','DICKINSON S','325','DIEGO','92103']
     }
-    
     
     
     

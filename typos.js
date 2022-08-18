@@ -380,6 +380,19 @@ module.exports=[
     replacement:'NORDAHL'},
     {typo: 'PARK LANE, SY',
     replacement:'PARK LANE, SAN YSIDRO'},
+    {typo: '440 E.',
+    replacement:'440 E'},
+    {typo: '3RD FLOOR SD',
+    replacement:' SAN DIEGO'},
+    {typo: 'CA, 9191PER',
+    replacement:'CA, 91911'},
+    {typo: 'HIGHWAY,94',
+    replacement:'HIGHWAY 94'},
+    {typo: '754 MEDICAL CENTER, STE. 101',
+    replacement:'754 MEDICAL CENTER CT, STE. 101'},
+    
+    
+    
     
 
     
