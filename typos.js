@@ -390,6 +390,25 @@ module.exports=[
     replacement:'HIGHWAY 94'},
     {typo: '754 MEDICAL CENTER, STE. 101',
     replacement:'754 MEDICAL CENTER CT, STE. 101'},
+    {typo: 'SA  YSIDRO',
+    replacement:'SAN YSIDRO'},
+    {typo: 'MAGNOLIA AVE SUITE B, CA 92020',
+    replacement:'MAGNOLIA AVE, SUITE B, EL CAJON, CA, 92020'},
+    {typo: 'HEALT ',
+    replacement:'HEALTH '},
+    {typo: '340 8TH',
+    replacement:'340 E 8TH'},
+    {typo: '754 MEDICAL CENTER SUITE',
+    replacement:'754 MEDICAL CENTER CT, SUITE'},
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     

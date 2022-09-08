@@ -151,7 +151,30 @@
     "jargon": [
         "DAVITA COLLEGE"
     ]
+},
+{
+    "longitude": -117.072246308879,
+    "latitude": 32.571530068340,
+    "formatted_address": "3010 DEL SOL BLVD, SAN DIEGO, CA, 92154",
+    "number": "3010",
+    "street": "DEL SOL BLVD",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "zip": 92154,
+    "created_by": int,
+    "criteria": [
+        [
+            "3010",
+            "DEL SOL B",
+            "DIEGO",
+            "92154"
+        ]
+    ],
+    "jargon": [
+        "FMC SAN YSIDRO"
+    ]
 }
+
 
 
 

@@ -538,9 +538,7 @@ let centers=[
         category: "PULMONARY",
         phone: '619-623-3816',
         criteria: ['841','KUHN D','200','CHULA','91914']
-    }
-     
-    ,
+    },
     {
         name: "SOUTHBAY FAMILY HEALTH & DENTAL CENTER",
         address: "340 E 8TH STREET, NATIONAL CITY, CA, 91950",
@@ -880,7 +878,7 @@ let centers=[
 
     {
         name: "KAFRI HEART & VASCULAR",
-        address: "328 HIGHLAND AVENUE, SUITE 200 EL CAJON, CA, 92020",
+        address: "328 HIGHLAND AVENUE, SUITE 200, EL CAJON, CA, 92020",
         abbrev: null,
         category: "CARDIOLOGY",
         phone: '619-930-9404',
@@ -888,7 +886,7 @@ let centers=[
     },
     {
         name: "KAFRI HEART & VASCULAR",
-        address: "328 HIGHLAND AVENUE, SUITE 200 EL CAJON, CA, 92020",
+        address: "328 HIGHLAND AVENUE, SUITE 200, EL CAJON, CA, 92020",
         abbrev: null,
         category: "CARDIOLOGY",
         phone: '619-930-9404',
@@ -1538,6 +1536,22 @@ let centers=[
         category: 'UROLOGY',
         phone: null,
         criteria: ['750','MEDICAL C',' 14','CHULA','91911']
+    },
+    {
+        name: "NOT AVAILABLE",
+        address: "750 MEDICAL CENTER CT, SUITE 101, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['750','MEDICAL C','101','CHULA','91910']
+    },
+    {
+        name: "NOT AVAILABLE",
+        address: "750 MEDICAL CENTER CT, SUITE 101, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['750','MEDICAL C','101','CHULA','91911']
     },
     {
         name: "NOT AVAILABLE",
@@ -2491,6 +2505,14 @@ let centers=[
         criteria: ['5565','GROSSMONT C','R D','353', 'MESA', '91942']
     },
     {
+        name: "SOUTH BAY FOOT AND ANKLE",
+        address: "5565 GROSSMONT CENTER DR, LA MESA, CA, 91942",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['5565','GROSSMONT C','R D', 'MESA', '91942']
+    },
+    {
         name: "GROSSMONT SLEEP STUDY CENTER",
         address: "5525 GROSSMONT CENTER DR, # 609, LA MESA, CA, 91942",
         reference:null,
@@ -3324,6 +3346,14 @@ let centers=[
         criteria: ['463 N','MAGNOLIA AV', 'CAJON','92020']
     },
     { 
+        name: "MAGNOLIA SURGERY CENTER",
+        address: "463 N MAGNOLIA AVENUE, SUITE B, EL CAJON, CA, 92020",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['463 N','MAGNOLIA AV'," B", 'CAJON','92020']
+    },
+    { 
         name: "ADVANCED PODIATRY INSTITUTE",
         address: "590 S MAGNOLIA AVE, EL CAJON, CA, 92020",
         abbrev: null,
@@ -3523,7 +3553,7 @@ let centers=[
     },
     { 
         name: "UCSD NEUROLOGICAL INST.",
-        address: "4510 EXECUTIVE DRIVE, STE 325, SAN DIEGO, CA, 92103",
+        address: "4510 EXECUTIVE DRIVE, SUITE 325, SAN DIEGO, CA, 92103",
         abbrev: null,
         category: 'NEUROLOGY',
         phone: '858 657-8540',
@@ -3531,7 +3561,7 @@ let centers=[
     },
     { 
         name: "UCSD NEUROLOGICAL INST.",
-        address: "4510 EXECUTIVE DRIVE, STE 325, SAN DIEGO, CA, 92121",
+        address: "4510 EXECUTIVE DRIVE, SUITE 325, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: 'NEUROLOGY',
         phone: '858 657-8540',
@@ -3539,12 +3569,21 @@ let centers=[
     },
     { 
         name: "UCSD NEUROLOGICAL INST.",
-        address: "4510 EXECUTIVE DRIVE, STE. 325, LA JOLLA, CA, 92121",
+        address: "4510 EXECUTIVE DRIVE, SUITE 325, LA JOLLA, CA, 92121",
         reference:'4510 EXECUTIVE DRIVE, STE. 325, 3RD FLOOR, LA JOLLA, CA, 92121',
         abbrev: null,
         category: 'NEUROLOGY',
         phone: null,
         criteria: ['4510','EXECUTIVE D','325','JOLLA','92121']
+    },
+    { 
+        name: "UCSD NEUROLOGICAL INST.",
+        address: "4510 EXECUTIVE DRIVE, SUITE 325, LA JOLLA, CA, 92121",
+        reference:'4510 EXECUTIVE DRIVE, STE. 325, 3RD FLOOR, LA JOLLA, CA, 92121',
+        abbrev: null,
+        category: 'NEUROLOGY',
+        phone: null,
+        criteria: ['4510','EXECUTIVE D','325','JOLLA','92037']
     },
     { 
         name: "UCSD VASCULAR DEPARTMENT",
@@ -3864,15 +3903,6 @@ let centers=[
         phone: null,
         criteria: ['1000','VALE','TERRACE','VISTA','92084']
     },
-    
-    { 
-        name: "PET/CT CENTER AT UC SAN DIEGO HEALTH",
-        address: "3960 HEALTH SCIENCES DR, LA JOLLA, CA, 92037",
-        abbrev: null,
-        category: null,
-        phone: null,
-        criteria: ['3960','HEALTH','SCIENCES D','JOLLA','92037']
-    },
     { 
         name: "UCSD RADIATION ONCOLOGY",
         address: "3960 HEALTH SCIENCE DRIVE, #0865, LA JOLLA, CA, 92037",
@@ -3882,7 +3912,23 @@ let centers=[
         criteria: ['3960','HEALTH','SCIENCES D','865','JOLLA','92093']
     },
     { 
-        name: "PET/CT CENTER AT UC SAN DIEGO HEALTH",
+        name: "UC SAN DIEGO HEALTH",
+        address: "3960 HEALTH SCIENCES DR, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3960','HEALTH','SCIENCES D','JOLLA','92037']
+    },
+    { 
+        name: "UC SAN DIEGO HEALTH",
+        address: "3960 HEALTH SCIENCES DR, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3960','HEALTH','SCIENCES D','JOLLA','92307']
+    },
+    { 
+        name: "UC SAN DIEGO HEALTH",
         address: "3960 HEALTH SCIENCES DR, LA JOLLA, CA, 92037",
         abbrev: null,
         category: null,
@@ -4156,6 +4202,13 @@ let centers=[
         criteria: ['11968','BERNARDO','PLAZA DR','DIEGO','92128']
     },
     { 
+        name: "UCSD",
+        address: "477 N EL CAMINO REAL,SUITE 300, ENCINITAS, CA, 92024",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['477 N','CAMINO','REAL','300','ENCINITAS','92024']
+    },{ 
         name: "IHS RADIOLOGY - ENCINITAS",
         address: "477 N EL CAMINO REAL,SUITE 102, ENCINITAS, CA, 92024",
         reference:'477 N EL CAMINO REAL, BLDG. A SUITE 102, ENCINITAS, CA, 92024',
@@ -4502,6 +4555,22 @@ let centers=[
         category: 'ONCOLOGY',
         phone: null,
         criteria: ['855','THIRD AV','3330','CHULA','91911']
+    },
+    { 
+        name: "PODIATRY",
+        address: "855 3RD AVENUE, CHULA VISTA, CA 91911",
+        abbrev: null,
+        category: 'PODIATRY',
+        phone: null,
+        criteria: ['855','THIRD AV','CHULA','91911']
+    },
+    { 
+        name: "PODIATRY",
+        address: "855 3RD AVENUE, CHULA VISTA, CA 91911",
+        abbrev: null,
+        category: 'PODIATRY',
+        phone: null,
+        criteria: ['855','3RD AV','CHULA','91911']
     },
     { 
         name: "SEAGATE MEDICAL GROUP",
@@ -5164,6 +5233,14 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['1955','CITRACADO P','200','ESCONDIDO','92029']
+    },
+    { 
+        name: "SAN DIEGO SYNOVATION",
+        address: "1955 CITRACADO PARKWY, STE 100, ESCONDIDO, CA, 92029",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1955','CITRACADO P','100','ESCONDIDO','92029']
     },
     { 
         name: "PALOMAR INFUSION CENTER",
@@ -5931,7 +6008,74 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['350','DICKINSON S','325','DIEGO','92103']
+    },
+    { 
+        name: "DERMATOLOGY",
+        address: "12395 EL CAMINO REAL, SUITE 207, SAN DIEGO, CA, 92130",
+        reference:"12395 EL CAMINO REAL 2ND FLOOR SUITE 207 SAN DIEGO, CA 92130",
+        abbrev: null,
+        category: 'DERMATOLOGY',
+        phone: null,
+        criteria: ['12395','CAMINO REA','207','DIEGO','92130']
+    },
+    { 
+        name: "Pain Management",
+        address: "3969 4TH AVENUE, SUITE 208, CHULA VISTA, CA, 92103",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3969','FOURTH AV','208','CHULA','92103']
+    },
+    { 
+        name: "Pain Management",
+        address: "3969 4TH AVENUE, SUITE 208, CHULA VISTA, CA, 92103",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3969','4TH AV','208','CHULA','92103']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "220 S 1ST STREET, EL CAJON, CA, 92019",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['220','FIRST ST','CAJON','92019']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "220 S 1ST STREET, EL CAJON, CA, 92019",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['220','1ST ST','CAJON','92019']
+    },
+    { 
+        name: "DR. KEVIN YOO",
+        address: "2100 5TH AVE, #200, SAN DIEGO, CA, 92101",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2100','FIFTH AV','200','DIEGO','92101']
+    },
+    { 
+        name: "DR. KEVIN YOO",
+        address: "2100 5TH AVE, #200, SAN DIEGO, CA, 92101",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2100','5TH AV','200','DIEGO','92101']
+    },
+    { 
+        name: "TRUECARE",
+        address: "2210 MESA DR, SUITE 5, OCEANSIDE, CA, 92054",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2210','MESA DR',' 5','OCEANSIDE','92054']
     }
+    
+    
     
     
     
