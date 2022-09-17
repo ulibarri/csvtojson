@@ -400,7 +400,14 @@ module.exports=[
     replacement:'340 E 8TH'},
     {typo: '754 MEDICAL CENTER SUITE',
     replacement:'754 MEDICAL CENTER CT, SUITE'},
-    
+    {typo: '200 ARBOR DR',
+    replacement:'200 WEST ARBOR DR'},
+    {typo: '855 RD AV',
+    replacement:'855 3RD AV'},
+    {typo: 'CROOCH',
+    replacement:'CROUCH'},
+    {typo: 'EL CAJON CA EL CAJON, CA',
+    replacement:'EL CAJON, CA'},
     
     
     

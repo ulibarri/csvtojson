@@ -53,7 +53,7 @@ let participant=
 let currentPtpID="";
 let currentCenterAddress="";
 let ptpArray=[];
-fs.createReadStream('MANIFEST 9.9 - MANIFEST 9.9.csv')
+fs.createReadStream('Schedule MANIFEST TUE.9.20 - Schedule MANIFEST TUE.9.20.csv')
     .pipe(csv())
     .on('data', (row) => {
         // rows++;

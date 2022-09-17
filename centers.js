@@ -372,7 +372,7 @@ let centers=[
         abbrev: "UCSD ORTHOPEDICS",
         category: "ORTHOPEDICS",
         phone:"858-657-8200",
-        criteria: ['200','ARBOR D','WEST','201','DIEGO','92103']
+        criteria: ['200 W','ARBOR D','201','DIEGO','92103']
     },
     {   
         name: "UCSD",
@@ -385,7 +385,7 @@ let centers=[
     },
     {   
         name: "UCSD",
-        address: "200 W ARBOR DR, SUITE 411, SAN DIEGO, CA, 92103",
+        address: "200 WEST ARBOR DR, SUITE 411, SAN DIEGO, CA, 92103",
         reference:'200 W ARBOR DR, BASEMENT LEVEL, SUITE 210,SOUTH WING, SAN DIEGO, CA, 92103',
         abbrev: null,
         category: null,
@@ -394,7 +394,7 @@ let centers=[
     },
     {   
         name: "UCSD",
-        address: "200 W ARBOR DR, SUITE 210, SAN DIEGO, CA, 92103",
+        address: "200 WEST ARBOR DR, SUITE 210, SAN DIEGO, CA, 92103",
         reference:'200 W ARBOR DR, BASEMENT LEVEL, SUITE 210,SOUTH WING, SAN DIEGO, CA, 92103',
         abbrev: null,
         category: null,
@@ -403,7 +403,7 @@ let centers=[
     },
     {   
         name: "UCSD",
-        address: "200 W ARBOR DR, SAN DIEGO, CA, 92103",
+        address: "200 WEST ARBOR DR, SAN DIEGO, CA, 92103",
         reference:'200 W ARBOR DR, SAN DIEGO, CA, 92103',
         abbrev: null,
         category: null,
@@ -644,10 +644,17 @@ let centers=[
         phone: null,
         criteria: ['333 H','2080','CHULA','91910']
     },
-
+    {
+        name: "SOUTHERN CALIFORNIA GI & LIVER CENTERS",
+        address: "333 H STREET, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['333 H','H ST','CHULA','91910']
+    },
     {
         name: "IHS RADIOLOGY",
-        address: "333 H STREET, CHULA VISTA, CA, 91911",
+        address: "333 H STREET, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "RADIOLOGY",
         phone: '866-558-4320',
@@ -3676,7 +3683,7 @@ let centers=[
         abbrev: null,
         category: null,
         phone: '619-425-0797',
-        criteria: ['786','THIRD AV',' B','CHULA','91910']
+        criteria: ['786','3RD AV',' B','CHULA','91910']
     },
     { 
         name: "DR. RODOLFO ARCOBEDO",
@@ -4070,6 +4077,13 @@ let centers=[
         category: 'CARDIOLOGY',
         phone: '619-434-4288',
         criteria: ['754','MEDICAL C','R C','101','CHULA','91911']
+    },{ 
+        name: "MARIUSZ W. WYSOCZANSKI/RAUL OVIEDO",
+        address: "754 MEDICAL CENTER CT, SUITE 101, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: 'CARDIOLOGY',
+        phone: '619-434-4288',
+        criteria: ['754','MEDICAL C','R C','101','CHULA','92101']
     },
     { 
         name: "MARIUSZ W. WYSOCZANSKI/RAUL OVIEDO",
@@ -6073,6 +6087,30 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['2210','MESA DR',' 5','OCEANSIDE','92054']
+    },
+    { 
+        name: "AUDIOLOGY HEARING SONUS",
+        address: "1820 MARRON RD, SUITE 102, CARLSBAD, CA, 92008",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1820','MARRON R','102','CARLSBAD','92008']
+    },
+    { 
+        name: "SAN DIEGO CENTER FOR THE BLIND",
+        address: "5922 EL CAJON BLVD, SAN DIEGO, CA, 92115",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['5922','EL CAJON B','DIEGO','92115']
+    },
+    { 
+        name: "VETERANS AFFAIRS MEDICAL CENTER",
+        address: "3350 LA JOLLA VILLAGE DR, SAN DIEGO, CA, 92161",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3350 LA','JOLLA VI','DIEGO','92161']
     }
     
     
