@@ -408,6 +408,25 @@ module.exports=[
     replacement:'CROUCH'},
     {typo: 'EL CAJON CA EL CAJON, CA',
     replacement:'EL CAJON, CA'},
+    {typo: 'FLOOR SD',
+    replacement:'FLOOR, SAN DIEGO'},
+    {typo: '9202U1',
+    replacement:'92020'},
+    {typo: '9400 POINT',
+    replacement:'9400 CAMPUS POINT'},
+    {typo: 'CENTER DR. CV',
+    replacement:'CENTER DR, CHULA VISTA'},
+    {typo: '330 BROADWAY',
+    replacement:'330 W BROADWAY'},
+    {typo: 'VISAT',
+    replacement:'VISTA'},
+    {typo: 'BROADWAY ROOM 112',
+    replacement:'BROADWAY #112'},
+    
+    
+    
+    
+    
     
     
     
