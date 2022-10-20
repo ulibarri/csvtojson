@@ -402,15 +402,6 @@ let centers=[
         criteria: ['200 W','ARBOR',' 210','DIEGO','92103']
     },
     {   
-        name: "UCSD",
-        address: "200 WEST ARBOR DR, SAN DIEGO, CA, 92103",
-        reference:'200 W ARBOR DR, SAN DIEGO, CA, 92103',
-        abbrev: null,
-        category: null,
-        phone:'858-657-8590',
-        criteria: ['200 W','ARBOR','DIEGO','92103']
-    },
-    {   
         name: "UCSD ORTHOPEDICS",
         address: "200 WEST ARBOR DRIVE SUITE 2, SAN DIEGO, CA, 92103",
         abbrev: "UCSD ORTHOPEDICS",
@@ -449,6 +440,15 @@ let centers=[
         category: "",
         phone:"619-543-5646",
         criteria: ['200 W','ARBOR D','DIEGO','92103']
+    },
+    {   
+        name: "UCSD",
+        address: "200 WEST ARBOR DR, SAN DIEGO, CA, 92103",
+        reference:'200 W ARBOR DR, SAN DIEGO, CA, 92103',
+        abbrev: null,
+        category: null,
+        phone:'858-657-8590',
+        criteria: ['200 W','ARBOR','DIEGO','92103']
     },
     {   
         name: "HILLCREST UCSD",
@@ -671,7 +671,7 @@ let centers=[
     
     {
         name: "SAN YSIDRO HEALTH CENTER- SAN DIEGO PACE",
-        address: "3364 BEYER BLVD SUITE 102, SAN YSIDRO, CA, 92173",
+        address: "3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
         abbrev: null,
         category: "PACE",
         phone: null,
@@ -808,7 +808,7 @@ let centers=[
     },
     {
         name: "PUJA CHITKARA MD, RHEUMATOLOGY",
-        address: "765 MEDICAL CENTER COURT, SUITE 216, CHULA VISTA, CA, 91911",
+        address: "765 MEDICAL CENTER CT, SUITE 216, CHULA VISTA, CA, 91911",
         abbrev: null,
         category: "RHEUMATOLOGY",
         phone: '619-623-3000',
@@ -816,7 +816,7 @@ let centers=[
     },
     {
         name: "CARDIOVASCULAR INSTITUTE OF SAN DIEGO",
-        address: "765 MEDICAL CENTER COURT, SUITE 211, CHULA VISTA, CA, 91911",
+        address: "765 MEDICAL CENTER CT, SUITE 211, CHULA VISTA, CA, 91911",
         abbrev: null,
         category: "CARDIOLOGY",
         phone: '619-616-2100',
@@ -824,7 +824,7 @@ let centers=[
     },   
     {
         name: "SHARP CHULA VISTA",
-        address: "765 MEDICAL CENTER COURT, SUITE 205,CHULA VISTA, CA, 91911",
+        address: "765 MEDICAL CENTER CT, SUITE 205, CHULA VISTA, CA, 91911",
         reference:'765 MEDICAL CENTER COURT, 2ND FLOOR, SUITE 205,CHULA VISTA, CA, 91911',
         abbrev: null,
         category: null,
@@ -833,7 +833,7 @@ let centers=[
     },
     {
         name: "EAR, NOSE, & THROAT ASSOCIATES OF SAN DIEGO",
-        address: "765 MEDICAL CENTER COURT, SUITE 210, CHULA VISTA, CA, 91911",
+        address: "765 MEDICAL CENTER CT, SUITE 210, CHULA VISTA, CA, 91911",
         abbrev: null,
         category: "CARDIOLOGY",
         phone: '619-482-0565',
@@ -2547,7 +2547,7 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SUITE 1300, LA JOLLA, CA, 92121",
+        address: "9400 CAMPUS POINT DRIVE, SUITE 1300, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: 'UROLOGY',
         phone: null,
@@ -2555,7 +2555,7 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SUITE 200, LA JOLLA, CA, 92121",
+        address: "9400 CAMPUS POINT DRIVE, SUITE 200, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: 'UROLOGY',
         phone: null,
@@ -2563,8 +2563,8 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA , CA, 92121",
-        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, LA JOLLA , CA, 92121',
+        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO , CA, 92121",
+        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, SAN DIEGO , CA, 92121',
         abbrev: null,
         category: null,
         phone: '858 657-8200',
@@ -2572,8 +2572,8 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA , CA, 92121",
-        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, LA JOLLA , CA, 92121',
+        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO , CA, 92121",
+        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, SAN DIEGO , CA, 92121',
         abbrev: null,
         category: null,
         phone: null,
@@ -2590,8 +2590,8 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
-        reference:'9400 CAMPUS POINT DRIVE, 1ST FLOOR, LA JOLLA, CA, 92121',
+        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
+        reference:'9400 CAMPUS POINT DRIVE, 1ST FLOOR, SAN DIEGO, CA, 92121',
         abbrev: null,
         category: 'ADVANCE IMAGING',
         phone: '619-543-3405',
@@ -2617,8 +2617,8 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
-        reference:'9400 CAMPUS POINT DRIVE, 3RD FLOOR, LA JOLLA, CA, 92121',
+        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
+        reference:'9400 CAMPUS POINT DRIVE, 3RD FLOOR, SAN DIEGO, CA, 92121',
         abbrev: null,
         category: 'ONCOLOGY',
         phone: '619-543-6980',
@@ -2626,7 +2626,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
+        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2634,7 +2634,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
+        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2642,7 +2642,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, LA JOLLA, CA, 92121",
+        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -4254,7 +4254,8 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['477 N','CAMINO','REAL','300','ENCINITAS','92024']
-    },{ 
+    },
+    { 
         name: "IHS RADIOLOGY - ENCINITAS",
         address: "477 N EL CAMINO REAL,SUITE 102, ENCINITAS, CA, 92024",
         reference:'477 N EL CAMINO REAL, BLDG. A SUITE 102, ENCINITAS, CA, 92024',
@@ -4262,6 +4263,15 @@ let centers=[
         category: 'RADIOLOGY',
         phone: '866-558-4320',
         criteria: ['477 N','CAMINO','REAL','102','ENCINITAS','92024']
+    },
+    { 
+        name: "IHS RADIOLOGY - ENCINITAS",
+        address: "477 N EL CAMINO REAL,SUITE 204, ENCINITAS, CA, 92024",
+        reference:'477 N EL CAMINO REAL, BLDG. A SUITE 102, ENCINITAS, CA, 92024',
+        abbrev: null,
+        category: 'RADIOLOGY',
+        phone: '866-558-4320',
+        criteria: ['477 N','CAMINO','REAL','204','ENCINITAS','92024']
     },
 
     { 
@@ -5680,6 +5690,22 @@ let centers=[
         criteria: ['354','SANTA FE','FE D','ENCINITAS','92024']
     },
     { 
+        name: "UROLOGY",
+        address: "320 SANTA FE DR, SUITE 108, ENCINITAS, CA, 92024",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['320','SANTA FE','FE D','108','ENCINITAS','92024']
+    },
+    { 
+        name: "UROLOGY",
+        address: "320 SANTA FE DR, SUITE 104, ENCINITAS, CA, 92024",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['320','SANTA FE','FE D','108','ENCINITAS','92424']
+    },
+    { 
         name: "LIVER SPECIALIST",
         address: "971 LANE AVE, CHULA VISTA, CA, 91914",
         abbrev: null,
@@ -6041,12 +6067,21 @@ let centers=[
     },
     { 
         name: "PODIATRY",
-        address: "1666 PRECISION PARK LANE, SAN YSIDRO, CA, 92173",
+        address: "1666 PRECISION PARK LANE, SAN DIEGO, CA, 92173",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['1666','PRECISION P','K L', 'YSIDRO','92173']
     },
+    { 
+        name: "PODIATRY",
+        address: "1666 PRECISION PARK LANE, SAN DIEGO, CA, 92173",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1666','PRECISION P','K L', 'DIEGO','92173']
+    },
+    
     { 
         name: "ALFA SURGERY CENTER",
         address: "440 E ST, CHULA VISTA, CA, 91910",
@@ -6183,6 +6218,70 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['330 W','BROADWAY','DIEGO','92101']
+    },
+    { 
+        name: "DIMITRI A. SHEREV MD (CARDIOLOGY)",
+        address: "3156 VISTA WAY, SUITE 100, OCEANSIDE, CA, 92056",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3156','VISTA W','100','OCEANSIDE','92056']
+    },
+    { 
+        name: "SS VASCULAR SURGERY & ENDOVASCULAR THERAPY",
+        address: "6719 ALVARADO RD, SUITE 303, SAN DIEGO, CA 92120",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['6719','ALVARADO R','303','DIEGO','92120']
+    },
+    { 
+        name: "SLEEP DATA",
+        address: "11415 RIDGEBACK ROAD, SUITE #1, CHULA VISTA, 91901",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['11415','RIDGEBACK R','CHULA','91901']
+    },
+    { 
+        name: "ALVARADO HOSPITAL MEDICAL CENTER",
+        address: "6655 ALVARADO RD, SAN DIEGO, CA, 92120",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['6655','ALVARADO R','DIEGO','92120']
+    },
+    { 
+        name: "US CITIZENSHIP AND IMMIGRATION SERVICES",
+        address: "1325 FRONT ST, SAN DIEGO, CA, 92101",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1325','FRONT ST','DIEGO','92101']
+    },
+    { 
+        name: "COASTAL PULMONARY COASTAL PULMONARY",
+        address: "2067 W VISTA WAY, #160, VISTA, CA, 92083",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2067 W','VISTA W','160','VISTA','92083']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "865 3RD AVENUE, SUITE 133, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['865','3RD AV','133','CHULA','91911']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "865 3RD AVENUE, SUITE 133, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['865','THIRD AV','133','CHULA','91911']
     }
     
     

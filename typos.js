@@ -422,6 +422,13 @@ module.exports=[
     replacement:'VISTA'},
     {typo: 'BROADWAY ROOM 112',
     replacement:'BROADWAY #112'},
+    {typo: '764 MEDICAL CENTER DR.',
+    replacement:'764 MEDICAL CENTER CT,'},
+    {typo: '2067 VISTA WAY',
+    replacement:'2067 W VISTA WAY'},
+
+    
+    
     
     
     
