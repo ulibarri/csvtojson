@@ -426,6 +426,8 @@ module.exports=[
     replacement:'764 MEDICAL CENTER CT,'},
     {typo: '2067 VISTA WAY',
     replacement:'2067 W VISTA WAY'},
+    {typo: 'CA 91EVAL',
+    replacement:'CA 91911 EVAL'},
 
     
     
