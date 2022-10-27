@@ -2547,7 +2547,7 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SUITE 1300, SAN DIEGO, CA, 92121",
+        address: "9400 CAMPUS POINT DR, SUITE 1300, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: 'UROLOGY',
         phone: null,
@@ -2555,7 +2555,7 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SUITE 200, SAN DIEGO, CA, 92121",
+        address: "9400 CAMPUS POINT DR, SUITE 200, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: 'UROLOGY',
         phone: null,
@@ -2563,7 +2563,7 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO , CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, SAN DIEGO , CA, 92121',
         abbrev: null,
         category: null,
@@ -2572,7 +2572,7 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO , CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, SAN DIEGO , CA, 92121',
         abbrev: null,
         category: null,
@@ -2581,7 +2581,7 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO , CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, LA JOLLA , CA, 92121',
         abbrev: null,
         category: null,
@@ -2590,7 +2590,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         reference:'9400 CAMPUS POINT DRIVE, 1ST FLOOR, SAN DIEGO, CA, 92121',
         abbrev: null,
         category: 'ADVANCE IMAGING',
@@ -2599,7 +2599,7 @@ let centers=[
     },
     { 
         name: "UCSD",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
         reference: "9400 CAMPUS POINT DRIVE, 1ST FLOOR RADIOLOGY, SAN DIEGO, CA, 92121",
         category: null,
@@ -2617,7 +2617,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         reference:'9400 CAMPUS POINT DRIVE, 3RD FLOOR, SAN DIEGO, CA, 92121',
         abbrev: null,
         category: 'ONCOLOGY',
@@ -2626,7 +2626,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2634,7 +2634,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2642,7 +2642,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2650,7 +2650,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2658,7 +2658,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -2666,7 +2666,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -3061,6 +3061,14 @@ let centers=[
         category: null,
         phone: '858-657-7000',
         criteria: ['4520','EXECUTIVE DR', 'DIEGO','92121']
+    },
+    { 
+        name: "UCSD",
+        address: "4520 EXECUTIVE DRIVE PLAZA, SAN DIEGO, CA, 92121",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['4520','EXECUTIVE DR', 'DIEGO','92921']
     },
     { 
         name: "MEDIC",
@@ -6043,7 +6051,7 @@ let centers=[
     },
     { 
         name: "NOT AVAILABLE",
-        address: "9400 CAMPUS POINT DR,SAN DIEGO, CA, 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
@@ -6282,6 +6290,22 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['865','THIRD AV','133','CHULA','91911']
+    },
+    { 
+        name: "RITVIK MEHTA MD",
+        address: "2390 FARADAY AVE, CARLSBAD, CA, 92008",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2390','ARADAY AV','CARLSBAD','92008']
+    },
+    { 
+        name: "PALOMAR MEDICAL CENTER",
+        address: " 2185 CITRACADO PARKWAY, ESCONDIDO, CA, 92029",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2185','CITRACADO P','ESCONDIDO','92029']
     }
     
     
