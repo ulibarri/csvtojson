@@ -2608,7 +2608,7 @@ let centers=[
     },
     { 
         name: "UCSD",
-        address: "9400 CAMPUS POINT DRIVE, SAN DIEGO, CA 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
         reference: "9400 CAMPUS POINT DRIVE, 1ST FLOOR RADIOLOGY, SAN DIEGO, CA, 92121",
         category: null,
@@ -2650,7 +2650,7 @@ let centers=[
     },
     { 
         name: "UC SAN DIEGO",
-        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA 92121",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
         category: null,
         phone: null,
