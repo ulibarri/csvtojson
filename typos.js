@@ -428,6 +428,15 @@ module.exports=[
     replacement:'2067 W VISTA WAY'},
     {typo: 'CA 91EVAL',
     replacement:'CA 91911 EVAL'},
+    {typo: 'SUITE 312 SD',
+    replacement:'SUITE 312, SAN DIEGO'},
+    {typo: '2400 EAST FOURTH',
+    replacement:'2400 E 4TH'},
+    {typo: '91950-2',
+    replacement:'91950'},
+     
+    
+    
 
     
     

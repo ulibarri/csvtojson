@@ -121,7 +121,7 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 
 									(SISTER MARY GRACE)  9,15 AUG 9,13, 14,26 SEP 11, 27 OCT
 
-									VEGA HERNANDEZ (VEGA), RUTH (SDP565051)
+									VEGA HERNANDEZ (VEGA), RUTH (SDP565051) 3 NOV
 									CENTRO
 									2095 WEST VISTA WAY, VISTA, CA, 92083 cambiarlo por  1840 WEST DR, VISTA, CA, 92083
 									que no salga ni en origen ni en destino

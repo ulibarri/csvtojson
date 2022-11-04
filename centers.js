@@ -434,6 +434,14 @@ let centers=[
         criteria: ['200','WEST','ARBOR','DIEGO','92103','#2']
     },
     {   
+        name: "UCSD ORTHOPEDICS",
+        address: "200 WEST ARBOR DRIVE SUITE 2, SAN DIEGO, CA, 92103",
+        abbrev: "UCSD ORTHOPEDICS",
+        category: "ORTHOPEDICS",
+        phone:"858-657-8200",
+        criteria: ['200','WEST','ARBOR','DIEGO','92105', 'SUITE 2']
+    },
+    {   
         name: "HILLCREST UCSD",
         address: "200 WEST ARBOR DRIVE, SAN DIEGO, CA, 92103",
         abbrev: "UCSD",
@@ -2687,7 +2695,7 @@ let centers=[
         abbrev: null,
         category: 'RADIOLOGY',
         phone: '619-543-1998',
-        criteria: ['9300','CAMPUS','POINT D','92037','JOLLA','1ST']
+        criteria: ['9300','CAMPUS','POINT D','92037','JOLLA']
     } ,
     {  
         name: "UC SAN DIEGO",
@@ -4337,14 +4345,7 @@ let centers=[
         category: 'ORTHO',
         phone: '619 576-9901',
         criteria: ['8010','FROST S','DIEGO', '92123']
-    },    { 
-        name: "SHARP MEMORIAL HOSPITAL",
-        address: "808 FROST ST, SAN DIEGO, CA, 92123",
-        abbrev: null,
-        category: null,
-        phone: null,
-        criteria: ['808','FROST ST',  'DIEGO','92123']
-    },
+    },    
     {
         name: "SHARP MEMORIAL HOSPITAL",
         address: "7901 FROST ST, SAN DIEGO, CA, 92123",
@@ -5762,6 +5763,14 @@ let centers=[
         criteria: ['2216 S','CAMINO REAL','122','OCEANSIDE','92056']
     },
     { 
+        name: "TRUCARE DENTAL",
+        address: "2216 S EL CAMINO REAL, SUITE 121, OCEANSIDE, CA, 92054",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2216 S','CAMINO REAL','121','OCEANSIDE','92054']
+    },
+    { 
         name: "NOT AVAILABLE",
         address: "2335 VISTA WAY, OCEANSIDE, CA, 92054",
         abbrev: null,
@@ -5898,6 +5907,14 @@ let centers=[
         criteria: ['7339', 'CAJON B','JK','MESA','91942']
     },
     { 
+        name: "SARJAN PATEL, MD",
+        address: "7339 EL CAJON BLVD SUITE JK, LA MESA, CA 91942",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['7339', 'CAJON B','J/K','MESA','91942']
+    },
+    { 
         name: "NOT AVAILABLE",
         address: "105 DURIAN ST, VISTA, CA ,92083",
         abbrev: null,
@@ -6024,6 +6041,14 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['3300','VISTA W',' B','OCEANSIDE','92056']
+    },
+    { 
+        name: "BALBOA NEPHROLOGY",
+        address: "3300 VISTA WAY, OCEANSIDE, CA, 92056",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3300','VISTA W','OCEANSIDE','92056']
     },
     { 
         name: "SY DENTAL San Diego Childrens Dental Clinic",
@@ -6301,12 +6326,28 @@ let centers=[
     },
     { 
         name: "PALOMAR MEDICAL CENTER",
-        address: " 2185 CITRACADO PARKWAY, ESCONDIDO, CA, 92029",
+        address: "2185 CITRACADO PARKWAY, ESCONDIDO, CA, 92029",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['2185','CITRACADO P','ESCONDIDO','92029']
-    }
+    },
+    { 
+        name: "HSING COASTAL PULMONARY ASSOCIATES",
+        address: "326 SANTA FE DRIVE, SUITE 100 ENCINITAS, CA, 92024",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['326','SANTA FE DR','100','ENCINITAS','92024']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "631 E GRAND AVE, ESCONDIDO, CA, 92025",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['631 E','GRAND AV','ESCONDIDO','92025']
+    },
     
     
     
