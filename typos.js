@@ -434,6 +434,8 @@ module.exports=[
     replacement:'2400 E 4TH'},
     {typo: '91950-2',
     replacement:'91950'},
+    {typo: 'STE121-122',
+    replacement:'STE 122'},
      
     
     
