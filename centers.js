@@ -357,6 +357,15 @@ let centers=[
         criteria: ['200 W','ARBOR', 'DIEGO','92101', '1B']
     },    
     {
+        name: "UCSD HILLCREST NEUROLOGY",
+        address: "200 WEST ARBOR, 1B, SAN DIEGO, CA, 92103",
+        reference:'200 WEST ARBOR, 3RD FLOOR, 1B, SAN DIEGO, CA, 92103',
+        abbrev: null,
+        category: "NEUROLOGY",
+        phone: null,
+        criteria: ['200 W','ARBOR', 'DIEGO','92121', '1B']
+    },    
+    {
         name: "DR. JASON WOO UROLOGY",
         address: "200 WEST ARBOR DRIVE, STE. 4, SAN DIEGO, CA, 92103",
         reference:'200 WEST ARBOR DRIVE,3RD FLOOR, STE. 4, SAN DIEGO, CA, 92103',
@@ -733,6 +742,14 @@ let centers=[
         category: "SURGERY",
         phone: '858-822-6197',
         criteria: ['3855','HEALTH','SCIENCES','JOLLA', "92037"]
+    },
+    {
+        name: "HEAD AND NECK SURGERY SPECIALIST",
+        address: "3855 HEALTH SCIENCES DR, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: "SURGERY",
+        phone: '858-822-6197',
+        criteria: ['3855','HEALTH','SCIENCES','DIEGO', "92037"]
     },
     {
         name: "HEARING AID IMPRESSIONS- SONUS 07",
@@ -2713,6 +2730,14 @@ let centers=[
         phone: '619-543-1998',
         criteria: ['9300','CAMPUS','POINT D','92121','DIEGO']
     },
+    {  
+        name: "UC SAN DIEGO",
+        address: "9300 CAMPUS POINT DRIVE, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: 'RADIOLOGY',
+        phone: '619-543-1998',
+        criteria: ['9300','CAMPUS','POINT D','921121','JOLLA']
+    },
     { 
         name: "GYNECOLOGY-MATERNAL & CHILD HEALTH CENTER",
         address: "4050 BEYER BOULEVARD, SAN YSIDRO, CA, 92173",
@@ -2771,7 +2796,7 @@ let centers=[
     },
     { 
         name: "NEUROLOGY ROBERTO GRATIANNE, MD",
-        address: "450 4TH AVENUE SUITE 214 CHULA VISTA, CA, 91910",
+        address: "450 4TH AVENUE, SUITE 214, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: null,
         phone: null,
@@ -2779,7 +2804,7 @@ let centers=[
     },
     { 
         name: "NEUROLOGY ROBERTO GRATIANNE, MD",
-        address: "450 4TH AVENUE SUITE 214 CHULA VISTA, CA, 91910",
+        address: "450 4TH AVENUE, SUITE 214, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: null,
         phone: null,
@@ -2787,11 +2812,19 @@ let centers=[
     },
     { 
         name: "NEUROLOGY ROBERTO GRATIANNE, MD",
-        address: "450 4TH AVENUE SUITE 214 CHULA VISTA, CA, 91910",
+        address: "450 4TH AVENUE, SUITE 214, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['450','4TH AV','214','CHULA','91910']
+    },
+    { 
+        name: "NEUROLOGY ROBERTO GRATIANNE, MD",
+        address: "450 4TH AVENUE, SUITE 401, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['450','4TH AV','401','CHULA','91910']
     },
     { 
         name: "KIKAWA- UCSD",
@@ -4411,6 +4444,14 @@ let centers=[
         criteria: ['4150','GENTS PAR','345','JOLLA','92037']
     },
     { 
+        name: "IHS RADIOLOGY - LA JOLLA",
+        address: "4150 REGENTS PARK ROW, STE 345, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['4150','GENTS PAR','345','DIEGO','92037']
+    },
+    { 
         name: "DR. YOO, KEVIN",
         address: "4150 REGENTS PARK ROW, SUITE 325, LA JOLLA, CA, 92037",
         abbrev: null,
@@ -4782,7 +4823,14 @@ let centers=[
         phone: null,
         criteria: ['488 E','VALLEY','Y P','107','ESCONDIDO','92025']
     },
-
+    { 
+        name: "BETTER NIGHT",
+        address: "488 E VALLEY PKWY, SUITE 105, ESCONDIDO, CA, 92025",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['488 E','VALLEY','Y P','105','ESCONDIDO','92025']
+    },
     
     { 
         name: "SLEEP DATA",
@@ -5211,6 +5259,14 @@ let centers=[
         criteria: ['303','H ST','103', 'CHULA','91910']
     },
     { 
+        name: "NORTH COUNTY SURGICAL ASSOCIATES IN SAN MARCOS",
+        address: "838 NORDAHL RD, STE 270, SAN MARCOS, CA, 92069",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['838','NORDAHL R','270','MARCOS','92069']
+    },
+    { 
         name: "CARE SAN MARCOS",
         address: "838 NORDAHL RD, #300, SAN MARCOS, CA, 92069",
         abbrev: null,
@@ -5225,6 +5281,14 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['838','NORDAHL R','200', 'MARCOS','92069']
+    },
+    { 
+        name: "NORTH COUNTY SURGICAL ASSOCIATES IN SAN MARCOS",
+        address: "838 NORDAHL RD, SAN MARCOS, CA, 92069",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['838','NORDAHL R','MARCOS','92069']
     },
     { 
         name: "SYH ESCONDIDO FAMILY MEDICINE DENTAL",
@@ -5834,14 +5898,7 @@ let centers=[
         phone: null,
         criteria: ['700 N','JOHNSON AV',' M','CAJON','92020']
     },
-    { 
-        name: "NORTH COUNTY SURGICAL ASSOCIATES IN SAN MARCOS",
-        address: "838 NORDAHL RD, STE 270, SAN MARCOS, CA, 92069",
-        abbrev: null,
-        category: null,
-        phone: null,
-        criteria: ['838','NORDAHL R','270','MARCOS','92069']
-    },
+    
     { 
         name: "TRUE CARE SAN MARCOS",
         address: "150 VALPREDA RD, SAN MARCOS, CA, 92069",
@@ -6388,8 +6445,30 @@ let centers=[
         phone: null,
         criteria: ['3131','BERGER AV','200','DIEGO', '92123']
     },
-    
-    
+    { 
+        name: "SPINE & SPORT PHYSICAL THERAPY CLINIC BONITA",
+        address: "180 OTAY LAKES RD, SUITE 105, BONITA, CA, BONITA",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['180 OTAY','LAKES R','105','BONITA']
+    },
+    { 
+        name: "CENTRAL COURTHOUSE/SUPERIOR COURT OF CALIFORNIA",
+        address: "1100 UNION STREET, SAN DIEGO, CA, 92101",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1100','UNION ST','DIEGO', '92101']
+    },
+    { 
+        name: "NOT AVAILABLE",
+        address: "255 NORTH ASH ST, ESCONDIDO, CA, 92027",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['255 N','ASH ST','ESCONDIDO', '92027']
+    },
     
     
     

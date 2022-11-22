@@ -436,7 +436,12 @@ module.exports=[
     replacement:'91950'},
     {typo: 'STE121-122',
     replacement:'STE 122'},
-     
+    {typo: 'DRIVE SUITE 2 C',
+    replacement:'DRIVE SUITE 2C'},
+    {typo: '1380 EL CAJON STE',
+    replacement:'1380 EL CAJON BLVD, STE'},
+    
+    
     
     
 
