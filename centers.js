@@ -2650,6 +2650,14 @@ let centers=[
         criteria: ['9400','CAMPUS','POINT D','92037','JOLLA','3RD','FLOOR']
     },
     { 
+        name: "NOT AVAILABLE",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9400','CAMPUS P','POINT D', 'DIEGO','92056']
+    },
+    { 
         name: "UC SAN DIEGO",
         address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
         abbrev: null,
@@ -5716,7 +5724,7 @@ let centers=[
     },
     { 
         name: "RICHARD MAYER, MD",
-        address: "6699 ALVARADO ROAD, SUITE 2308, SAN DIEGO, CA, 92120",
+        address: "6699 ALVARADO RD, SUITE 2308, SAN DIEGO, CA, 92120",
         abbrev: null,
         category: null,
         phone: '619-462-9010',
@@ -5724,11 +5732,19 @@ let centers=[
     },
     { 
         name: "BORIS KHAMISHON, MD",
-        address: "6699 ALVARADO ROAD, SUITE 2301, SAN DIEGO, CA, 92120",
+        address: "6699 ALVARADO RD, SUITE 2301, SAN DIEGO, CA, 92120",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['6699','ALVARADO R','2301','DIEGO','92120']
+    },
+    { 
+        name: "BORIS KHAMISHON, MD",
+        address: "6699 ALVARADO RD, SUITE 301, SAN DIEGO, CA, 92120",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['6699','ALVARADO R','301','DIEGO','92120']
     },
     { 
         name: "DENTAL COSMETIC DENTISTRY CENTER OF SAN DIEGO",
@@ -6164,14 +6180,6 @@ let centers=[
         criteria: ['3998','VISTA W','108', 'OCEANSIDE','92056']
     },
     { 
-        name: "NOT AVAILABLE",
-        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
-        abbrev: null,
-        category: null,
-        phone: null,
-        criteria: ['9400','CAMPUS P','POINT D', 'DIEGO','92056']
-    },
-    { 
         name: "DENTAL",
         address: "4700 N RIVER RD, OCEANSIDE, CA, 92057",
         abbrev: null,
@@ -6468,6 +6476,14 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['255 N','ASH ST','ESCONDIDO', '92027']
+    },
+    { 
+        name: "HANGER CLINIC",
+        address: "7720 CARDINAL COURT, SAN DIEGO, CA, 92123",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['7720 C','CARDINAL C','DIEGO', '92123']
     },
     
     
