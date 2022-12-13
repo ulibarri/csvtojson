@@ -557,6 +557,14 @@ let centers=[
         criteria: ['841','KUHN D','200','CHULA','91914']
     },
     {
+        name: "SOUTH BAY PULMONARY",
+        address: "841 KUHN DR, SUITE 200, CHULA VISTA, CA, 91914",
+        abbrev: null,
+        category: "PULMONARY",
+        phone: '619-623-3816',
+        criteria: ['841','KUHN D','200','CHULA','91917']
+    },
+    {
         name: "SOUTHBAY FAMILY HEALTH & DENTAL CENTER",
         address: "340 E 8TH STREET, NATIONAL CITY, CA, 91950",
         abbrev: null,
@@ -2563,6 +2571,15 @@ let centers=[
         criteria: ['5525','GROSSMONT C','R D', 'MESA', '91942']
     },
     {
+        name: "GROSSMONT CENTER",
+        address: "5525 GROSSMONT CENTER DR, LA MESA, CA, 91942",
+        reference:null,
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['5525','GROSSMONT C','R D', 'DIEGO', '91942']
+    },
+    {
         name: "SAN DIEGO FAMILY DERMATOLOGY",
         address: "292 AVOCADO AVENUE, EL CAJON, CA, 92020",
         abbrev: null,
@@ -4215,6 +4232,14 @@ let centers=[
         criteria: ['754','MEDICAL C','R C','101','CHULA','91910']
     },
     { 
+        name: "MARIUSZ W. WYSOCZANSKI/RAUL OVIEDO",
+        address: "754 MEDICAL CENTER CT, SUITE 101, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: 'CARDIOLOGY',
+        phone: '619-434-4288',
+        criteria: ['754','MEDICAL C','R C','101','CHULA','91950']
+    },
+    { 
         name: "STEVEN ROUGH/MD",
         address: "754 MEDICAL CENTER CT, SUITE 206, CHULA VISTA, CA, 91911",
         abbrev: null,
@@ -4354,7 +4379,14 @@ let centers=[
         phone: '866-558-4320',
         criteria: ['477 N','CAMINO','REAL','204','ENCINITAS','92024']
     },
-
+    { 
+        name: "IHS RADIOLOGY - ENCINITAS",
+        address: "477 N EL CAMINO REAL,SUITE C202, ENCINITAS, CA, 92024",
+        abbrev: null,
+        category: 'RADIOLOGY',
+        phone: null,
+        criteria: ['477 N','CAMINO','REAL','202 ','ENCINITAS','92024']
+    },
     { 
         name: "NOT AVAILABLE",
         address: "231 H ST, APT B, CHULA VISTA, 91910",
@@ -5812,11 +5844,19 @@ let centers=[
     },
     { 
         name: "UROLOGY",
-        address: "320 SANTA FE DR, SUITE 104, ENCINITAS, CA, 92024",
+        address: "320 SANTA FE DR, SUITE 108, ENCINITAS, CA, 92024",
         abbrev: null,
         category: null,
         phone: null,
         criteria: ['320','SANTA FE','FE D','108','ENCINITAS','92424']
+    },
+    { 
+        name: "UROLOGY",
+        address: "320 SANTA FE DR, SUITE 104, ENCINITAS, CA, 92024",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['320','SANTA FE','FE D','104','ENCINITAS','92424']
     },
     { 
         name: "LIVER SPECIALIST",
@@ -5955,6 +5995,15 @@ let centers=[
         phone: null,
         criteria: ['619','CROUCH S', '100','OCEANSIDE','92054']
     },
+    { 
+        name: "PSYCHAIATRIST",
+        address: "619 CROUCH ST, OCEANSIDE, CA, 92054",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['619','CROUCH S','OCEANSIDE','92054']
+    },
+    
     { 
         name: "PHYSICAL THERAPY ESCONDIDO",
         address: "2420 VISTA WAY, #215, OCEANSIDE, CA, 92054",
@@ -6484,6 +6533,22 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['7720 C','CARDINAL C','DIEGO', '92123']
+    },
+    { 
+        name: "CHASE BANK",
+        address: "4440 WIGHTMAN ST, STE 100, SAN DIEGO, CA, 92105",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['4440','WIGHTMAN S','100', 'DIEGO','92105']
+    },
+    { 
+        name: "GK DERMATOLOGY OF SD",
+        address: "330 S MAGNOLIA AVE, STE 203, EL CAJON, CA, 92020",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['330 S','MAGNOLIA AV','203', 'CAJON','92020']
     },
     
     

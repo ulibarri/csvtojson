@@ -440,6 +440,9 @@ module.exports=[
     replacement:'DRIVE SUITE 2C'},
     {typo: '1380 EL CAJON STE',
     replacement:'1380 EL CAJON BLVD, STE'},
+    {typo: 'POWEY',
+    replacement:'POWAY'},
+    
     
     
     

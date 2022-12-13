@@ -27,6 +27,8 @@ module.exports=[
     replacement:'VIA TAZON'},
     {typo: 'VIA,CENTRE',
     replacement:'VIA CENTRE'},
+    {typo: 'VIA,FELICIA',
+    replacement:'VIA FELICIA'},
     {typo: 'PALM AVE,',
     replacement:'PALM AVENUE,'},
     {typo: 'CA 9',
