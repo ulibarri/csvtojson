@@ -1,0 +1,26 @@
+[{
+    "destination_id": 2,
+    "destination_full_address": "880 3RD AVENUE, CHULA VISTA, CA, 91911",
+    "destination_formatted_address":"880 3RD AVENUE, CHULA VISTA, CA 91911, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"880",
+    "destination_street":"3RD AVENUE",
+    "destination_city":"CHULA VISTA",
+    "destination_state":"CA",
+    "destination_zip":"91911",
+    "destination_longitude":0,  
+    "destination_latitude":0
+    },
+{
+    "destination_id": 3,
+    "destination_full_address": "3364 BEYER BLVD, SAN YSIDRO, CA, 92173",
+    "destination_formatted_address":"3364 BEYER BLVD, SAN YSIDRO, CA 92173, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"3364",
+    "destination_street":"BEYER BLVD",
+    "destination_city":"SAN YSIDRO",
+    "destination_state":"CA",
+    "destination_zip":"92173",
+    "destination_longitude":0,
+    "destination_latitude":0
+}]

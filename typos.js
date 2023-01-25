@@ -442,6 +442,34 @@ module.exports=[
     replacement:'1380 EL CAJON BLVD, STE'},
     {typo: 'POWEY',
     replacement:'POWAY'},
+    {typo: 'EAST 12TH NA',
+    replacement:'EAST 12TH ST, NA'},
+    {typo: '9350 CAMPUS DR',
+    replacement:'9350 CAMPUS POINT DR'},
+    {typo: ' 91914-3',
+    replacement:' 91914'},
+    {typo: '1ST FLOOR,',
+    replacement:' '},
+    {typo: 'SUITE #2',
+    replacement:'SUITE 2'},
+    {typo: 'PARKWAY VALLEY',
+    replacement:'VALLEY PARKWAY'},
+    {typo: 'APT#7',
+    replacement:'APT 7'},
+    {typo: '4910 DIRECTOR PL',
+    replacement:'4910 DIRECTORS PL'},
+    {typo: 'BOR DRIVE SD CA',
+    replacement:'BOR DRIVE, SAN DIEGO, CA'},
+    
+    
+
+    
+    
+
+   
+
+   
+    
     
     
     
