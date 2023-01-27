@@ -460,6 +460,10 @@ module.exports=[
     replacement:'4910 DIRECTORS PL'},
     {typo: 'BOR DRIVE SD CA',
     replacement:'BOR DRIVE, SAN DIEGO, CA'},
+    {typo: '1820 MARRON DR',
+    replacement:'1820 MARRON RD'},
+    
+
     
     
 

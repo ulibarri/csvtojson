@@ -129,7 +129,7 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 
 									16918 Dove Canyon Rd Suite 100, San Diego, CA 92127 16918 DOVE CANYON RD, SUITE 100,SAN DIEGO, CA, 92127
 									3987 BATEMAN AVENUE, EXT 2120, SAN DIEGO,CA , 92154
-									SDP542305 este COMPLETA, el drop off address es:
+									
 									
 
 									Steam Cell Clinic
@@ -138,7 +138,8 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 									227 NORTON AVE APT B,NATIONAL CITY,CA, 91950 227 NORTON AVE, APT B,NATIONAL CITY,CA, 91950
 									200 W ARBOR DR, SUITE 411, SAN DIEGO, CA, 92103
 									105 DURIAN 105 Durian St, Vista, CA, 92083
-									DORIS HERENCIA (verificar origen)
+									
+									
 									288 'F'
 									394 BROADWAY ROOM 112 CHULA VISTA, CA, 91911 CASTRO ROSALIO	394 BROADWAY, # 112, CHULA VISTA, CA, 91911
 
@@ -152,6 +153,8 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 									1184 30th St. Apt 103,  San Diego, CA 92154
 									SDP003232 avisar cuando aparezca
 									SDP000769 revisar 855 y 880 3RD
+									DORIS HERENCIA (verificar origen)
+									SDP542305 este COMPLETA, el drop off address es:
 
 									
 									UC SAN DIEGO HEALTH 330 LEWIS ST,SAN DIEGO, CA, 92103

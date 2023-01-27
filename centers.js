@@ -5246,6 +5246,14 @@ let centers=[
     },
     { 
         name: "DR BRODERICK - LA JOLLA UTC MALL",
+        address: "4303 LA JOLLA VILLAGE DR, SAN DIEGO, CA, 92122",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['4303','VILLAGE','E D', 'JOLLA','92121']
+    },
+    { 
+        name: "DR BRODERICK - LA JOLLA UTC MALL",
         address: "4303 LA JOLLA VILLAGE DR, SUITE 2110, SAN DIEGO, CA, 92122",
         abbrev: null,
         category: null,

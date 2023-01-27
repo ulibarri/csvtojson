@@ -29,7 +29,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"], 
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":2,
@@ -61,7 +63,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":3,
@@ -93,7 +97,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":4,
@@ -125,7 +131,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":5,
@@ -157,7 +165,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":6,
@@ -189,7 +199,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":7,
@@ -221,7 +233,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":8,
@@ -253,7 +267,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":9,
@@ -285,7 +301,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":10,
@@ -317,7 +335,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":11,
@@ -349,7 +369,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":12,
@@ -381,7 +403,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },{
     "id":13,
     "c":"AMB",
@@ -412,7 +436,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":14,
@@ -444,7 +470,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":15,
@@ -476,7 +504,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":16,
@@ -508,7 +538,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":17,
@@ -540,7 +572,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":18,
@@ -572,7 +606,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":19,
@@ -604,7 +640,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":20,
@@ -636,7 +674,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":21,
@@ -668,7 +708,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":22,
@@ -700,7 +742,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":23,
@@ -732,7 +776,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":24,
@@ -764,7 +810,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":25,
@@ -796,7 +844,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":26,
@@ -828,7 +878,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":27,
@@ -860,7 +912,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":28,
@@ -892,7 +946,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":29,
@@ -924,7 +980,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":30,
@@ -956,7 +1014,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":31,
@@ -988,7 +1048,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":32,
@@ -1020,7 +1082,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":33,
@@ -1052,7 +1116,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":34,
@@ -1084,7 +1150,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":35,
@@ -1116,7 +1184,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":36,
@@ -1148,7 +1218,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": true
  },
  {
     "id":37,
@@ -1180,7 +1252,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":38,
@@ -1212,7 +1286,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":39,
@@ -1244,7 +1320,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": true
  },
  {
     "id":40,
@@ -1276,7 +1354,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":41,
@@ -1308,7 +1388,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":42,
@@ -1340,7 +1422,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":43,
@@ -1372,7 +1456,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":44,
@@ -1403,7 +1489,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":45,
@@ -1435,7 +1523,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":46,
@@ -1467,7 +1557,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":47,
@@ -1499,7 +1591,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":48,
@@ -1531,7 +1625,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":49,
@@ -1563,7 +1659,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":50,
@@ -1595,7 +1693,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":51,
@@ -1627,7 +1727,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":52,
@@ -1659,7 +1761,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":53,
@@ -1691,7 +1795,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":54,
@@ -1723,7 +1829,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":55,
@@ -1755,7 +1863,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":56,
@@ -1787,7 +1897,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":57,
@@ -1819,7 +1931,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":58,
@@ -1851,7 +1965,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":59,
@@ -1883,7 +1999,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":60,
@@ -1915,7 +2033,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":60,
@@ -1947,7 +2067,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":61,
@@ -1979,7 +2101,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":62,
@@ -2011,7 +2135,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":63,
@@ -2043,7 +2169,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":64,
@@ -2075,7 +2203,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":65,
@@ -2107,7 +2237,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":66,
@@ -2139,7 +2271,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":67,
@@ -2171,7 +2305,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":68,
@@ -2203,7 +2339,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":69,
@@ -2235,7 +2373,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":70,
@@ -2267,7 +2407,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":71,
@@ -2299,7 +2441,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":72,
@@ -2331,7 +2475,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":73,
@@ -2363,7 +2509,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":74,
@@ -2395,7 +2543,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":75,
@@ -2427,7 +2577,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":76,
@@ -2459,7 +2611,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":77,
@@ -2491,7 +2645,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":78,
@@ -2523,7 +2679,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":79,
@@ -2555,7 +2713,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":80,
@@ -2587,7 +2747,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":81,
@@ -2619,7 +2781,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":82,
@@ -2651,7 +2815,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":83,
@@ -2683,7 +2849,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":84,
@@ -2715,7 +2883,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":85,
@@ -2747,7 +2917,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":86,
@@ -2779,7 +2951,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":87,
@@ -2811,7 +2985,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":88,
@@ -2843,7 +3019,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":89,
@@ -2875,7 +3053,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]   
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false   
  },
  {
     "id":90,
@@ -2907,7 +3087,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":91,
@@ -2939,7 +3121,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":92,
@@ -2971,7 +3155,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":93,
@@ -3003,7 +3189,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":94,
@@ -3035,7 +3223,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":95,
@@ -3067,7 +3257,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":96,
@@ -3099,7 +3291,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":97,
@@ -3131,7 +3325,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":98,
@@ -3163,7 +3359,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":99,
@@ -3195,7 +3393,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":100,
@@ -3227,7 +3427,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":101,
@@ -3259,7 +3461,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":102,
@@ -3291,7 +3495,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":103,
@@ -3323,7 +3529,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":104,
@@ -3355,7 +3563,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":105,
@@ -3387,7 +3597,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":106,
@@ -3419,7 +3631,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":107,
@@ -3451,7 +3665,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":108,
@@ -3483,7 +3699,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":109,
@@ -3515,7 +3733,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":110,
@@ -3547,7 +3767,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":111,
@@ -3579,7 +3801,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":112,
@@ -3611,7 +3835,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":113,
@@ -3643,7 +3869,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":114,
@@ -3675,7 +3903,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":115,
@@ -3707,7 +3937,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":116,
@@ -3739,7 +3971,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":117,
@@ -3771,7 +4005,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":118,
@@ -3803,7 +4039,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":119,
@@ -3835,7 +4073,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":120,
@@ -3867,7 +4107,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":121,
@@ -3899,7 +4141,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":122,
@@ -3931,7 +4175,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":123,
@@ -3963,7 +4209,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":124,
@@ -3995,7 +4243,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":125,
@@ -4027,7 +4277,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":126,
@@ -4059,7 +4311,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":127,
@@ -4091,7 +4345,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":128,
@@ -4123,7 +4379,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":129,
@@ -4155,7 +4413,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":130,
@@ -4187,7 +4447,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":131,
@@ -4219,7 +4481,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":132,
@@ -4251,7 +4515,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":133,
@@ -4283,7 +4549,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":134,
@@ -4315,7 +4583,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":135,
@@ -4347,7 +4617,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":136,
@@ -4379,7 +4651,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":137,
@@ -4411,7 +4685,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":138,
@@ -4443,7 +4719,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":139,
@@ -4475,7 +4753,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":140,
@@ -4507,7 +4787,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":141,
@@ -4539,7 +4821,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":158,
@@ -4571,7 +4855,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":142,
@@ -4603,7 +4889,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":143,
@@ -4635,7 +4923,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":159,
@@ -4667,7 +4957,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":144,
@@ -4699,7 +4991,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":146,
@@ -4731,7 +5025,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":160,
@@ -4763,7 +5059,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":147,
@@ -4795,7 +5093,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":148,
@@ -4827,7 +5127,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":149,
@@ -4859,7 +5161,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":150,
@@ -4891,7 +5195,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":151,
@@ -4923,7 +5229,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":152,
@@ -4955,7 +5263,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":153,
@@ -4987,7 +5297,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":154,
@@ -5019,7 +5331,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":155,
@@ -5051,7 +5365,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":156,
@@ -5083,7 +5399,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":161,
@@ -5115,7 +5433,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":162,
@@ -5147,7 +5467,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":163,
@@ -5179,7 +5501,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":164,
@@ -5211,7 +5535,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":165,
@@ -5243,7 +5569,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":166,
@@ -5275,7 +5603,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":167,
@@ -5307,7 +5637,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":168,
@@ -5339,7 +5671,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":169,
@@ -5371,7 +5705,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":170,
@@ -5403,7 +5739,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":171,
@@ -5435,7 +5773,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":172,
@@ -5467,7 +5807,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":173,
@@ -5499,7 +5841,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":174,
@@ -5531,7 +5875,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":175,
@@ -5563,7 +5909,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":176,
@@ -5595,7 +5943,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":177,
@@ -5627,7 +5977,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":178,
@@ -5659,7 +6011,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":179,
@@ -5691,7 +6045,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":180,
@@ -5723,7 +6079,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":181,
@@ -5755,7 +6113,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":182,
@@ -5787,7 +6147,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":183,
@@ -5819,7 +6181,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":184,
@@ -5851,7 +6215,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":185,
@@ -5883,7 +6249,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":186,
@@ -5915,7 +6283,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":187,
@@ -5947,7 +6317,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":188,
@@ -5979,7 +6351,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":189,
@@ -6011,7 +6385,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":190,
@@ -6043,7 +6419,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":191,
@@ -6075,7 +6453,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":192,
@@ -6107,7 +6487,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":193,
@@ -6139,7 +6521,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":194,
@@ -6171,7 +6555,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":195,
@@ -6203,7 +6589,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":196,
@@ -6235,7 +6623,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":197,
@@ -6267,7 +6657,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":198,
@@ -6299,7 +6691,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":199,
@@ -6331,7 +6725,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":200,
@@ -6363,7 +6759,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":201,
@@ -6395,7 +6793,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":202,
@@ -6427,7 +6827,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":203,
@@ -6459,7 +6861,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":204,
@@ -6491,7 +6895,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":205,
@@ -6523,7 +6929,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":206,
@@ -6555,7 +6963,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":208,
@@ -6587,7 +6997,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":209,
@@ -6619,7 +7031,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":210,
@@ -6651,7 +7065,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":211,
@@ -6683,7 +7099,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":212,
@@ -6715,7 +7133,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":207,
@@ -6747,7 +7167,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  },
  {
     "id":145,
@@ -6779,15 +7201,9 @@
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
     "bording_time":300,
-    "constraints" : ["AMB"]
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
  }
-
-
-
-
-
-
-
-
 
 ]

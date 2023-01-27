@@ -1,26 +1,202 @@
 [{
     "destination_id": 2,
     "destination_full_address": "880 3RD AVENUE, CHULA VISTA, CA, 91911",
-    "destination_formatted_address":"880 3RD AVENUE, CHULA VISTA, CA 91911, USA",
+    "destination_formatted_address":"880 3RD AVENUE CHULA VISTA, CA 91911, USA",
     "destination_arrival_delay":10,
     "destination_number":"880",
     "destination_street":"3RD AVENUE",
     "destination_city":"CHULA VISTA",
     "destination_state":"CA",
     "destination_zip":"91911",
-    "destination_longitude":0,  
-    "destination_latitude":0
+    "destination_longitude":-117.07285904438314,  
+    "destination_latitude":32.6215502993272
     },
 {
     "destination_id": 3,
     "destination_full_address": "3364 BEYER BLVD, SAN YSIDRO, CA, 92173",
-    "destination_formatted_address":"3364 BEYER BLVD, SAN YSIDRO, CA 92173, USA",
+    "destination_formatted_address":"3364 BEYER BLVD SAN YSIDRO, CA 92173, USA",
     "destination_arrival_delay":10,
     "destination_number":"3364",
     "destination_street":"BEYER BLVD",
     "destination_city":"SAN YSIDRO",
     "destination_state":"CA",
     "destination_zip":"92173",
-    "destination_longitude":0,
-    "destination_latitude":0
-}]
+    "destination_longitude": -117.06074594438459,
+    "destination_latitude":32.56693668602837
+},
+{
+    "destination_id": 4,
+    "destination_full_address": "2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
+    "destination_formatted_address":"2765 MAIN STREET CHULA VISTA, CA, 91911, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"2765",
+    "destination_street":"MAIN ST",
+    "destination_city":"CHULA VISTA",
+    "destination_state":"CA",
+    "destination_zip":"91911",
+    "destination_longitude": -117.07360977322017,
+    "destination_latitude":32.59442636747307
+},
+{
+    "destination_id": 5,
+    "destination_full_address": "2391 BOSWELL RD, CHULA VISTA, CA, 91914",
+    "destination_formatted_address":"2391 BOSWELL RD CHULA VISTA, CA 91914, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"2391",
+    "destination_street":"BOSWELL RD",
+    "destination_city":"CHULA VISTA",
+    "destination_state":"CA",
+    "destination_zip":"91914",
+    "destination_longitude":  -116.9625112732188,
+    "destination_latitude":32.65617637257363
+},
+{
+    "destination_id": 6,
+    "destination_full_address": "630 BAY BLVD, SUITE 101, CHULA VISTA, CA, 91910",
+    "destination_formatted_address":"630 BAY BLVD CHULA VISTA, CA 91910, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"630",
+    "destination_street":"BAY BLVD",
+    "destination_city":"CHULA VISTA",
+    "destination_state":"CA",
+    "destination_zip":"91910",
+    "destination_longitude":  -117.09512474438307,
+    "destination_latitude": 32.624404186003105
+},
+{
+    "destination_id": 7,
+    "destination_full_address": "570 N 2ND ST, EL CAJON, CA, 92021",
+    "destination_formatted_address":"570 N 2ND ST EL CAJON, CA 92021, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"570",
+    "destination_street":"N 2ND ST",
+    "destination_city":"EL CAJON",
+    "destination_state":"CA",
+    "destination_zip":"92021",
+    "destination_longitude": -116.93686854437894,
+    "destination_latitude": 32.80140412605124
+},
+{
+    "destination_id": 8,
+    "destination_full_address": "292 EUCLID AVE, # 210, SAN DIEGO, CA, 92114",
+    "destination_formatted_address":"292 EUCLID AVE SAN DIEGO, CA 92114, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"292",
+    "destination_street":"EUCLID AVE",
+    "destination_city":"SAN DIEGO",
+    "destination_state":"CA",
+    "destination_zip":"92114",
+    "destination_longitude":  -117.085979871363,
+    "destination_latitude": 32.70735916251781
+},
+{
+    "destination_id": 9,
+    "destination_full_address": "11031 VIA FRONTERA, STE C, SAN DIEGO, CA, 92127",
+    "destination_formatted_address":"11031 VIA FRONTERA SAN DIEGO, CA 92127, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"11031",
+    "destination_street":"VIA FRONTERA",
+    "destination_city":"SAN DIEGO",
+    "destination_state":"CA",
+    "destination_zip":"92127",
+    "destination_longitude": -117.09285378855584,
+    "destination_latitude": 33.01181692251995
+},
+{
+    "destination_id": 10,
+    "destination_full_address": "303 W 26TH ST, NATIONAL CITY, CA, 91950",
+    "destination_formatted_address":"303 W 26TH ST, NATIONAL CITY, CA 91950, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"303",
+    "destination_street":"W 26TH ST",
+    "destination_city":"NATIONAL CITY",
+    "destination_state":"CA",
+    "destination_zip":"91950",
+    "destination_longitude": -117.10451663089142,
+    "destination_latitude": 32.659268997217666
+},
+{
+    "destination_id": 11,
+    "destination_full_address": "1445 30TH ST, SAN DIEGO, CA, 92154",
+    "destination_formatted_address":"1445 30TH ST SAN DIEGO, CA 92154, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"1445",
+    "destination_street":"30TH ST",
+    "destination_city":"SAN DIEGO",
+    "destination_state":"CA",
+    "destination_zip":"91950",
+    "destination_longitude": -117.06658548671166,
+    "destination_latitude": 32.57142449229744
+},
+{
+    "destination_id": 12,
+    "destination_full_address": "2135 MONTIEL RD, SAN MARCOS, CA, 92069",
+    "destination_formatted_address":"2135 MONTIEL RD SAN MARCOS, CA 92069, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"2135",
+    "destination_street":"MONTIEL RD",
+    "destination_city":"SAN MARCOS",
+    "destination_state":"CA",
+    "destination_zip":"92069",
+    "destination_longitude": -117.11778890217084,
+    "destination_latitude": 33.13132509461335
+},
+{
+    "destination_id": 13,
+    "destination_full_address": "5961 UNIVERSITY AVE, SUITE 317, SAN DIEGO, CA 92115",
+    "destination_formatted_address":"5961 UNIVERSITY AVE SAN DIEGO, CA 92115, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"5961",
+    "destination_street":"UNIVERSITY AVE",
+    "destination_city":"SAN DIEGO",
+    "destination_state":"CA",
+    "destination_zip":"92115",
+    "destination_longitude": -117.06905880217825,
+    "destination_latitude": 32.74999077832097
+},
+{
+    "destination_id": 14,
+    "destination_full_address": "720 GATEWAY CENTER DR, SUITE B, SAN DIEGO, CA 92102",
+    "destination_formatted_address":"720 GATEWAY CENTER DR SAN DIEGO, CA 92102, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"720",
+    "destination_street":"GATEWAY CENTER DR",
+    "destination_city":"SAN DIEGO",
+    "destination_state":"CA",
+    "destination_zip":"92102",
+    "destination_longitude": -117.11475073101454,
+    "destination_latitude": 32.713880956851554
+},
+{
+    "destination_id": 15,
+    "destination_full_address": "3010 DEL SOL BLVD, SAN DIEGO, CA, 92154",
+    "destination_formatted_address":"3010 DEL SOL BLVD SAN DIEGO, CA 92154, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"3010",
+    "destination_street":"DEL SOL BLVD",
+    "destination_city":"SAN DIEGO",
+    "destination_state":"CA",
+    "destination_zip":"92154",
+    "destination_longitude": -117.06852701567486,
+    "destination_latitude": 32.574494285492435
+},
+{
+    "destination_id": 16,
+    "destination_full_address": "1840 WEST DR, VISTA, CA 92083",
+    "destination_formatted_address":"1840 WEST DR, VISTA, CA 92083, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"1840",
+    "destination_street":"WEST DR",
+    "destination_city":"VISTA",
+    "destination_state":"CA",
+    "destination_zip":"92083",
+    "destination_longitude":  -117.28110143100537,
+    "destination_latitude": 33.19025842958157
+}
+
+
+
+
+
+
+]

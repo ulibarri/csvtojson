@@ -1,9 +1,40 @@
 [{"id":1,
 "capacity":"1WCH4AMB4",
-"details":[]
+"details":[
+    {"BRK":0,"ACT":0,"AMB":4,"DEL":0,"HIWCH":0,"RX":0,"WCH":1,"WCT":0},
+    {"BRK":0,"ACT":0,"AMB":4,"DEL":0,"HIWCH":0,"RX":0,"WCH":0,"WCT":0},
+    {"BRK":0,"ACT":0,"AMB":0,"DEL":0,"HIWCH":0,"RX":0,"WCH":1,"WCT":4},
+    {"BRK":0,"ACT":0,"AMB":0,"DEL":0,"HIWCH":0,"RX":0,"WCH":0,"WCT":4}
+]
 },
 {"id":2,
 "capacity":"1WCH3AMB",
-"details":[]
+"details":[
+    {"BRK":0,"ACT":0,"AMB":3,"DEL":0,"HIWCH":0,"RX":0,"WCH":0,"WCT":0},
+    {"BRK":0,"ACT":0,"AMB":3,"DEL":0,"HIWCH":0,"RX":0,"WCH":3,"WCT":0},
+    {"BRK":0,"ACT":0,"AMB":0,"DEL":0,"HIWCH":0,"RX":0,"WCH":0,"WCT":3},
+    {"BRK":0,"ACT":0,"AMB":0,"DEL":0,"HIWCH":0,"RX":0,"WCH":1,"WCT":3}
+]
+},
+{"id":3,
+"capacity":"1WCH5AMB",
+"details":[
+    {"BRK":0,"ACT":0,"AMB":5,"DEL":0,"HIWCH":0,"RX":0,"WCH":0,"WCT":0},
+    {"BRK":0,"ACT":0,"AMB":5,"DEL":0,"HIWCH":0,"RX":0,"WCH":1,"WCT":0},
+    {"BRK":0,"ACT":0,"AMB":0,"DEL":0,"HIWCH":0,"RX":0,"WCH":0,"WCT":5},
+    {"BRK":0,"ACT":0,"AMB":0,"DEL":0,"HIWCH":0,"RX":0,"WCH":1,"WCT":3}
+]
+},
+{"id":4,
+"capacity":"0WCH6AMB",
+"details":[
+    {"BRK":0,"ACT":0,"AMB":6,"DEL":0,"HIWCH":0,"RX":0,"WCH":0,"WCT":0},
+    {"BRK":0,"ACT":0,"AMB":6,"DEL":0,"HIWCH":0,"RX":0,"WCH":1,"WCT":0},
+    {"BRK":0,"ACT":0,"AMB":0,"DEL":0,"HIWCH":0,"RX":0,"WCH":0,"WCT":6},
+    {"BRK":0,"ACT":0,"AMB":0,"DEL":0,"HIWCH":0,"RX":0,"WCH":1,"WCT":6},
+    {"BRK":0,"ACT":0,"AMB":0,"DEL":0,"HIWCH":0,"RX":0,"WCH":2,"WCT":2}
+]
 }
+
+
 ]
