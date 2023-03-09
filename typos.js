@@ -162,8 +162,6 @@ module.exports=[
     replacement:'FIFTH'},
     {typo: 'SIUTE',
     replacement:'SUITE'},
-    {typo: 'POINT.',
-    replacement:'POINT'},
     {typo: '340 4TH AVE #14, CHULA VISTA, CA 91910 CHULA VISTA , CA',
     replacement:'340 4TH AVE, #14, CHULA VISTA, CA, 91910'},
     {typo: '1136 D AVE NC,',
@@ -188,7 +186,15 @@ module.exports=[
     replacement:'3987 BATEMAN AVENUE, EXT 2120, SAN DIEGO,CA , 92154'},
     {typo: '754 MEDICA C',
     replacement:'754 MEDICAL C'},
+    {typo: '9400 POINT',
+    replacement:'9400 CAMPUS POINT'},
+    {typo: '9300 CAMPUS DR',
+    replacement:'9300 CAMPUS POINT DR'},
+    {typo: 'POINT  UC SAN DIEGO',
+    replacement:'POINT DR'},
     {typo: 'PONIT',
+    replacement:'POINT'},
+    {typo: 'POINT.',
     replacement:'POINT'},
     {typo: '3434 MIDWAY DRIVE SUITE 2004 SAN DIEGO92108',
     replacement:'3434 MIDWAY DRIVE SUITE 2004 SAN DIEGO CA 92110'},
@@ -370,8 +376,6 @@ module.exports=[
     replacement:'400 E'},
     {typo: 'VIEW RD. SD',
     replacement:'VIEW RD, SAN DIEGO'},
-    {typo: '477 NORTH EL CAMINO REAL A SUITE 102 92024',
-    replacement:'477 N EL CAMINO REAL,SUITE 102, ENCINITAS, CA, 92024'},
     {typo: 'N.TORRY',
     replacement:'N TORREY'},
     {typo: '3RD.',
@@ -412,8 +416,6 @@ module.exports=[
     replacement:'FLOOR, SAN DIEGO'},
     {typo: '9202U1',
     replacement:'92020'},
-    {typo: '9400 POINT',
-    replacement:'9400 CAMPUS POINT'},
     {typo: 'CENTER DR. CV',
     replacement:'CENTER DR, CHULA VISTA'},
     {typo: '330 BROADWAY',
@@ -462,8 +464,57 @@ module.exports=[
     replacement:'BOR DRIVE, SAN DIEGO, CA'},
     {typo: '1820 MARRON DR',
     replacement:'1820 MARRON RD'},
-    
+    {typo: 'ROOM 110',
+    replacement:'# 110'},
+    {typo: 'ROOM 112',
+    replacement:'# 112'},
+    {typo: '9333 GENESIS AV',
+    replacement:'9333 GENESEE AV'},
+    {typo: 'NATION CITY',
+    replacement:'NATIONAL CITY'},
+    {typo: 'SUITE 1100 CV',
+    replacement:'SUITE 1100, CHULA VISTA'},
+    {typo: 'CA 919911',
+    replacement:'CA 91911'},
+    {typo: '106 SD CA',
+    replacement:'106, SAN DIEGO, CA'},
+    {typo: 'VIA TARZAN',
+    replacement:'VIA TAZON'},
+    {typo: 'HIG0HLAND',
+    replacement:'HIGHLAND'},
+    {typo: 'VIA CTR',
+    replacement:'VIA CENTRE'},
+    {typo: '215 CV',
+    replacement:'215, CHULA VISTA'},
+    {typo: 'CENTER-85 PA',
+    replacement:'CENTER 385 PA'},
+    {typo: ' SUITE 2 SD 92121',
+    replacement:' SUITE 2, SAN DIEGO, 92121'},
+    {typo: ' STB ',
+    replacement:' SUITE B '},
+    {typo: 'SAN MACOS',
+    replacement:'SAN MARCOS'},
+    {typo: 'GROSSMONT DRIVE',
+    replacement:'GROSSMONT CENTER DRIVE'},
+    {typo: '16950 VIA TEZON FIRST FLOOR SAN DIEGO',
+    replacement:'16950 VIA TAZON SAN DIEGO'},
 
+
+    
+    
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
     
     
 

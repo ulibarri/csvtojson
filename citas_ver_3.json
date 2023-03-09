@@ -6,6 +6,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"RODRIGUEZ, ANGELINA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -18,7 +19,7 @@
     "zip":"92173",
     "longitude":-117.0647665,
     "latitude":32.5637836,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -28,7 +29,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"], 
     "pickup_first": false,
     "on_hold": false
@@ -40,6 +41,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"VALADEZ, ANA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -52,7 +54,7 @@
     "zip":"91932",
     "longitude":-117.1111015,
     "latitude":32.5857058,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -62,7 +64,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -74,6 +76,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"MERINO, JORGE",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -86,7 +89,7 @@
     "zip":"92154",
     "longitude":-117.07559465092307,
     "latitude":32.58376214332508,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -96,7 +99,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -106,8 +109,9 @@
     "c":"AMB",
     "sdp":"SDP522644",
     "times":"08:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"OSUNA, JUANA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -120,7 +124,7 @@
     "zip":"91911",
     "longitude":-117.0627437,
     "latitude":32.6095647,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -130,7 +134,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -140,8 +144,9 @@
     "c":"AMB",
     "sdp":"SDP151128",
     "times":"08:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W-TH",
     "name":"CIBRIAN, ALICIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -154,7 +159,7 @@
     "zip":"92154",
     "longitude":-117.0485377,
     "latitude":32.5772382,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -164,7 +169,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -176,6 +181,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"GONZALEZ, ANGELA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -188,7 +194,7 @@
     "zip":"92173",
     "longitude":-117.0537788,
     "latitude":32.5445659,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -198,8 +204,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["AMB","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -208,8 +214,9 @@
     "c":"AMB",
     "sdp":"SDP030159",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W",
     "name":"NAVARRETE, VICTOR",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -222,7 +229,7 @@
     "zip":"92173",
     "longitude": -117.04663014461634,
     "latitude":32.55456810028363,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -232,8 +239,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -244,6 +251,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"NEVAREZ, ARTEMIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -256,7 +264,7 @@
     "zip":"91910",
     "longitude": -117.07952973112023,
     "latitude":32.63754398027551,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -266,7 +274,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -276,8 +284,9 @@
     "c":"AMB",
     "sdp":"SDP281754",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"SALAZAR, EVANGELINA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -290,7 +299,7 @@
     "zip":"92173",
     "longitude":  -117.05561913112169,
     "latitude":32.563285583589746,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -300,8 +309,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -310,8 +319,9 @@
     "c":"AMB",
     "sdp":"SDP001532",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-W-TH",
     "name":"REBOLLOSO, SILVIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -324,7 +334,7 @@
     "zip":"92173",
     "longitude":-117.0426787,
     "latitude":32.5515944,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -334,7 +344,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -344,8 +354,9 @@
     "c":"AMB",
     "sdp":"SDP424053",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-F",
     "name":"ROSALES, RAMONA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -358,7 +369,7 @@
     "zip":"92173",
     "longitude":-117.05571569063808,
     "latitude":32.563366963673424,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -368,7 +379,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -380,6 +391,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"ORTIZ, JOSE",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -392,7 +404,7 @@
     "zip":"91911",
     "longitude":-117.0464227,
     "latitude":32.6148208,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -402,7 +414,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -413,6 +425,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"MENDEZ, SABINO",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -425,7 +438,7 @@
     "zip":"92173",
     "longitude":-117.0422726,
     "latitude":32.5521008,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -435,8 +448,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["AMB","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -447,6 +460,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"AGUIRRE, EULAULIO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -459,7 +473,7 @@
     "zip":"92154",
     "longitude":-117.0600865,
     "latitude":32.5853465,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -469,7 +483,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -481,6 +495,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"PARADA CEJA, ELVIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -493,7 +508,7 @@
     "zip":"91911",
     "longitude":-117.0884869,
     "latitude":32.6008109,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -503,7 +518,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -513,8 +528,9 @@
     "c":"AMB",
     "sdp":"SDP112947",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W-TH-F",
     "name":"VILLALVA, JOSE",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -527,7 +543,7 @@
     "zip":"91910",
     "longitude":-117.0958301,
     "latitude":32.6343925,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -537,8 +553,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["AMB","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -547,8 +563,9 @@
     "c":"AMB",
     "sdp":"SDP000862",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T",
     "name":"ROJAS, JUAN",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -561,7 +578,7 @@
     "zip":"92173",
     "longitude":-117.04579431578118,
     "latitude":32.55498094258349,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -571,7 +588,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -581,8 +598,9 @@
     "c":"AMB",
     "sdp":"SDP112952",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W-TH",
     "name":"SALAZAR, BLANCA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -595,7 +613,7 @@
     "zip":"91910",
     "longitude":-117.0958301,
     "latitude":32.6343925,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -605,7 +623,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -615,8 +633,9 @@
     "c":"AMB",
     "sdp":"SDP000959",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W-TH",
     "name":"BARRERA, LEILA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -629,7 +648,7 @@
     "zip":"91913",
     "longitude":-116.98318333112019,
     "latitude":32.63902004993654,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -639,7 +658,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -649,8 +668,9 @@
     "c":"AMB",
     "sdp":"SDP000960",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W-TH",
     "name":"BARRERA, BENJAMIN",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -663,7 +683,7 @@
     "zip":"91913",
     "longitude":-116.98318333112019,
     "latitude":32.63902004993654,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -673,7 +693,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -683,8 +703,9 @@
     "c":"AMB",
     "sdp":"SDP341214",
     "times":"08:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W-F",
     "name":"GALLEGOS DE AGUILAR, LINDA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -697,7 +718,7 @@
     "zip":"91950",
     "longitude":-117.0998903868964,
     "latitude":32.67270904611135,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -707,7 +728,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -717,8 +738,9 @@
     "c":"AMB",
     "sdp":"SDP010221",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH-F",
     "name":"GONZALEZ, ALICIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -731,7 +753,7 @@
     "zip":"92113",
     "longitude":-117.10445807344895,
     "latitude":32.6892953371938,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -741,7 +763,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -751,8 +773,9 @@
     "c":"AMB",
     "sdp":"SDP001073",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M",
     "name":"CRUM, ALICIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -765,7 +788,7 @@
     "zip":"91950",
     "longitude":-117.1076485,
     "latitude":32.6717974,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -775,7 +798,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -785,8 +808,9 @@
     "c":"AMB",
     "sdp":"SDP000345",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M",
     "name":"CABRAL, ADELINA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -799,7 +823,7 @@
     "zip":"91910",
     "longitude":-117.0958301,
     "latitude":32.6343925,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -809,7 +833,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -819,8 +843,9 @@
     "c":"AMB",
     "sdp":"SDP001053",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W",
     "name":"HERNANDEZ, RICARDI",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -833,7 +858,7 @@
     "zip":"92113",
     "longitude":-117.1364136,
     "latitude":32.6930126,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -843,7 +868,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -853,8 +878,9 @@
     "c":"AMB",
     "sdp":"SDP498710",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"MURRILLO, ESPERANZA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -867,7 +893,7 @@
     "zip":"91911",
     "longitude":-117.06140784646166,
     "latitude":32.595785216208974,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -877,7 +903,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -887,8 +913,9 @@
     "c":"AMB",
     "sdp":"SDP001526",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"LOMELI, JESUS",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -901,7 +928,7 @@
     "zip":"91911",
     "longitude":-117.07466720043945,
     "latitude":32.60732043954858,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -911,7 +938,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -923,6 +950,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"REYES, JUAN",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -935,7 +963,7 @@
     "zip":"92173",
     "longitude":-117.0383307,
     "latitude":32.552234,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -945,18 +973,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["AMB","CBLA"],
     "pickup_first": false,
-    "on_hold": false
+    "on_hold": true
  },
  {
     "id":29,
     "c":"AMB",
     "sdp":"SDP000499",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W-TH",
     "name":"LAMAS TORRES, BERTHA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -969,7 +998,7 @@
     "zip":"92173",
     "longitude":-117.0536869,
     "latitude":32.5464283,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -979,7 +1008,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -989,8 +1018,9 @@
     "c":"AMB",
     "sdp":"SDP316885",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"TH-F",
     "name":"GUEVARRA, SORAIDA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -1003,7 +1033,7 @@
     "zip":"91911",
     "longitude":-117.04054604461557,
     "latitude":32.592321124596246,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1013,7 +1043,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1023,8 +1053,9 @@
     "c":"AMB",
     "sdp":"SDP316892",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"TH-F",
     "name":"GUEVARRA, RAYMUNDO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -1037,7 +1068,7 @@
     "zip":"91911",
     "longitude":-117.04054604461557,
     "latitude":32.592321124596246,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1047,7 +1078,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1059,6 +1090,7 @@
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"GONZALEZ, MARIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD, SUITE 102, SAN YSIDRO, CA 92173",
     "other":"",
@@ -1071,7 +1103,7 @@
     "zip":"91910",
     "longitude":-117.013593,
     "latitude":32.6321577,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1081,7 +1113,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1091,8 +1123,9 @@
     "c":"AMB",
     "sdp":"SDP341941",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W",
     "name":"VALDEZ, MARIANA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1105,7 +1138,7 @@
     "zip":"91910",
     "longitude":-117.089673,
     "latitude":32.63792,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1115,7 +1148,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1125,8 +1158,9 @@
     "c":"AMB",
     "sdp":"SDP005364",
     "times":"08:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-T-W-TH",
     "name":"GARCIA CORONADO, MARIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1139,7 +1173,7 @@
     "zip":"91911",
     "longitude":-117.0754864,
     "latitude":32.6061695,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1149,8 +1183,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -1161,6 +1195,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"SILVA VALENCIA, GUADALUPE",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1173,7 +1208,7 @@
     "zip":"91911",
     "longitude":-117.0628171,
     "latitude":32.6056324,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1183,8 +1218,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -1195,6 +1230,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"GALVAN, AGUSTIN",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"PICK UP FIRST",
@@ -1207,7 +1243,7 @@
     "zip":"91913",
     "longitude":-116.9971304,
     "latitude":32.6233377,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1217,7 +1253,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": true
@@ -1229,6 +1265,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"CASTRO, PORFIRIO",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1241,7 +1278,7 @@
     "zip":"92173",
     "longitude":-117.07162545626451,
     "latitude":32.56827962453819,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1251,8 +1288,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -1263,6 +1300,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"VAZQUEZ, TOMAS D",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1275,7 +1313,7 @@
     "zip":"92173",
     "longitude":-117.0438914,
     "latitude":32.5571777,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1285,8 +1323,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -1297,6 +1335,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"VALDIVIA PEREZ, JOSE",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1309,7 +1348,7 @@
     "zip":"92173",
     "longitude":-117.0519628,
     "latitude":32.5584667,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1319,8 +1358,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC"],
     "pickup_first": false,
     "on_hold": true
  },
@@ -1331,6 +1370,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"ARISPE, ANDRE",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1343,7 +1383,7 @@
     "zip":"92173",
     "longitude":-117.0531352,
     "latitude":32.5613655,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1353,7 +1393,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1363,8 +1403,9 @@
     "c":"AMB",
     "sdp":"SDP000398",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-F",
     "name":"HERNANDEZ, JOAQUIN",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1377,7 +1418,7 @@
     "zip":"91911",
     "longitude":-117.06352067345054,
     "latitude":32.604174567104785,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1387,7 +1428,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1399,6 +1440,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"HERNANDEZ, BLANCA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1411,7 +1453,7 @@
     "zip":"91913",
     "longitude":-116.9837475,
     "latitude":32.6346877,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1421,7 +1463,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1433,6 +1475,7 @@
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"PEDRO, MARISCAL",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1445,7 +1488,7 @@
     "zip":"91915",
     "longitude":-116.96432183112043,
     "latitude":32.61818120885491, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1455,7 +1498,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1465,7 +1508,9 @@
     "c":"AMB",
     "sdp":"SDP000618",
     "times":"11:00:00",
+    "days":"M-T-W-TH-F",
     "name":"ERNESTINA, MARISCAL",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1478,7 +1523,7 @@
     "zip":"91915",
     "longitude":-116.96432183112043,
     "latitude":32.61818120885491, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1488,7 +1533,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1500,6 +1545,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"QUINTANA, MARIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -1512,7 +1558,7 @@
     "zip":"91910",
     "longitude":-117.0828329,
     "latitude":32.6264064,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1522,7 +1568,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1534,6 +1580,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"ECHEVERRIA, ALBERTO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -1546,7 +1593,7 @@
     "zip":"91902",
     "longitude":-117.02432835995518,
     "latitude":32.6554729704374, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1556,7 +1603,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1568,6 +1615,7 @@
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"TORRES, NANCY",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -1580,7 +1628,7 @@
     "zip":"91910",
     "longitude":-117.08579086577933,
     "latitude":32.65173634732786, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1590,7 +1638,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1602,6 +1650,7 @@
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"PARTIDA, ANSELMA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -1614,7 +1663,7 @@
     "zip":"92114",
     "longitude":-117.0787761,
     "latitude":32.7085701,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1624,7 +1673,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1636,6 +1685,7 @@
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"MOLINA, GUILLERMO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -1648,7 +1698,7 @@
     "zip":"92114",
     "longitude":-117.0843269,
     "latitude":32.7079229,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1658,7 +1708,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1668,8 +1718,9 @@
     "c":"AMB",
     "sdp":"SDP482783",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"CHACON, ALICIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -1682,7 +1733,7 @@
     "zip":"92113",
     "longitude": -117.09721948694326,
     "latitude":32.70055049057554,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1692,7 +1743,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1704,6 +1755,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"WILLIAMS, ANAME",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1716,7 +1768,7 @@
     "zip":"92113",
     "longitude":-117.0931755,
     "latitude":32.697349,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1726,8 +1778,8 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC"],
     "pickup_first": false,
     "on_hold": false
  },
@@ -1738,6 +1790,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"VENTURA, LUCIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1750,7 +1803,7 @@
     "zip":"92105",
     "longitude":-117.0778683,
     "latitude":32.7405648,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1760,7 +1813,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1770,8 +1823,9 @@
     "c":"AMB",
     "sdp":"SDP549432",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W",
     "name":"ZUBIATE, ALMA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1784,7 +1838,7 @@
     "zip":"92101",
     "longitude":-117.16096405995381,
     "latitude":32.71525554573954, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1794,7 +1848,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1804,8 +1858,9 @@
     "c":"AMB",
     "sdp":"SDP298941",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W",
     "name":"RODRIGUEZ, VIRGINIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1818,7 +1873,7 @@
     "zip":"91950",
     "longitude":-117.0788702,
     "latitude":32.6800081,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1828,7 +1883,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1840,6 +1895,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"GUERRERO, PRIMITIVO",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1852,7 +1908,7 @@
     "zip":"91911",
     "longitude":-117.07577237529667,
     "latitude":32.605290555169546, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1862,7 +1918,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1872,8 +1928,9 @@
     "c":"AMB",
     "sdp":"SDP610826",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"MEJIA MEJIA, SERGIO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -1886,7 +1943,7 @@
     "zip":"91911",
     "longitude":-117.02661567345027,
     "latitude":32.61963314872905, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1896,7 +1953,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1906,8 +1963,9 @@
     "c":"AMB",
     "sdp":"SDP592091",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"YOUNG, EUGENE",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1920,7 +1978,7 @@
     "zip":"92154",
     "longitude":-117.09723123112131,
     "latitude":32.58199144960173, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1930,7 +1988,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1940,8 +1998,9 @@
     "c":"AMB",
     "sdp":"SDP547266",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W",
     "name":"HERANDEZ, SAUL",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1954,7 +2013,7 @@
     "zip":"91932",
     "longitude":-117.11292618879155,
     "latitude":32.58819085383914, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1964,7 +2023,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -1976,6 +2035,7 @@
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"TORRES OLVERA, MARIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -1988,7 +2048,7 @@
     "zip":"92154",
     "longitude": -117.06616561762698,
     "latitude":32.57466396179393,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -1998,7 +2058,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -2008,8 +2068,9 @@
     "c":"AMB",
     "sdp":"SDP297208",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-TH-F",
     "name":"RODRIGUEZ, GUSTAVO R",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -2022,7 +2083,7 @@
     "zip":"91932",
     "longitude": -117.10782007345098,
     "latitude":32.58309576640995, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2032,18 +2093,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":60,
+    "id":61,
     "c":"AMB",
     "sdp":"SDP428944",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"SAM, DORA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -2056,7 +2118,7 @@
     "zip":"92154",
     "longitude": -117.07670991762696,
     "latitude":32.574603203023095, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2066,18 +2128,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":61,
+    "id":62,
     "c":"AMB",
     "sdp":"SDP008388",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W-F",
     "name":"MACIAS, BERTA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -2090,7 +2153,7 @@
     "zip":"91911",
     "longitude": -117.07947533112082,
     "latitude":32.61185287729575, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2100,18 +2163,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":62,
+    "id":63,
     "c":"AMB",
     "sdp":"SDP000489",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-T-TH",
     "name":"MORALES, HUMBERTO",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -2124,7 +2188,7 @@
     "zip":"92173",
     "longitude": -117.04474114461635,
     "latitude":32.55429770293432, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2134,18 +2198,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":63,
+    "id":64,
     "c":"AMB",
     "sdp":"SDP436154",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"DIAZ, PEDRO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2158,7 +2223,7 @@
     "zip":"92102",
     "longitude": -117.13996734432651,
     "latitude":32.71528871876194, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2168,18 +2233,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":64,
+    "id":65,
     "c":"AMB",
     "sdp":"SDP423569",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"GUZMAN, HERMELINDA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2192,7 +2258,7 @@
     "zip":"91950",
     "longitude":-117.0866442578209,
     "latitude":32.674503856429965, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2202,18 +2268,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":65,
+    "id":66,
     "c":"AMB",
     "sdp":"SDP434718",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-T-W-TH",
     "name":"LAFRANCE, CHANTAL",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2226,7 +2293,7 @@
     "zip":"91950",
     "longitude":-117.04641197316427,
     "latitude":32.61501959554256, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2236,18 +2303,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":66,
+    "id":67,
     "c":"AMB",
     "sdp":"SDP001768",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W-F",
     "name":"PERALES SOTO, MARIA LUCI",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2260,7 +2328,7 @@
     "zip":"91910",
     "longitude":-117.0890206,
     "latitude":32.6476327,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2270,18 +2338,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":67,
+    "id":68,
     "c":"AMB",
     "sdp":"SDP494052",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"RAMIREZ, AURELIO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2294,7 +2363,7 @@
     "zip":"91950",
     "longitude":-117.0611807,
     "latitude":32.6606973,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2304,18 +2373,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":68,
+    "id":69,
     "c":"AMB",
     "sdp":"SDP105493",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W",
     "name":"MEDINA, MARIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2328,7 +2398,7 @@
     "zip":"91950",
     "longitude":-117.0932675,
     "latitude":32.6817639,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2338,18 +2408,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":69,
+    "id":70,
     "c":"AMB",
     "sdp":"SDP412187",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W-F",
     "name":"ROTHER, PATRICIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2362,7 +2433,7 @@
     "zip":"91910",
     "longitude":-117.0851146,
     "latitude":32.6510447,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2372,18 +2443,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":70,
+    "id":71,
     "c":"AMB",
     "sdp":"SDP399309",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W",
     "name":"LOPEZ, ZELMIRA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2396,7 +2468,7 @@
     "zip":"91911",
     "longitude":-117.0792475020001,
     "latitude":32.599834860694294, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2406,18 +2478,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":71,
+    "id":72,
     "c":"AMB",
     "sdp":"SDP252135",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W-TH",
     "name":"MORENO, LEONOR",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2430,7 +2503,7 @@
     "zip":"91911",
     "longitude":-117.0739608,
     "latitude":32.6063492,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2440,41 +2513,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":72,
-    "c":"AMB",
-    "sdp":"SDP001723",
-    "times":"11:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"REYNOSO, ZACARIAS",
-    "site":"SAN YSIDRO PACE",
-    "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
-    "other":"",
-    "full_address":"1570 TERRACE PINE LN, SAN YSIDRO, CA 92173",
-    "formatted_address":"1570 TERRACE PINE LN SAN YSIDRO, CA 92173, USA",
-    "number":"1570",
-    "street":"TERRACE PINE LN",
-    "city":"SAN YSIDRO",
-    "state":"CA",
-    "zip":"92173",
-    "longitude":-117.07366230200076,
-    "latitude":32.56806563396764, 
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": null,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -2482,10 +2521,11 @@
  {
     "id":73,
     "c":"AMB",
-    "sdp":"SDP001724",
+    "sdp":"SDP001723",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"REYNOSO, MARIA",
+    "days":"M-T",
+    "name":"REYNOSO, ZACARIAS",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -2498,7 +2538,7 @@
     "zip":"92173",
     "longitude":-117.07366230200076,
     "latitude":32.56806563396764, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2508,7 +2548,7 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -2516,10 +2556,46 @@
  {
     "id":74,
     "c":"AMB",
+    "sdp":"SDP001724",
+    "times":"11:00:00",
+    "days":"M-T",
+    "name":"REYNOSO, MARIA",
+    "gender": "FEMALE",
+    "site":"SAN YSIDRO PACE",
+    "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
+    "other":"",
+    "full_address":"1570 TERRACE PINE LN, SAN YSIDRO, CA 92173",
+    "formatted_address":"1570 TERRACE PINE LN SAN YSIDRO, CA 92173, USA",
+    "number":"1570",
+    "street":"TERRACE PINE LN",
+    "city":"SAN YSIDRO",
+    "state":"CA",
+    "zip":"92173",
+    "longitude":-117.07366230200076,
+    "latitude":32.56806563396764, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": null,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":75,
+    "c":"AMB",
     "sdp":"SDP365843",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"VILLALOBOS, ELIAS",
+    "gender": "MALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -2532,7 +2608,7 @@
     "zip":"92173",
     "longitude":-117.0431229,
     "latitude":32.5572789,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2542,18 +2618,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":75,
+    "id":76,
     "c":"AMB",
     "sdp":"SDP587854",
     "times":"08:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-W-TH-F",
     "name":"SANCHEZ, GUADALUPE",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -2566,7 +2643,7 @@
     "zip":"92173",
     "longitude":-117.0504686,
     "latitude":32.5601014,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2576,18 +2653,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":76,
+    "id":77,
     "c":"AMB",
     "sdp":"SDP313535",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"LLANOS, OLGA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2600,7 +2678,7 @@
     "zip":"92113",
     "longitude":-117.1414343,
     "latitude":32.6970596,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2610,18 +2688,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":77,
+    "id":78,
     "c":"AMB",
     "sdp":"SDP277381",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"MEJIA, FRANCISCO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2634,7 +2713,7 @@
     "zip":"91910",
     "longitude":-117.0844878,
     "latitude":32.626063,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2644,18 +2723,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["AMB","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":78,
+    "id":79,
     "c":"AMB",
     "sdp":"SDP278535",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"MEJIA, FRANCISCA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2668,7 +2748,7 @@
     "zip":"91910",
     "longitude":-117.0844878,
     "latitude":32.626063,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2678,18 +2758,19 @@
     "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["AMB","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":79,
+    "id":80,
     "c":"AMB",
     "sdp":"SDP000704",
     "times":"08:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W-TH-F",
     "name":"LEAL RICARDI, LOURDES LULU",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2702,7 +2783,7 @@
     "zip":"92101",
     "longitude":-117.1605279,
     "latitude":32.7243098,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2712,18 +2793,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":80,
+    "id":81,
     "c":"AMB",
     "sdp":"SDP545449",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W-TH-F",
     "name":"SKUTSCH, ANA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2736,7 +2818,7 @@
     "zip":"91911",
     "longitude":-117.04638753083528,
     "latitude":32.612881174800464, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2746,18 +2828,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":81,
+    "id":82,
     "c":"AMB",
     "sdp":"SDP005161",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"BECERRA, VIRGINIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2770,7 +2853,7 @@
     "zip":"92173",
     "longitude":-117.0548305443979,
     "latitude":32.56133077223491, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2780,18 +2863,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["EWC"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":82,
+    "id":83,
     "c":"AMB",
     "sdp":"SDP000327",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-T-W",
     "name":"DUARTE, JOSE",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2804,7 +2888,7 @@
     "zip":"91910",
     "longitude":-117.09406768672491,
     "latitude":32.628681365202084, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2814,52 +2898,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":83,
-    "c":"AMB",
-    "sdp":"SDP007157",
-    "times":"09:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"DIAZ DE RUIZ, MARIA",
-    "site":"CV",
-    "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
-    "other":"",
-    "full_address":"289 BEECH AVE, #2, CHULA VISTA, CA 91911",
-    "formatted_address":"289 BEECH AVE CHULA VISTA, CA 91911, USA",
-    "number":"289",
-    "street":"BEECH AVE",
-    "city":"CHULA VISTA",
-    "state":"CA",
-    "zip":"91911",
-    "longitude":-117.0899908309043,
-    "latitude":32.639260680065675, 
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": 1,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
  {
     "id":84,
     "c":"AMB",
-    "sdp":"SDP007148",
+    "sdp":"SDP007157",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"RUIZ MORENO, JORGE",
+    "days":"T-W-TH",
+    "name":"DIAZ DE RUIZ, MARIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2872,7 +2923,7 @@
     "zip":"91911",
     "longitude":-117.0899908309043,
     "latitude":32.639260680065675, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2882,18 +2933,54 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["AMB","CBLA"],
     "pickup_first": false,
     "on_hold": false
  },
  {
     "id":85,
     "c":"AMB",
+    "sdp":"SDP007148",
+    "times":"09:00:00",
+    "days":"T-W-TH",
+    "name":"RUIZ MORENO, JORGE",
+    "gender": "MALE",
+    "site":"CV",
+    "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
+    "other":"",
+    "full_address":"289 BEECH AVE, #2, CHULA VISTA, CA 91911",
+    "formatted_address":"289 BEECH AVE CHULA VISTA, CA 91911, USA",
+    "number":"289",
+    "street":"BEECH AVE",
+    "city":"CHULA VISTA",
+    "state":"CA",
+    "zip":"91911",
+    "longitude":-117.0899908309043,
+    "latitude":32.639260680065675, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 1,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB","CBLA"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":86,
+    "c":"AMB",
     "sdp":"SDP000639",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"RIOS, CARLOS B",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2906,28 +2993,29 @@
     "zip":"92105",
     "longitude":-117.10242851555866,
     "latitude":32.748783997951875, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":86,
+    "id":87,
     "c":"AMB",
     "sdp":"SDP471635",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"FABELA, JOSE LUIS",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2940,7 +3028,7 @@
     "zip":"92108",
     "longitude":-117.14848956831572,
     "latitude":32.77594559389008, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2950,18 +3038,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":87,
+    "id":88,
     "c":"AMB",
     "sdp":"SDP399867",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"WARREN, GROVER",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -2974,7 +3063,7 @@
     "zip":"92114",
     "longitude":-117.05330882905162,
     "latitude":32.7029283127189, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -2984,18 +3073,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":88,
+    "id":89,
     "c":"AMB",
     "sdp":"SDP000746",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"ZERMENO, RAQUEL",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3008,7 +3098,7 @@
     "zip":"91911",
     "longitude":-117.03441633090489,
     "latitude":32.60988199428978, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3018,18 +3108,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":89,
+    "id":90,
     "c":"AMB",
     "sdp":"SDP142733",
     "times":"09:15:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-T-W-TH",
     "name":"FLORES SOSA, MARIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3042,7 +3133,7 @@
     "zip":"91911",
     "longitude":-117.05899655788949,
     "latitude":32.60267094639863, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3052,18 +3143,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false   
  },
  {
-    "id":90,
+    "id":91,
     "c":"AMB",
     "sdp":"SDP317621",
     "times":"09:15:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-F",
     "name":"ROMERO, MARIA DEL CARMEN",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3076,7 +3168,7 @@
     "zip":"91911",
     "longitude":-117.06691040392072,
     "latitude":32.60255397641533, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3086,18 +3178,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":91,
+    "id":92,
     "c":"AMB",
     "sdp":"SDP361567",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"TH",
     "name":"JABONILLO, FORTUNATA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3110,7 +3203,7 @@
     "zip":"91910",
     "longitude":-117.02294191556045,
     "latitude":32.64879488600373, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3120,18 +3213,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":92,
+    "id":93,
     "c":"AMB",
     "sdp":"SDP021509",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W",
     "name":"RUELAS, MANUEL",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3144,7 +3238,7 @@
     "zip":"91910",
     "longitude":-117.09924090206822,
     "latitude":32.64641302580073, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3154,18 +3248,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":93,
+    "id":94,
     "c":"AMB",
     "sdp":"SDP000821",
     "times":"09:15:00",
     "days":"M-T-W-TH-F",
     "name":"CONSUELO, RODRIGUEZ",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3178,7 +3273,7 @@
     "zip":"92154",
     "longitude":-117.07864310206985,
     "latitude":32.56627851980897, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3188,18 +3283,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":94,
+    "id":95,
     "c":"AMB",
     "sdp":"SDP581829",
     "times":"09:15:00",
     "days":"M-T-W-TH-F",
     "name":"GARCIA, DOLORES",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3212,7 +3308,7 @@
     "zip":"91950",
     "longitude":-117.09447785788792,
     "latitude":32.67820752444844, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3222,41 +3318,7 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":95,
-    "c":"AMB",
-    "sdp":"SDP266388",
-    "times":"11:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"CHAVEZ, MARCELA",
-    "site":"SAN YSIDRO PACE",
-    "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
-    "other":"",
-    "full_address":"4729 WIND SURF WAY, APT 335, SAN DIEGO, CA 92154",
-    "formatted_address":"4729 WIND SURF WAY SAN DIEGO, CA 92154, USA",
-    "number":"4729",
-    "street":"WIND SURF WAY",
-    "city":"SAN DIEGO",
-    "state":"CA",
-    "zip":"92154",
-    "longitude":-117.03017067323336,
-    "latitude":32.58904877388566, 
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": 1,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -3266,8 +3328,9 @@
     "c":"AMB",
     "sdp":"SDP266388",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"GARCIA, DOLORES",
+    "days":"W-TH",
+    "name":"CHAVEZ, MARCELA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -3280,17 +3343,17 @@
     "zip":"92154",
     "longitude":-117.03017067323336,
     "latitude":32.58904877388566, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 4,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -3298,10 +3361,46 @@
  {
     "id":97,
     "c":"AMB",
-    "sdp":"SDP000624",
+    "sdp":"SDP266389",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
+    "name":"GARCIA, DOLORES",
+    "gender": "FEMALE",
+    "site":"SAN YSIDRO PACE",
+    "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
+    "other":"",
+    "full_address":"4729 WIND SURF WAY, APT 335, SAN DIEGO, CA 92154",
+    "formatted_address":"4729 WIND SURF WAY SAN DIEGO, CA 92154, USA",
+    "number":"4729",
+    "street":"WIND SURF WAY",
+    "city":"SAN DIEGO",
+    "state":"CA",
+    "zip":"92154",
+    "longitude":-117.03017067323336,
+    "latitude":32.58904877388566, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 4,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":98,
+    "c":"AMB",
+    "sdp":"SDP000624",
+    "times":"11:00:00",
+    "days":"M-F",
     "name":"SALAZAR, GRISELDA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -3314,28 +3413,29 @@
     "zip":"92154",
     "longitude":-117.08203254439782,
     "latitude":32.57560094202363, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 4,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":98,
+    "id":99,
     "c":"AMB",
     "sdp":"SDP040567",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W-TH",
     "name":"RODRIGUEZ, MARIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -3348,51 +3448,17 @@
     "zip":"92173",
     "longitude":-117.04220345789042,
     "latitude":32.54715451447747, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 4,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":99,
-    "c":"AMB",
-    "sdp":"SDP388228",
-    "times":"09:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"ZAVALA, TAMARA",
-    "site":"CV",
-    "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
-    "other":"",
-    "full_address":"2644 J AVE, NATIONAL CITY, CA 91950",
-    "formatted_address":"2644 J AVE, NATIONAL CITY, CA 91950, USA",
-    "number":"2644",
-    "street":"J AVE",
-    "city":"NATIONAL CITY",
-    "state":"CA",
-    "zip":"91950",
-    "longitude": -117.09047040206806,
-    "latitude": 32.662538128769654,
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": 1,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -3400,10 +3466,11 @@
  {
     "id":100,
     "c":"AMB",
-    "sdp":"SDP388211",
+    "sdp":"SDP388228",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"FELICIA, LANG",
+    "days":"M-F",
+    "name":"ZAVALA, TAMARA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3416,7 +3483,7 @@
     "zip":"91950",
     "longitude": -117.09047040206806,
     "latitude": 32.662538128769654,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3426,7 +3493,7 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -3434,10 +3501,46 @@
  {
     "id":101,
     "c":"AMB",
+    "sdp":"SDP388211",
+    "times":"09:00:00",
+    "days":"M-F",
+    "name":"FELICIA, LANG",
+    "gender": "FEMALE",
+    "site":"CV",
+    "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
+    "other":"",
+    "full_address":"2644 J AVE, NATIONAL CITY, CA 91950",
+    "formatted_address":"2644 J AVE, NATIONAL CITY, CA 91950, USA",
+    "number":"2644",
+    "street":"J AVE",
+    "city":"NATIONAL CITY",
+    "state":"CA",
+    "zip":"91950",
+    "longitude": -117.09047040206806,
+    "latitude": 32.662538128769654,
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 1,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":102,
+    "c":"AMB",
     "sdp":"SDP000467",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"GONZALEZ MEDINA, ANGEL",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3450,7 +3553,7 @@
     "zip":"92154",
     "longitude":-117.07871543090555,
     "latitude": 32.576563199070236, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3460,18 +3563,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":102,
+    "id":103,
     "c":"AMB",
     "sdp":"SDP005382",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"CRUZ, CONNIE",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3484,28 +3588,29 @@
     "zip":"91911",
     "longitude":-117.06468621556104,
     "latitude": 32.610023169099705, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":103,
+    "id":104,
     "c":"AMB",
     "sdp":"SDP000781",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"BRAVO, JOSEFINA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3518,7 +3623,7 @@
     "zip":"91910",
     "longitude":  -117.0103609885765,
     "latitude": 32.62722071167947, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3528,18 +3633,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":104,
+    "id":105,
     "c":"AMB",
     "sdp":"SDP361807",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"CARLON, CARMEN",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3552,7 +3658,7 @@
     "zip":"91932",
     "longitude": -117.1052743290538,
     "latitude": 32.58170074831128, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3562,18 +3668,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":105,
+    "id":106,
     "c":"AMB",
     "sdp":"SDP000161",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-W",
     "name":"WILLIAMSON, MALINDA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3586,7 +3693,7 @@
     "zip":"92115",
     "longitude": -117.06543464439439,
     "latitude": 32.75647038546278, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3596,18 +3703,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":106,
+    "id":107,
     "c":"AMB",
     "sdp":"SDP348721",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-T",
     "name":"PONCE, BEATRIZ",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3620,7 +3728,7 @@
     "zip":"92113",
     "longitude": -117.12377854439548,
     "latitude": 32.69937072247071, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3630,18 +3738,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":107,
+    "id":108,
     "c":"AMB",
     "sdp":"SDP410854",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M",
     "name":"HERNANDEZ-MANJA, CLARISA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3654,7 +3763,7 @@
     "zip":"92113",
     "longitude":-117.11020430206726,
     "latitude": 32.69808962544725, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3664,18 +3773,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":108,
+    "id":109,
     "c":"AMB",
     "sdp":"SDP258779",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"OCHOA, CARMEN",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3688,7 +3798,7 @@
     "zip":"92113",
     "longitude": -117.11019927601862,
     "latitude": 32.69697877597225, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3698,18 +3808,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":109,
+    "id":110,
     "c":"AMB",
     "sdp":"SDP001083",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"OJEDA, DIONISA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3722,7 +3833,7 @@
     "zip":"91911",
     "longitude": -117.06351765788945,
     "latitude": 32.60370179703839, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3732,18 +3843,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":110,
+    "id":111,
     "c":"AMB",
     "sdp":"SDP510796",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"FELIX, RITA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3756,7 +3868,7 @@
     "zip":"91911",
     "longitude": -117.08449288857682,
     "latitude": 32.61218323780011, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3766,18 +3878,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":111,
+    "id":112,
     "c":"AMB",
     "sdp":"SDP421126",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"F",
     "name":"VILLA, MARTHA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3790,7 +3903,7 @@
     "zip":"91911",
     "longitude": -117.04999837323298,
     "latitude": 32.61654731838827, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3800,18 +3913,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":112,
+    "id":113,
     "c":"AMB",
     "sdp":"SDP437234",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"ENRIQUEZ DE GUERRERO, MARIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3824,7 +3938,7 @@
     "zip":"92173",
     "longitude": -117.0615269443213,
     "latitude": 32.560042302707075, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3834,18 +3948,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":113,
+    "id":114,
     "c":"AMB",
     "sdp":"SDP000731",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"VARGAS, MARIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3858,7 +3973,7 @@
     "zip":"91910",
     "longitude": -117.07152063082532,
     "latitude": 32.62798148114611, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3868,18 +3983,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":114,
+    "id":115,
     "c":"AMB",
     "sdp":"SDP488828",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"PEREZ, MARIA R",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3892,7 +4008,7 @@
     "zip":"91950",
     "longitude":-117.1083514461652,
     "latitude": 32.67010130460449, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3902,18 +4018,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":115,
+    "id":116,
     "c":"AMB",
     "sdp":"SDP335727",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"HERNANDEZ, CASTO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3926,7 +4043,7 @@
     "zip":"92139",
     "longitude":-117.0630009884948,
     "latitude": 32.67350575895271, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3936,18 +4053,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":116,
+    "id":117,
     "c":"AMB",
     "sdp":"SDP009225",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"FLORES, JUANITA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3960,7 +4078,7 @@
     "zip":"92173",
     "longitude": -117.0470147001453,
     "latitude": 32.55624828298821,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -3970,18 +4088,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":117,
+    "id":118,
     "c":"AMB",
     "sdp":"SDP437233",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"GUERRERO, ROSAURO",
+    "gender": "MALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -3994,7 +4113,7 @@
     "zip":"92173",
     "longitude": -117.0615269443213,
     "latitude": 32.560042302707075, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -4004,18 +4123,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":118,
+    "id":119,
     "c":"AMB",
     "sdp":"SDP001390",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-T-W",
     "name":"MURRILO, HERMINIA",
+    "gender": "FEMALE",
     "site":"CV",
     "destination":"880 3RD AVENUE, CHULA VISTA, CA, 91911",
     "other":"",
@@ -4028,7 +4148,7 @@
     "zip":"92173",
     "longitude":-117.04190271548622,
     "latitude": 32.54650054756199, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
@@ -4038,18 +4158,19 @@
     "prefered_driver": 1,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
-    "pickup_first": false,
+    "pickup_first": true,
     "on_hold": false
  },
  {
-    "id":119,
+    "id":120,
     "c":"AMB",
     "sdp":"SDP246598",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W-F",
     "name":"PEREZ CERVANTEZ, MARIA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -4062,28 +4183,29 @@
     "zip":"92102",
     "longitude": -117.10527801548285,
     "latitude": 32.710086074437505, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 4,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":120,
+    "id":121,
     "c":"AMB",
     "sdp":"SDP000896",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"CHAVEZ CARDENAS, AUREA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -4096,28 +4218,29 @@
     "zip":"92105",
     "longitude":  -117.10296301732875,
     "latitude": 32.73673964952095,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 4,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":121,
+    "id":122,
     "c":"AMB",
     "sdp":"SDP056220",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"SANTIAGO CORDOCA, GUILLERMINA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -4130,28 +4253,29 @@
     "zip":"91911",
     "longitude":  -117.08743067315481,
     "latitude": 32.63695384235176, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 4,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":122,
+    "id":123,
     "c":"AMB",
     "sdp":"SDP015386",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"MARTINEZ, CARLOTA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -4164,28 +4288,29 @@
     "zip":"92154",
     "longitude":  -117.05692304432094,
     "latitude": 32.570001778612344, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 4,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
+    "bording_time":420,
+    "constraints" : ["WC"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":123,
+    "id":124,
     "c":"AMB",
     "sdp":"SDP476442",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"ALBA MADRID, MARIA",
+    "gender": "FEMALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4198,28 +4323,29 @@
     "zip":"91913",
     "longitude":  -116.99706274431996,
     "latitude": 32.62171845339024,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 10,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":124,
+    "id":125,
     "c":"AMB",
     "sdp":"SDP547604",
     "times":"16:00:00",
     "days":"M-T-W-TH-F",
     "name":"VONGSAVATH, SAM",
+    "gender": "MALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4232,28 +4358,29 @@
     "zip":"91910",
     "longitude": -117.01188150199022,
     "latitude": 32.63477608157198,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 10,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":125,
+    "id":126,
     "c":"AMB",
     "sdp":"SDP542292",
     "times":"16:30:00",
     "days":"M-T-W-TH-F",
     "name":"CORONA, JESUS",
+    "gender": "MALE",
     "site":"FMC MARINA BAY",
     "destination":"630 BAY BLVD SUITE 101 CHULA VISTA 91910",
     "other":"",
@@ -4266,28 +4393,29 @@
     "zip":"91911",
     "longitude":-117.07456453784269,
     "latitude": 32.62239038220717, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 16,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":126,
+    "id":127,
     "c":"AMB",
     "sdp":"SDP437233",
     "times":"16:40:00",
     "days":"M-T-W-TH-F",
     "name":"GUERRERO, ROSAURO",
+    "gender": "MALE",
     "site":"DAVITA SAN YSIDRO",
     "destination":"1445 30TH ST SUITE A SAN DIEGO CA 92154",
     "other":"",
@@ -4300,28 +4428,29 @@
     "zip":"92173",
     "longitude":-117.06190717315633,
     "latitude": 32.56038345933232, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 9,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":127,
+    "id":128,
     "c":"AMB",
     "sdp":"SDP001634",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"PACHECO, PRUDENCIO",
+    "gender": "MALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4334,28 +4463,29 @@
     "zip":"91911",
     "longitude":-117.04136957315532,
     "latitude": 32.61034650591949, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 30,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":128,
+    "id":129,
     "c":"AMB",
     "sdp":"SDP476442",
     "times":"08:15:00",
     "days":"M-T-W-TH-F",
     "name":"ALBA MADRID, MARIA",
+    "gender": "FEMALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4368,28 +4498,29 @@
     "zip":"91913",
     "longitude":  -116.99706274431996,
     "latitude": 32.62171845339024,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 10,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":129,
+    "id":130,
     "c":"AMB",
     "sdp":"SDP547604",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"VONGSAVATH, SAM",
+    "gender": "MALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4402,28 +4533,29 @@
     "zip":"91910",
     "longitude": -117.01188150199022,
     "latitude": 32.63477608157198,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 10,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":130,
+    "id":131,
     "c":"AMB",
     "sdp":"SPD002547",
     "times":"03:45:00",
     "days":"M-T-W-TH-F",
     "name":"RIOS, ALONSO",
+    "gender": "MALE",
     "site":"FMC EAST COUNTY",
     "destination":"570 N 2ND ST, EL CAJON, CA, 92021",
     "other":"",
@@ -4436,28 +4568,29 @@
     "zip":"92019",
     "longitude": -116.93316177315172,
     "latitude": 32.792059320565606, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 31,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":131,
+    "id":132,
     "c":"AMB",
     "sdp":"SPD002938",
     "times":"04:05:00",
     "days":"M-T-W-TH-F",
     "name":"MIMIS, WAYNE",
+    "gender": "FEMALE",
     "site":"FMC EAST COUNTY",
     "destination":"570 N 2ND ST, EL CAJON, CA, 92021",
     "other":"",
@@ -4470,28 +4603,29 @@
     "zip":"92020",
     "longitude":  -116.95761754431638,
     "latitude": 32.79572937449464,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 31,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":132,
+    "id":133,
     "c":"AMB",
     "sdp":"SDP506493",
     "times":"04:05:00",
     "days":"M-T-W-TH-F",
     "name":"ROSALES, BAUDELIO",
+    "gender": "MALE",
     "site":"CARDIOVASCULAR INSTITUTE OF SAN DIEGO",
     "destination":"292 EUCLID AVE, # 210, SAN DIEGO, CA, 92114",
     "other":"",
@@ -4504,28 +4638,29 @@
     "zip":"92114",
     "longitude":  -117.06128960198859,
     "latitude": 32.70902253144603,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":133,
+    "id":134,
     "c":"AMB",
     "sdp":"SDP045027",
     "times":"05:00:00",
     "days":"M-T-W-TH-F",
     "name":"GROVES, MARIA",
+    "gender": "FEMALE",
     "site":"DAVITA SAN YSIDRO",
     "destination":"1445 30TH ST SUITE A SAN DIEGO CA 92154",
     "other":"",
@@ -4538,28 +4673,29 @@
     "zip":"91911",
     "longitude":  -117.06582184432041,
     "latitude": 32.59720353509748, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 9,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":134,
+    "id":135,
     "c":"AMB",
     "sdp":"SDP518913",
     "times":"05:00:00",
     "days":"M-T-W-TH-F",
     "name":"HARRAWAY, DENNIS",
+    "gender": "MALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4572,28 +4708,29 @@
     "zip":"92173",
     "longitude":  -117.05514830199158,
     "latitude": 32.557040924195185, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 10,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":135,
+    "id":136,
     "c":"AMB",
     "sdp":"SDP000514",
     "times":"03:30:00",
     "days":"M-T-W-TH-F",
     "name":"AWAMBENG, BIBIANA",
+    "gender": "FEMALE",
     "site":"FMC RANCHO",
     "destination":"11031 VIA FRONTERA, STE C, SAN DIEGO, CA, 92127",
     "other":"",
@@ -4606,28 +4743,29 @@
     "zip":"92128",
     "longitude": -117.08112234431339,
     "latitude": 32.94147196341798, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":136,
+    "id":137,
     "c":"AMB",
     "sdp":"SDP001192",
     "times":"04:30:00",
     "days":"M-T-W-TH-F",
     "name":"BONILLA, EVERARDO",
+    "gender": "MALE",
     "site":"DAVITA SAN MARCOS",
     "destination":"2135 MONTIEL RD, SAN MARCOS, CA, 92069",
     "other":"",
@@ -4640,28 +4778,29 @@
     "zip":"92027",
     "longitude":  -117.04980380197979,
     "latitude": 33.13529604782048,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 33,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":137,
+    "id":138,
     "c":"AMB",
     "sdp":"SDP000514",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"AWAMBENG, BIBIANA",
+    "gender": "FEMALE",
     "site":"DAVITA SAN MARCOS",
     "destination":"2135 MONTIEL RD, SAN MARCOS, CA, 92069",
     "other":"",
@@ -4674,28 +4813,29 @@
     "zip":"92128",
     "longitude": -117.08112234431339,
     "latitude": 32.94147196341798, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 33,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":138,
+    "id":139,
     "c":"AMB",
     "sdp":"SDP001192",
     "times":"09:30:00",
     "days":"M-T-W-TH-F",
     "name":"BONILLA, EVERARDO",
+    "gender": "MALE",
     "site":"DAVITA SAN MARCOS",
     "destination":"2135 MONTIEL RD, SAN MARCOS, CA, 92069",
     "other":"",
@@ -4708,28 +4848,29 @@
     "zip":"92027",
     "longitude":  -117.04980380197979,
     "latitude": 33.13529604782048,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 33,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":139,
+    "id":140,
     "c":"AMB",
     "sdp":"SDP001415",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"MACIAS, GILBERTO",
+    "gender": "MALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4742,28 +4883,29 @@
     "zip":"91963",
     "longitude":  -117.01026779645989,
     "latitude": 32.755819182953395, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 30,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":140,
+    "id":141,
     "c":"AMB",
     "sdp":"SDP379619",
     "times":"07:00:00",
     "days":"M-T-W-TH-F",
     "name":"GARCIA, PERTER",
+    "gender": "MALE",
     "site":"FMC NATIONAL CITY",
     "destination":"303 W 26TH ST, NATIONAL CITY, CA 91950",
     "other":"",
@@ -4776,28 +4918,29 @@
     "zip":"92113",
     "longitude": -117.08776677315362,
     "latitude": 32.69650258558608, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 35,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":141,
+    "id":142,
     "c":"AMB",
     "sdp":"SDP001415",
     "times":"14:00:00",
     "days":"M-T-W-TH-F",
     "name":"MACIAS, GILBERTO",
+    "gender": "MALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4810,28 +4953,29 @@
     "zip":"91963",
     "longitude":  -117.01026779645989,
     "latitude": 32.755819182953395, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 10,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":158,
+    "id":143,
     "c":"AMB",
     "sdp":"SDP017712",
     "times":"03:30:00",
     "days":"M-T-W-TH-F",
     "name":"MURGIA, JOSE",
+    "gender": "MALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4844,28 +4988,29 @@
     "zip":"91902",
     "longitude":   -117.05238875965983,
     "latitude": 32.66464698134084,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 10,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":142,
+    "id":144,
     "c":"AMB",
     "sdp":"SDP433131",
     "times":"04:30:00",
     "days":"M-T-W-TH-F",
     "name":"RICHARD, DUWE",
+    "gender": "MALE",
     "site":"FMC MARINA BAY",
     "destination":"630 BAY BLVD SUITE 101 CHULA VISTA 91910",
     "other":"",
@@ -4878,28 +5023,29 @@
     "zip":"91911",
     "longitude":-117.07080964431984,
     "latitude": 32.62309547760624, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 16,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":143,
+    "id":145,
     "c":"AMB",
     "sdp":"SDP088335",
     "times":"04:50:00",
     "days":"M-T-W-TH-F",
     "name":"OSUNA, CONCEPCION",
+    "gender": "FEMALE",
     "site":"FMC MARINA BAY",
     "destination":"630 BAY BLVD SUITE 101 CHULA VISTA 91910",
     "other":"",
@@ -4912,28 +5058,29 @@
     "zip":"92101",
     "longitude": -117.15637950198837,
     "latitude": 32.715453018429415, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 16,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":159,
+    "id":146,
     "c":"AMB",
     "sdp":"SDP611353",
     "times":"06:35:00",
     "days":"M-T-W-TH-F",
     "name":"DE LA CRUZ, SIMON",
+    "gender": "MALE",
     "site":"FMC NATIONAL CITY",
     "destination":"303 W 26TH ST, NATIONAL CITY, CA 91950",
     "other":"",
@@ -4946,28 +5093,29 @@
     "zip":"92113",
     "longitude":  -117.13367831548302,
     "latitude": 32.70403729761912,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 35,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":144,
+    "id":147,
     "c":"AMB",
     "sdp":"SDP017712",
     "times":"08:15:00",
     "days":"M-T-W-TH-F",
     "name":"MURGIA, JOSE",
+    "gender": "MALE",
     "site":"FMC BALBOA EASTLAKE",
     "destination":"2391 BOSWELL RD CHULA VISTA CA 91914",
     "other":"",
@@ -4980,28 +5128,29 @@
     "zip":"91902",
     "longitude":   -117.05238875965983,
     "latitude": 32.66464698134084,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 10,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":146,
+    "id":148,
     "c":"AMB",
     "sdp":"SDP000152",
     "times":"03:15:00",
     "days":"M-T-W-TH-F",
     "name":"PEREZ VASQUEZ, MARIA",
+    "gender": "FEMALE",
     "site":"FMC COLLEGE",
     "destination":"5961 UNIVERSITY AVENUE, SUITE 317, SAN DIEGO, CA, 92115",
     "other":"",
@@ -5014,28 +5163,29 @@
     "zip":"92102",
     "longitude": -117.0912842442607,
     "latitude": 32.70833616053482, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": null,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":160,
+    "id":149,
     "c":"AMB",
     "sdp":"SDP003255",
     "times":"04:15:00",
     "days":"M-T-W-TH-F",
     "name":"GONZALEZ, RAFAEL",
+    "gender": "MALE",
     "site":"FMC GATEWAY EAST",
     "destination":"720 GATEWAY CENTER DR, STE B, SAN DIEGO, CA, 92102",
     "other":"",
@@ -5048,28 +5198,29 @@
     "zip":"92105",
     "longitude": -117.10301200193089,
     "latitude": 32.743373234160934,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 9,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":147,
+    "id":150,
     "c":"AMB",
     "sdp":"SDP003484",
     "times":"04:30:00",
     "days":"M-T-W-TH-F",
     "name":"PASTOR, JUANA",
+    "gender": "FEMALE",
     "site":"FMC GATEWAY EAST",
     "destination":"720 GATEWAY CENTER DR, STE B, SAN DIEGO, CA, 92102",
     "other":"",
@@ -5082,28 +5233,29 @@
     "zip":"92113",
     "longitude": -117.1013451442611,
     "latitude": 32.68933447137796, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 9,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":148,
+    "id":151,
     "c":"AMB",
     "sdp":"SDP002514",
     "times":"05:00:00",
     "days":"M-T-W-TH-F",
     "name":"CANLAS, MERLITA",
+    "gender": "FEMALE",
     "site":"FMC SAN YSIDRO",
     "destination":"3010 DEL SOL BLVD, SAN DIEGO, CA, 92154",
     "other":"",
@@ -5116,28 +5268,29 @@
     "zip":"92154",
     "longitude": -117.06159747309884,
     "latitude": 32.57545264242654, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 32,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":149,
+    "id":152,
     "c":"AMB",
     "sdp":"SDP000611",
     "times":"06:25:00",
     "days":"M-T-W-TH-F",
     "name":"REYES, HORACIO",
+    "gender": "MALE",
     "site":"FMC SAN YSIDRO",
     "destination":"3010 DEL SOL BLVD, SAN DIEGO, CA, 92154",
     "other":"",
@@ -5150,28 +5303,29 @@
     "zip":"92154",
     "longitude": -117.06569981526523,
     "latitude": 32.57407966300225, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 32,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":150,
+    "id":153,
     "c":"AMB",
     "sdp":"SDP537764",
     "times":"04:10:00",
     "days":"M-T-W-TH-F",
     "name":"PLUNKET, PATRICK",
+    "gender": "MALE",
     "site":"FMC EAST COUNTY",
     "destination":"570 N 2ND ST, EL CAJON, CA, 92021",
     "other":"",
@@ -5184,28 +5338,29 @@
     "zip":"92021",
     "longitude": -116.94268614409711,
     "latitude": 32.79467117684239, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 31,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":151,
+    "id":154,
     "c":"AMB",
     "sdp":"SDP625168",
     "times":"04:30:00",
     "days":"M-T-W-TH-F",
     "name":"ZARAGOZA, PABLO",
+    "gender": "MALE",
     "site":"FMC GATEWAY EAST",
     "destination":"720 GATEWAY CENTER DR, STE B, SAN DIEGO, CA, 92102",
     "other":"",
@@ -5218,119 +5373,17 @@
     "zip":"92019",
     "longitude":-116.94826507293281,
     "latitude": 32.81395213575986, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 9,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":152,
-    "c":"AMB",
-    "sdp":"SDP002587",
-    "times":"08:15:00",
-    "days":"M-T-W-TH-F",
-    "name":"DUENAS, ROSA",
-    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
-    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
-    "other":"",
-    "full_address":"3515 VALLEY RD, APT 1, BONITA, CA 91902",
-    "formatted_address":"3515 VALLEY RD BONITA, CA 91902, USA",
-    "number":"3515",
-    "street":"VALLEY RD",
-    "city":"BONITA",
-    "state":"CA",
-    "zip":"91902",
-    "longitude":-117.05351174409967,
-    "latitude": 32.664638445516346, 
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": 1,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":153,
-    "c":"AMB",
-    "sdp":"SDP002588",
-    "times":"08:15:00",
-    "days":"M-T-W-TH-F",
-    "name":"DUENAS, RAMON",
-    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
-    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
-    "other":"",
-    "full_address":"3515 VALLEY RD, APT 1, BONITA, CA 91902",
-    "formatted_address":"3515 VALLEY RD BONITA, CA 91902, USA",
-    "number":"3515",
-    "street":"VALLEY RD",
-    "city":"BONITA",
-    "state":"CA",
-    "zip":"91902",
-    "longitude":-117.05351174409967,
-    "latitude": 32.664638445516346, 
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": 1,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":154,
-    "c":"AMB",
-    "sdp":"SDP002587",
-    "times":"15:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"DUENAS, ROSA",
-    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
-    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
-    "other":"",
-    "full_address":"3515 VALLEY RD, APT 1, BONITA, CA 91902",
-    "formatted_address":"3515 VALLEY RD BONITA, CA 91902, USA",
-    "number":"3515",
-    "street":"VALLEY RD",
-    "city":"BONITA",
-    "state":"CA",
-    "zip":"91902",
-    "longitude":-117.05351174409967,
-    "latitude": 32.664638445516346, 
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": 1,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -5338,10 +5391,11 @@
  {
     "id":155,
     "c":"AMB",
-    "sdp":"SDP002588",
-    "times":"15:00:00",
+    "sdp":"SDP002587",
+    "times":"08:15:00",
     "days":"M-T-W-TH-F",
-    "name":"DUENAS, RAMON",
+    "name":"DUENAS, ROSA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5354,17 +5408,17 @@
     "zip":"91902",
     "longitude":-117.05351174409967,
     "latitude": 32.664638445516346, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -5372,10 +5426,116 @@
  {
     "id":156,
     "c":"AMB",
+    "sdp":"SDP002588",
+    "times":"08:15:00",
+    "days":"M-T-W-TH-F",
+    "name":"DUENAS, RAMON",
+    "gender": "MALE",
+    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
+    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
+    "other":"",
+    "full_address":"3515 VALLEY RD, APT 1, BONITA, CA 91902",
+    "formatted_address":"3515 VALLEY RD BONITA, CA 91902, USA",
+    "number":"3515",
+    "street":"VALLEY RD",
+    "city":"BONITA",
+    "state":"CA",
+    "zip":"91902",
+    "longitude":-117.05351174409967,
+    "latitude": 32.664638445516346, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 8,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":157,
+    "c":"AMB",
+    "sdp":"SDP002587",
+    "times":"15:00:00",
+    "days":"M-T-W-TH-F",
+    "name":"DUENAS, ROSA",
+    "gender": "FEMALE",
+    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
+    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
+    "other":"",
+    "full_address":"3515 VALLEY RD, APT 1, BONITA, CA 91902",
+    "formatted_address":"3515 VALLEY RD BONITA, CA 91902, USA",
+    "number":"3515",
+    "street":"VALLEY RD",
+    "city":"BONITA",
+    "state":"CA",
+    "zip":"91902",
+    "longitude":-117.05351174409967,
+    "latitude": 32.664638445516346, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 8,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":158,
+    "c":"AMB",
+    "sdp":"SDP002588",
+    "times":"15:00:00",
+    "days":"M-T-W-TH-F",
+    "name":"DUENAS, RAMON",
+    "gender": "MALE",
+    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
+    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
+    "other":"",
+    "full_address":"3515 VALLEY RD, APT 1, BONITA, CA 91902",
+    "formatted_address":"3515 VALLEY RD BONITA, CA 91902, USA",
+    "number":"3515",
+    "street":"VALLEY RD",
+    "city":"BONITA",
+    "state":"CA",
+    "zip":"91902",
+    "longitude":-117.05351174409967,
+    "latitude": 32.664638445516346, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 8,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":159,
+    "c":"AMB",
     "sdp":"SDP002165",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"CAZARES, FEDERICO",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5388,28 +5548,29 @@
     "zip":"91915",
     "longitude": -116.9583969017725,
     "latitude": 32.63914680743664, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":161,
+    "id":160,
     "c":"AMB",
     "sdp":"SDP327023",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"CORTEZ, DINORA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5422,28 +5583,29 @@
     "zip":"91910",
     "longitude": -117.0774108308251,
     "latitude": 32.64434316447473, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":162,
+    "id":161,
     "c":"AMB",
     "sdp":"SDP002047",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"VIZCAYA, ALFREDO",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5456,28 +5618,29 @@
     "zip":"91910",
     "longitude": -117.06774397315478,
     "latitude": 32.637472080437995, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":163,
+    "id":162,
     "c":"AMB",
     "sdp":"SDP409806",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"MORFIN, ROSELIA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5490,28 +5653,29 @@
     "zip":"91910",
     "longitude": -117.09831120198997,
     "latitude": 32.64336926421213, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":164,
+    "id":163,
     "c":"AMB",
     "sdp":"SDP002402",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"DOXEY-DILLAR",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5524,28 +5688,29 @@
     "zip":"92113",
     "longitude": -117.12756603082377,
     "latitude": 32.70423956914715, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":165,
+    "id":164,
     "c":"AMB",
     "sdp":"SDP327023",
     "times":"16:45:00",
     "days":"M-T-W-TH-F",
     "name":"CORTEZ, DINORA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5558,28 +5723,29 @@
     "zip":"91910",
     "longitude": -117.0774108308251,
     "latitude": 32.64434316447473, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":166,
+    "id":165,
     "c":"AMB",
     "sdp":"SDP001796",
     "times":"17:00:00",
     "days":"M-T-W-TH-F",
     "name":"DEL PILAR, ZENAIDA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5592,17 +5758,52 @@
     "zip":"92126",
     "longitude": -117.14492690198426,
     "latitude": 32.91974812217285, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":166,
+    "c":"AMB",
+    "sdp":"SDP001037",
+    "times":"08:30:00",
+    "days":"M-T-W-TH-F",
+    "name":"CHOY, MARIA",
+    "gender": "FEMALE",
+    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
+    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
+    "other":"",
+    "full_address":"3005 IRIS AVE, APT C, SAN YSIDRO, CA 92173",
+    "formatted_address":"3005 IRIS AVE SAN YSIDRO, CA 92173, USA",
+    "number":"3005",
+    "street":"IRIS AVE",
+    "city":"SAN YSIDRO",
+    "state":"CA",
+    "zip":"92173",
+    "longitude": -117.06953557315617,
+    "latitude": 32.56888655623602, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 8,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -5610,33 +5811,34 @@
  {
     "id":167,
     "c":"AMB",
-    "sdp":"SDP001037",
+    "sdp":"SDP010020",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
-    "name":"CHOY, MARIA",
+    "name":"FLORES DE MALDONADO, CARMEN",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
-    "full_address":"3005 IRIS AVE, APT C, SAN YSIDRO, CA 92173",
-    "formatted_address":"3005 IRIS AVE SAN YSIDRO, CA 92173, USA",
-    "number":"3005",
-    "street":"IRIS AVE",
-    "city":"SAN YSIDRO",
+    "full_address":"2623 CAMINITO ABETO, SAN DIEGO, CA 92154",
+    "formatted_address":"2623 CAMINITO ABETO SAN DIEGO, CA 92154, USA",
+    "number":"2623",
+    "street":"CAMINITO ABETO",
+    "city":"SAN DIEGO",
     "state":"CA",
-    "zip":"92173",
-    "longitude": -117.06953557315617,
-    "latitude": 32.56888655623602, 
-    "spoken_languages": ["English"],
+    "zip":"92154",
+    "longitude": -117.07653683082657,
+    "latitude": 32.57332047058213, 
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -5644,44 +5846,11 @@
  {
     "id":168,
     "c":"AMB",
-    "sdp":"SDP010020",
-    "times":"08:30:00",
-    "days":"M-T-W-TH-F",
-    "name":"FLORES DE MALDONADO, CARMEN",
-    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
-    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
-    "other":"",
-    "full_address":"2623 CAMINITO ABETO, SAN DIEGO, CA 92154",
-    "formatted_address":"2623 CAMINITO ABETO SAN DIEGO, CA 92154, USA",
-    "number":"2623",
-    "street":"CAMINITO ABETO",
-    "city":"SAN DIEGO",
-    "state":"CA",
-    "zip":"92154",
-    "longitude": -117.07653683082657,
-    "latitude": 32.57332047058213, 
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": 1,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":169,
-    "c":"AMB",
     "sdp":"SDP001037",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"CHOY, MARIA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5694,28 +5863,29 @@
     "zip":"92173",
     "longitude": -117.06953557315617,
     "latitude": 32.56888655623602, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":170,
+    "id":169,
     "c":"AMB",
     "sdp":"SDP010020",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"FLORES DE MALDONADO, CARMEN",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5728,28 +5898,29 @@
     "zip":"92154",
     "longitude": -117.07653683082657,
     "latitude": 32.57332047058213, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":171,
+    "id":170,
     "c":"AMB",
     "sdp":"SDP000250",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"MAGDALENO, MAXIMO",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5762,28 +5933,29 @@
     "zip":"91950",
     "longitude": -117.10176027315383,
     "latitude": 32.68348018312669, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":172,
+    "id":171,
     "c":"AMB",
     "sdp":"SDP481295",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"JUAREZ, FELIPE",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5796,28 +5968,29 @@
     "zip":"92102",
     "longitude": -117.1440721441755,
     "latitude": 32.70827596056952, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":173,
+    "id":172,
     "c":"AMB",
     "sdp":"SDP021147",
     "times":"07:50:00",
     "days":"M-T-W-TH-F",
     "name":"LANDERS, JUVENCIA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5830,28 +6003,29 @@
     "zip":"91911",
     "longitude": -117.04563037301362,
     "latitude": 32.593959163974404, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":174,
+    "id":173,
     "c":"AMB",
     "sdp":"SDP000168",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"RODRIGUEZ, FLORENTINO",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5864,28 +6038,29 @@
     "zip":"91911",
     "longitude": -117.05143770184876,
     "latitude": 32.625817563719835, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":175,
+    "id":174,
     "c":"AMB",
     "sdp":"SDP500779",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"NAVARRO NAVARRO, JOSE",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5898,28 +6073,29 @@
     "zip":"91911",
     "longitude": -117.07228947301356,
     "latitude": 32.59698333558609, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":176,
+    "id":175,
     "c":"AMB",
     "sdp":"SDP021147",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"LANDERS, JUVENCIA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5932,28 +6108,29 @@
     "zip":"91911",
     "longitude": -117.04563037301362,
     "latitude": 32.593959163974404, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":177,
+    "id":176,
     "c":"AMB",
     "sdp":"SDP000168",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"RODRIGUEZ, FLORENTINO",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -5966,28 +6143,29 @@
     "zip":"91911",
     "longitude": -117.05143770184876,
     "latitude": 32.625817563719835, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":178,
+    "id":177,
     "c":"AMB",
     "sdp":"SDP002978",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"GOMES, ELVIRA S",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6000,28 +6178,29 @@
     "zip":"92139",
     "longitude": -117.05578024417608,
     "latitude": 32.66979560531514, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":179,
+    "id":178,
     "c":"AMB",
     "sdp":"SDP000418",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"ACEVES, MARIA LUISA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6034,28 +6213,29 @@
     "zip":"92139",
     "longitude": -117.05578024417608,
     "latitude": 32.66979560531514, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":180,
+    "id":179,
     "c":"AMB",
     "sdp":"SDP439597",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"LOPEZ, ADOLFO",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6068,28 +6248,29 @@
     "zip":"92139",
     "longitude":  -117.06613057301205,
     "latitude": 32.67218136850332,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":181,
+    "id":180,
     "c":"AMB",
     "sdp":"SDP001387",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"MATINZO, TOMMY",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6102,28 +6283,29 @@
     "zip":"91902",
     "longitude": -117.0140528018477,
     "latitude": 32.676002690881866, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":182,
+    "id":181,
     "c":"AMB",
     "sdp":"SDP000418",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"ACEVES, MARIA LUISA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6136,28 +6318,29 @@
     "zip":"92139",
     "longitude": -117.05578024417608,
     "latitude": 32.66979560531514, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":183,
+    "id":182,
     "c":"AMB",
     "sdp":"SDP439597",
     "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"LOPEZ, ADOLFO",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6170,28 +6353,29 @@
     "zip":"92139",
     "longitude":  -117.06613057301205,
     "latitude": 32.67218136850332,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":184,
+    "id":183,
     "c":"AMB",
     "sdp":"SDP002978",
     "times":"15:00:00",
     "days":"M-T-W-TH-F",
     "name":"GOMES, ELVIRA S",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6204,17 +6388,52 @@
     "zip":"92139",
     "longitude": -117.05578024417608,
     "latitude": 32.66979560531514, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":184,
+    "c":"AMB",
+    "sdp":"SDP588676",
+    "times":"08:30:00",
+    "days":"M-T-W-TH-F",
+    "name":"RODRIGUEZ, ENRIQUE",
+    "gender": "MALE",
+    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
+    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
+    "other":"",
+    "full_address":"3320 VISTA AVE, APT 05, LEMON GROVE, CA 91945",
+    "formatted_address":"3320 VISTA AVE LEMON GROVE, CA 91945, USA",
+    "number":"3320",
+    "street":"VISTA AVE",
+    "city":"LEMON GROVE",
+    "state":"CA",
+    "zip":"91945",
+    "longitude": -117.04181507301054,
+    "latitude": 32.74213866113107, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 8,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -6223,9 +6442,10 @@
     "id":185,
     "c":"AMB",
     "sdp":"SDP588676",
-    "times":"08:30:00",
+    "times":"15:30:00",
     "days":"M-T-W-TH-F",
     "name":"RODRIGUEZ, ENRIQUE",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6238,17 +6458,17 @@
     "zip":"91945",
     "longitude": -117.04181507301054,
     "latitude": 32.74213866113107, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -6256,44 +6476,11 @@
  {
     "id":186,
     "c":"AMB",
-    "sdp":"SDP588676",
-    "times":"15:30:00",
-    "days":"M-T-W-TH-F",
-    "name":"RODRIGUEZ, ENRIQUE",
-    "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
-    "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
-    "other":"",
-    "full_address":"3320 VISTA AVE, APT 05, LEMON GROVE, CA 91945",
-    "formatted_address":"3320 VISTA AVE LEMON GROVE, CA 91945, USA",
-    "number":"3320",
-    "street":"VISTA AVE",
-    "city":"LEMON GROVE",
-    "state":"CA",
-    "zip":"91945",
-    "longitude": -117.04181507301054,
-    "latitude": 32.74213866113107, 
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": 1,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":187,
-    "c":"AMB",
     "sdp":"SDP500779",
     "times":"16:45:00",
     "days":"M-T-W-TH-F",
     "name":"NAVARRO NAVARRO, JOSE",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6306,28 +6493,29 @@
     "zip":"91911",
     "longitude": -117.07228947301356,
     "latitude": 32.59698333558609, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":188,
+    "id":187,
     "c":"AMB",
     "sdp":"SDP001613",
     "times":"16:40:00",
     "days":"M-T-W-TH-F",
     "name":"KIDNEY, ROBERT J",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6340,28 +6528,29 @@
     "zip":"92020",
     "longitude": -116.95712664417388,
     "latitude": 32.79136988378092, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":189,
+    "id":188,
     "c":"AMB",
     "sdp":"SDP656685",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"BECERRA, MARCIAL",
+    "gender": "MALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6374,28 +6563,29 @@
     "zip":"92026",
     "longitude": -117.10078773067407,
     "latitude": 33.142471682658304, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":190,
+    "id":189,
     "c":"AMB",
     "sdp":"SDP001906",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"IDA, ANTONIO",
+    "gender": "MALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6408,28 +6598,29 @@
     "zip":"92027",
     "longitude": -117.04234643067424,
     "latitude": 33.138075641844814, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":191,
+    "id":190,
     "c":"AMB",
     "sdp":"SDP001907",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"ROONEY, HELEN",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6442,28 +6633,29 @@
     "zip":"92025",
     "longitude": -117.04234643067424,
     "latitude": 33.138075641844814, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":192,
+    "id":191,
     "c":"AMB",
     "sdp":"SDP001072",
     "times":"08:30:00",
     "days":"M-T-W-TH-F",
     "name":"CERVANTES, LIDIA",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6476,28 +6668,29 @@
     "zip":"92084",
     "longitude": -117.2426596730006,
     "latitude": 33.239277797470535, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":193,
+    "id":192,
     "c":"AMB",
     "sdp":"SDP002054",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"CHIN, TSIN C",
+    "gender": "MALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6510,28 +6703,29 @@
     "zip":"92024",
     "longitude": -117.2848552592429,
     "latitude": 33.05388772989461, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":194,
+    "id":193,
     "c":"AMB",
     "sdp":"SDP001438",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"MURGIA DE ROME, SILVIA",
+    "gender": "FEMALE",
     "site":"THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
     "destination":"2765 MAIN STREET, SUITE A, CHULA VISTA, CA, 91911",
     "other":"",
@@ -6544,17 +6738,52 @@
     "zip":"92069",
     "longitude": -117.18261644416623,
     "latitude": 33.167541221033844, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 8,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":194,
+    "c":"AMB",
+    "sdp":"SDP000906",
+    "times":"08:00:00",
+    "days":"M-T",
+    "name":"PALACIOS, PEDRO",
+    "gender": "MALE",
+    "site":"PACE VISTA",
+    "destination":"1840 WEST DR, VISTA, CA 92083",
+    "other":"",
+    "full_address":"10794 CARMEL MNT RD, APT A, SAN DIEGO, CA 92129",
+    "formatted_address":"10794 CARMEL MNT RD SAN DIEGO, CA 92129, USA",
+    "number":"10794",
+    "street":"CARMEL MNT RD",
+    "city":"SAN DIEGO",
+    "state":"CA",
+    "zip":"92129",
+    "longitude": -117.094725873006,
+    "latitude": 32.97131800046549, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 36,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -6562,10 +6791,11 @@
  {
     "id":195,
     "c":"AMB",
-    "sdp":"SDP000906",
+    "sdp":"SDP000905",
     "times":"08:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"PALACIOS, PEDRO",
+    "days":"M-T",
+    "name":"PALACIOS, SUSANA",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6578,17 +6808,17 @@
     "zip":"92129",
     "longitude": -117.094725873006,
     "latitude": 32.97131800046549, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
@@ -6596,44 +6826,11 @@
  {
     "id":196,
     "c":"AMB",
-    "sdp":"SDP000905",
-    "times":"08:00:00",
-    "days":"M-T-W-TH-F",
-    "name":"PALACIOS, SUSANA",
-    "site":"PACE VISTA",
-    "destination":"1840 WEST DR, VISTA, CA 92083",
-    "other":"",
-    "full_address":"10794 CARMEL MNT RD, APT A, SAN DIEGO, CA 92129",
-    "formatted_address":"10794 CARMEL MNT RD SAN DIEGO, CA 92129, USA",
-    "number":"10794",
-    "street":"CARMEL MNT RD",
-    "city":"SAN DIEGO",
-    "state":"CA",
-    "zip":"92129",
-    "longitude": -117.094725873006,
-    "latitude": 32.97131800046549, 
-    "spoken_languages": ["English"],
-    "banned_ethnic_group":[
-       
-    ],
-    "banned_drivers":[
-       
-    ],
-    "prefered_driver": 1,
-    "unsafe_for_female_driver":0,
-    "unsafe_for_male_driver":0,
-    "bording_time":300,
-    "constraints" : ["AMB"],
-    "pickup_first": false,
-    "on_hold": false
- },
- {
-    "id":197,
-    "c":"AMB",
     "sdp":"SDP001425",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"AVILA, MARIA",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6646,28 +6843,29 @@
     "zip":"92054",
     "longitude": -117.36874207300133,
     "latitude": 33.196179960993554, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":198,
+    "id":197,
     "c":"AMB",
     "sdp":"SDP001858",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-T",
     "name":"PALACIOS QUINTA, ROSALINA",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6680,28 +6878,29 @@
     "zip":"92054",
     "longitude": -117.36563057300133,
     "latitude": 33.19906806585404, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":199,
+    "id":198,
     "c":"AMB",
     "sdp":"SDP002468",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"LUEVANOS, JUAN",
+    "gender": "MALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6714,28 +6913,29 @@
     "zip":"92058",
     "longitude": -117.36608957300129,
     "latitude": 33.20553415060262, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":200,
+    "id":199,
     "c":"AMB",
     "sdp":"SDP002828",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"FIGUEROA, RAUL",
+    "gender": "MALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6748,28 +6948,29 @@
     "zip":"92058",
     "longitude": -117.36078410183693,
     "latitude": 33.20894894254698, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":201,
+    "id":200,
     "c":"AMB",
     "sdp":"SDP002879",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"BENNETT, MARINA",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6782,28 +6983,29 @@
     "zip":"92026",
     "longitude":-117.07664304416683,
     "latitude": 33.1357251992349, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":202,
+    "id":201,
     "c":"AMB",
     "sdp":"SDP001895",
     "times":"08:00:00",
     "days":"M-T-W-TH-F",
     "name":"RAYGOZA, RICARDO",
+    "gender": "MALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6816,28 +7018,29 @@
     "zip":"92027",
     "longitude":-117.05392753067413,
     "latitude": 33.14383001275413, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":203,
+    "id":202,
     "c":"AMB",
     "sdp":"SDP002327",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"W",
     "name":"JACKSON, DEBORA A",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6850,28 +7053,29 @@
     "zip":"92083",
     "longitude":-117.24122345950887,
     "latitude": 33.198715922006116, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":204,
+    "id":203,
     "c":"AMB",
     "sdp":"SDP002866",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T",
     "name":"SCHMIDT, LINDA",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6884,28 +7088,29 @@
     "zip":"92058",
     "longitude":-117.32551663067223,
     "latitude": 33.22996576959297, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":205,
+    "id":204,
     "c":"AMB",
     "sdp":"SDP001866",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"HERNANDEZ, ELVIRA",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6918,28 +7123,29 @@
     "zip":"92028",
     "longitude":-117.22866344416298,
     "latitude": 33.3245405046965, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":206,
+    "id":205,
     "c":"AMB",
     "sdp":"SDP002698",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"NOGUEDA, RAFAEL",
+    "gender": "MALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6952,28 +7158,29 @@
     "zip":"92011",
     "longitude": -117.2723205441672,
     "latitude": 33.11470649207113,
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":208,
+    "id":206,
     "c":"AMB",
     "sdp":"SDP003385",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"T-TH",
     "name":"SIRYPANGNO, VON",
+    "gender": "MALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -6986,28 +7193,29 @@
     "zip":"92078",
     "longitude":-117.1390553306744,
     "latitude": 33.12946574510546, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":209,
+    "id":207,
     "c":"AMB",
     "sdp":"SDP002919",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"LOPEZ, YOLANDA O",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -7020,28 +7228,29 @@
     "zip":"92009",
     "longitude":-117.2423760306744,
     "latitude": 33.12777356399049, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":210,
+    "id":208,
     "c":"AMB",
     "sdp":"SDP003364",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"ANDERSON, ISABEL S",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -7054,28 +7263,29 @@
     "zip":"92083",
     "longitude":-117.28302567300149,
     "latitude": 33.189477809863305, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":211,
+    "id":209,
     "c":"AMB",
     "sdp":"SDP003406",
     "times":"11:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W-F",
     "name":"HOLLOWAY, HENRY",
+    "gender": "MALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -7088,28 +7298,29 @@
     "zip":"92057",
     "longitude":-117.28724300183632,
     "latitude": 33.240207421969174, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":212,
+    "id":210,
     "c":"AMB",
     "sdp":"SDP003232",
     "times":"09:00:00",
-    "days":"M-T-W-TH-F",
+    "days":"M-W-F",
     "name":"TICE, HARRYS",
+    "gender": "MALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -7122,28 +7333,29 @@
     "zip":"92064",
     "longitude":-117.0601937441701,
     "latitude": 32.973061696555675, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":207,
+    "id":211,
     "c":"AMB",
     "sdp":"SDP002524",
     "times":"09:00:00",
     "days":"M-T-W-TH-F",
     "name":"RAU, JUDITH B",
+    "gender": "FEMALE",
     "site":"PACE VISTA",
     "destination":"1840 WEST DR, VISTA, CA 92083",
     "other":"",
@@ -7156,28 +7368,29 @@
     "zip":"92065",
     "longitude":-116.87164000184048,
     "latitude": 33.03716876430981, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 36,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  },
  {
-    "id":145,
+    "id":212,
     "c":"AMB",
     "sdp":"SDP283811",
     "times":"11:00:00",
     "days":"M-T-W-TH-F",
     "name":"GUTIERREZ, ANA",
+    "gender": "FEMALE",
     "site":"SAN YSIDRO PACE",
     "destination":"3364 BEYER BLVD,SUITE 102, SAN YSIDRO, CA, 92173",
     "other":"",
@@ -7190,19 +7403,405 @@
     "zip":"92154",
     "longitude": -117.07176493097751,
     "latitude": 32.57807711830962, 
-    "spoken_languages": ["English"],
+    "spoken_languages": ["ENGLISH"],
     "banned_ethnic_group":[
        
     ],
     "banned_drivers":[
        
     ],
-    "prefered_driver": 1,
+    "prefered_driver": 4,
     "unsafe_for_female_driver":0,
     "unsafe_for_male_driver":0,
-    "bording_time":300,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+},
+ {
+    "id":213,
+    "c":"AMB",
+    "sdp":"SDP000185",
+    "times":"07:30:00",
+    "days":"M-T-W-TH-F",
+    "name":"LLAGUNO ALONSO, REYNALDA ",
+    "gender": "FEMALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"7245 NAVAJO RD, UNIT D230, SAN DIEGO, CA, 92119",
+    "formatted_address":"7245 NAVAJO RD UNIT D230 SAN DIEGO, CA 92119, USA",
+    "number":"7245",
+    "street":"NAVAJO RD",
+    "city":"SAN DIEGO",
+    "state":"CA",
+    "zip":"92119",
+    "longitude": -117.04022701909359,
+    "latitude": 32.80375535739962, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":214,
+    "c":"AMB",
+    "sdp":"SDP000532",
+    "times":"07:17:00",
+    "days":"M-W-F",
+    "name":"RAMIREZ PENA, JOSE L",
+    "gender": "MALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"6449 CLEEVE WAY, SAN DIEGO, CA, 92117",
+    "formatted_address":"6449 CLEEVE WAY SAN DIEGO, CA 92117, USA",
+    "number":"6449",
+    "street":"CLEEVE WAY",
+    "city":"SAN DIEGO",
+    "state":"CA",
+    "zip":"92119",
+    "longitude": -117.16755561538635,
+    "latitude": 32.82679976148533, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":215,
+    "c":"AMB",
+    "sdp":"SDP001193",
+    "times":"11:00:00",
+    "days":"M-W-F",
+    "name":"STOTTS, CARMEN",
+    "gender": "FEMALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"1432 ROCK TERRACE, ALPINE, CA, 91901",
+    "formatted_address":"1432 ROCK TERRACE ALPINE, CA 91901, USA",
+    "number":"1432",
+    "street":"ROCK TERRACE",
+    "city":"ALPINE",
+    "state":"CA",
+    "zip":"91901",
+    "longitude": -116.75411552887752,
+    "latitude": 32.83370489356051, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":216,
+    "c":"AMB",
+    "sdp":"SDP094588",
+    "times":"09:00:00",
+    "days":"M-T-W-TH-F",
+    "name":"OCEGUERA, AGUILA ARNOLD ",
+    "gender": "MALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"950 L AVE, NATIONAL CITY, CA, 91950",
+    "formatted_address":"950 L AVE NATIONAL CITY, CA 91950, USA",
+    "number":"950",
+    "street":"L AVE",
+    "city":"NATIONAL CITY",
+    "state":"CA",
+    "zip":"91950",
+    "longitude": -117.09449931545754,
+    "latitude": 32.67816237126191,  
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":217,
+    "c":"AMB",
+    "sdp":"SDP001835",
+    "times":"11:00:00",
+    "days":"M-T-W-TH-F",
+    "name":"HILLS, DARLINE",
+    "gender": "FEMALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"204 VIEJAS GRADE RD, ALPINE, CA, 91901",
+    "formatted_address":"204 VIEJAS GRADE RD ALPINE, CA 91901, USA",
+    "number":"204",
+    "street":"VIEJAS GRADE RD",
+    "city":"ALPINE",
+    "state":"CA",
+    "zip":"91901",
+    "longitude": -116.70030828069959,
+    "latitude": 32.85881527826023, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":218,
+    "c":"AMB",
+    "sdp":"SDP001655",
+    "times":"11:00:00",
+    "days":"M-T-W-TH-F",
+    "name":"LYONS, BELDONE",
+    "gender": "FEMALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"2565 ALPINE BLVD, APLINE, CA, 91901",
+    "formatted_address":"2565 ALPINE BLVD APLINE, CA 91901, USA",
+    "number":"2565",
+    "street":"ALPINE BLVD",
+    "city":"ALPINE",
+    "state":"CA",
+    "zip":"91901",
+    "longitude": -116.75802070671475,
+    "latitude": 32.83451496209854, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":219,
+    "c":"AMB",
+    "sdp":"SDP003414",
+    "times":"09:00:00",
+    "days":"M-T-W-TH-F",
+    "name":"OCEGUERA AGUILA, ARNOLD",
+    "gender": "MALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"950 L AVE, NATIONAL CITY, CA, 91950",
+    "formatted_address":"950 L AVE NATIONAL CITY, CA 91950, USA",
+    "number":"950",
+    "street":"L AVE",
+    "city":"NATIONAL CITY",
+    "state":"CA",
+    "zip":"91950",
+    "longitude": -117.09449931545754,
+    "latitude": 32.67816237126191,  
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":220,
+    "c":"AMB",
+    "sdp":"SDP007087",
+    "times":"07:15:00",
+    "days":"M-T-W-TH-F",
+    "name":"BARGA, DOMINGO",
+    "gender": "MALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"221 E ONEIDA ST, CHULA VISTA, CA, 91910",
+    "formatted_address":"221 E ONEIDA ST CHULA VISTA, CA 91910, USA",
+    "number":"221 E",
+    "street":"ONEIDA ST",
+    "city":"CHULA VISTA",
+    "state":"CA",
+    "zip":"91910",
+    "longitude": -117.04642270196565,
+    "latitude": 32.61502863256382,   
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":221,
+    "c":"AMB",
+    "sdp":"SDP001218",
+    "times":"07:17:00",
+    "days":"M-W",
+    "name":"CHANG, HOUNGS",
+    "gender": "MALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"3252 HOLLY WAY, CHULA VISTA, CA, 91910",
+    "formatted_address":"3252 HOLLY WAY CHULA VISTA, CA 91910, USA",
+    "number":"3252",
+    "street":"HOLLY WAY",
+    "city":"CHULA VISTA",
+    "state":"CA",
+    "zip":"91910",
+    "longitude": -117.05288336246679,
+    "latitude": 32.6462152599691, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":222,
+    "c":"AMB",
+    "sdp":"SDP001633",
+    "times":"11:00:00",
+    "days":"M-T-W-TH-F",
+    "name":"HEAGY, KIMBERLY",
+    "gender": "FEMALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"2438 K ST, SAN DIEGO, CA, 92102",
+    "formatted_address":"2438 K ST SAN DIEGO, CA 92102, USA",
+    "number":"2438",
+    "street":"K ST",
+    "city":"SAN DIEGO",
+    "state":"CA",
+    "zip":"92102",
+    "longitude": -117.14152928659344,
+    "latitude": 32.70902199668266,  
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
+    "constraints" : ["AMB"],
+    "pickup_first": false,
+    "on_hold": false
+ },
+ {
+    "id":223,
+    "c":"AMB",
+    "sdp":"SDP001468",
+    "times":"08:00:00",
+    "days":"M-T-W-TH-F",
+    "name":"GONZALEZ, ROSA",
+    "gender": "FEMALE",
+    "site":"EL CAJON PACE",
+    "destination":"875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "other":"",
+    "full_address":"4451 QUINCE ST, SAN DIEGO, CA, 92105",
+    "formatted_address":"4451 QUINCE ST SAN DIEGO, CA 92105, USA",
+    "number":"4451",
+    "street":"QUINCE ST",
+    "city":"SAN DIEGO",
+    "state":"CA",
+    "zip":"92105",
+    "longitude": -117.09813417624629,
+    "latitude": 32.73675455251361, 
+    "spoken_languages": ["ENGLISH"],
+    "banned_ethnic_group":[
+       
+    ],
+    "banned_drivers":[
+       
+    ],
+    "prefered_driver": 0,
+    "unsafe_for_female_driver":0,
+    "unsafe_for_male_driver":0,
+    "bording_time":420,
     "constraints" : ["AMB"],
     "pickup_first": false,
     "on_hold": false
  }
 ]
+

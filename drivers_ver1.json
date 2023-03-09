@@ -5,6 +5,7 @@
       "gender": "MALE",
       "vehicle_garage":"730 W 19TH ST, NATIONAL CITY, CA, 91950",
       "vehicle_name":"VAN 112",
+      "cost_per_mile": 5.3,
       "destination_id": [2],
       "from_date": "2022-03-09",
       "to_date": "2030-12-31",
@@ -924,6 +925,29 @@
       "constraints":["AMB"],
       "ptps_blacklist":[],
       "safe_for_female_ptps":true
+    },
+    {
+      "driver_id": 49,
+      "full_name": "NASH, NAZAR",
+      "gender": "MALE",
+      "vehicle_garage":"10115 CALLE MARINERO, SPRING VALLEY, CA, 91977",
+      "vehicle_name":"VAN 81",
+      "destination_id": [16],
+      "from_date": "2022-03-09",
+      "to_date": "2030-12-31",
+      "from_time": "06:30:00",
+      "to_time": "16:00:00",
+      "days": [1, 2, 3, 4, 5],
+      "enabled_for_routing": 1,
+      "ethnic_group_id": 1,
+      "zip_code_groups": ["92154", "91911", "91910", "92114", "92105", "91950", "92113", "92101", "92173", "92108", "92115"],
+      "spoken_languages": ["ENGLISH", "SPANISH", "ARABIC"],
+      "looseness": 600,
+      "vehicle_capacity_id": 2,
+      "constraints":["AMB"],
+      "ptps_blacklist":[],
+      "safe_for_female_ptps":true
     }
+    
     
   ]
