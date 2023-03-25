@@ -143,7 +143,7 @@
 },
 {
     "destination_id": 13,
-    "destination_full_address": "5961 UNIVERSITY AVE, SUITE 317, SAN DIEGO, CA 92115",
+    "destination_full_address": "5961 UNIVERSITY AVE, SUITE 317, SAN DIEGO, CA, 92115",
     "destination_formatted_address":"5961 UNIVERSITY AVE SAN DIEGO, CA 92115, USA",
     "destination_arrival_delay":10,
     "destination_number":"5961",
@@ -156,7 +156,7 @@
 },
 {
     "destination_id": 14,
-    "destination_full_address": "720 GATEWAY CENTER DR, SUITE B, SAN DIEGO, CA 92102",
+    "destination_full_address": "720 GATEWAY CENTER DR, SUITE B, SAN DIEGO, CA, 92102",
     "destination_formatted_address":"720 GATEWAY CENTER DR SAN DIEGO, CA 92102, USA",
     "destination_arrival_delay":10,
     "destination_number":"720",
@@ -182,7 +182,7 @@
 },
 {
     "destination_id": 16,
-    "destination_full_address": "1840 WEST DR, VISTA, CA 92083",
+    "destination_full_address": "1840 WEST DR, VISTA, CA, 92083",
     "destination_formatted_address":"1840 WEST DR, VISTA, CA 92083, USA",
     "destination_arrival_delay":10,
     "destination_number":"1840",
@@ -192,6 +192,19 @@
     "destination_zip":"92083",
     "destination_longitude":  -117.28110143100537,
     "destination_latitude": 33.19025842958157
+},
+{
+    "destination_id": 17,
+    "destination_full_address": "875 EL CAJON BLVD, EL CAJON, CA, 92020",
+    "destination_formatted_address":"875 EL CAJON BLVD EL CAJON, CA 92020, USA",
+    "destination_arrival_delay":10,
+    "destination_number":"875",
+    "destination_street":"EL CAJON BLVD",
+    "destination_city":"EL CAJON",
+    "destination_state":"CA",
+    "destination_zip":"92020",
+    "destination_longitude":  -116.97690970196801,
+    "destination_latitude": 32.78528453731118
 }
 
 

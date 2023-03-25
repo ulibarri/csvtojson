@@ -301,7 +301,7 @@ let centers=[
     },
     {
         name: "UCSD HILLCREST",
-        address: '200 WEST ARBOR DRIVE,STE. 1, SAN DIEGO, CA, 92103',
+        address: '200 WEST ARBOR DRIVE, SUITE 1, SAN DIEGO, CA, 92103',
         reference:'200 WEST ARBOR DRIVE,3RD FLOOR, STE. 1, SAN DIEGO, CA, 92101-2030',
         abbrev: null,
         category: "ER",
@@ -310,7 +310,7 @@ let centers=[
     },
     {
         name: "UCSD HILLCREST",
-        address: "200 WEST ARBOR DRIVE, STE. 1, SAN DIEGO, CA, 92103",
+        address: "200 WEST ARBOR DRIVE, SUITE 1, SAN DIEGO, CA, 92103",
         reference:'200 WEST ARBOR DRIVE,3RD FLOOR, STE. 1, SAN DIEGO, CA, 92101-2030',
         abbrev: null,
         category: "ER",
@@ -319,7 +319,7 @@ let centers=[
     },
     {
         name: "UCSD HILLCREST",
-        address: "200 WEST ARBOR DRIVE, STE. 1, SAN DIEGO, CA, 92103",
+        address: "200 WEST ARBOR DRIVE, SUITE 1, SAN DIEGO, CA, 92103",
         reference:'200 WEST ARBOR DRIVE,3RD FLOOR, STE. 1, SAN DIEGO, CA, 92101-2030',
         abbrev: null,
         category: "ER",
@@ -328,7 +328,7 @@ let centers=[
     },
     {
         name: "UCSD HILLCREST",
-        address: "200 WEST ARBOR DRIVE, STE. 1, SAN DIEGO, CA, 92103",
+        address: "200 WEST ARBOR DRIVE, SUITE 1, SAN DIEGO, CA, 92103",
         reference:'200 WEST ARBOR DRIVE,3RD FLOOR ,STE. 1, SAN DIEGO, CA, 92103',
         abbrev: null,
         category: "ER",
@@ -337,7 +337,7 @@ let centers=[
     },
     {
         name: "UCSD HILLCREST",
-        address: "200 WEST ARBOR DRIVE, STE 1, SAN DIEGO, CA, 92101-2030",
+        address: "200 WEST ARBOR DRIVE, SUITE 1, SAN DIEGO, CA, 92103",
         reference: "200 WEST ARBOR DRIVE,3RD FLOOR, STE. 1, SAN DIEGO, CA, 92103",
         abbrev: null,
         category: "ER",
@@ -346,7 +346,7 @@ let centers=[
     },  
     {
         name: "UCSD HILLCREST",
-        address: "200 WEST ARBOR DRIVE, STE 1, SAN DIEGO, CA, 92101-2030",
+        address: "200 WEST ARBOR DRIVE, SUITE 1, SAN DIEGO, CA, 92103",
         reference: "200 WEST ARBOR DRIVE,3RD FLOOR, STE. 1, SAN DIEGO, CA, 92103",
         abbrev: null,
         category: "ER",
@@ -911,6 +911,14 @@ let centers=[
         category: "IMAGING",
         phone: '619-397-6577',
         criteria: ['765','MEDICAL C','100', 'CHULA','91911']
+    },
+    {
+        name: "SAN DIEGO IMAGING MEDICAL GROUP",
+        address: "765 MEDICAL CENTER CT, SUITE 100, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: "IMAGING",
+        phone: '619-397-6577',
+        criteria: ['765','MEDICAL C','100', 'CHULA','91910']
     },
     {
         name: "SAN DIEGO IMAGING MEDICAL GROUP - SHARP CHULA VISTA",
@@ -1490,6 +1498,22 @@ let centers=[
         category: "OPHTHALMOLOGY",
         phone: '619-425-7755',
         criteria: ['835','3RD',' A','CHULA','91911']
+    },
+    {
+        name: "CALIFORNIA RETINA ASSOCIATES",
+        address: "835 3RD AVE, SUITE C, CHULA VISTA , CA, 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['835','3RD',' C','CHULA','91911']
+    },
+    {
+        name: "CALIFORNIA RETINA ASSOCIATES",
+        address: "835 3RD AVE, SUITE C, CHULA VISTA , CA, 91911",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['835','THIRD',' C','CHULA','91911']
     },
     {
         name: "SAN YSIDRO HEALTH EL CAJON",
@@ -2797,6 +2821,14 @@ let centers=[
     },
     {  
         name: "UC SAN DIEGO",
+        address: "9300 CAMPUS POINT DRIVE, SUITE 1-300, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9300','CAMPUS','POINT D','92039','SUITE 1','300','JOLLA']
+    },
+    {  
+        name: "UC SAN DIEGO",
         address: "9300 CAMPUS POINT DRIVE, LA JOLLA, CA, 92037",
         reference:'9300 CAMPUS POINT DRIVE, 1ST FLOOR, LA JOLLA, CA, 92037',
         abbrev: null,
@@ -2835,6 +2867,14 @@ let centers=[
         category: 'RADIOLOGY',
         phone: '619-543-1998',
         criteria: ['9300','CAMPUS','POINT D','92121','JOLLA']
+    },
+    {  
+        name: "UC SAN DIEGO",
+        address: "9300 CAMPUS POINT DRIVE, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: 'RADIOLOGY',
+        phone: '619-543-1998',
+        criteria: ['9300','CAMPUS','POINT D','92037','DIEGO']
     },
     { 
         name: "GYNECOLOGY-MATERNAL & CHILD HEALTH CENTER",
@@ -3818,6 +3858,14 @@ let centers=[
         criteria: ['9850','GENESEE AV','470','JOLLA','92037']
     },
     { 
+        name: "XIMED MEDICAL GROUP",
+        address: "9850 GENESEE AVE, SUITE 770, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9850','GENESEE AV','770','JOLLA','92037']
+    },
+    { 
         name: "SCRIPPS MEMORIAL HOSPITAL LA JOLLA",
         address: "9888 GENESEE AVE, LA JOLLA, CA, 92037",
         abbrev: null,
@@ -4727,7 +4775,14 @@ let centers=[
         phone: null,
         criteria: ['959','LANE AV','BLDG B','CHULA','91914']
     },
-
+    { 
+        name: "NEPHROLOGY APPT",
+        address: "959 LANE AVE BLDG D CHULA VISTA, CA 91914",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['959','LANE AV',' D','CHULA','91914']
+    },
     { 
         name: "IHS RADIOLOGY - LA JOLLA",
         address: "4150 REGENTS PARK ROW, STE 195, LA JOLLA, CA, 92037",
@@ -7214,19 +7269,36 @@ let centers=[
     },
     { 
         name: "UCSD PSYCHIATRY",
-        address: "8950 VILLA LA JOLLA DR, SUITE C #101, LA JOLLA, CA, 92037",
+        address: "8950 VILLA LA JOLLA DR, SUITE C 101, LA JOLLA, CA, 92037",
         abbrev: null,
         category: null,
         phone: null,
-        criteria: ['8950',' VILLA LA', 'LLA DR','101', 'JOLLA', '92037']
+        criteria: ['8950','VILLA LA', 'LLA DR','101', 'JOLLA', '92037']
     },
-    
-    
-    
-    
-    
-    
-    
+    { 
+        name: "MISMO DERMATOLOGY AND WOUND CARE",
+        address: "6280 JACKSON DR, SUITE 9, SAN DIEGO, CA, 92119",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['6280','JACKSON DR', ' 9','DIEGO', '92119']
+    },
+    { 
+        name: "UCSD",
+        address: "4169 FRONT STREET, SAN DIEGO, CA, 92103",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['4169','FRONT ST','DIEGO', '92103']
+    },
+    { 
+        name: "SCRIPPS MEDICAL CENTER JEFFERSON",
+        address: "2205 VISTA WAY, SUITE 210, OCEANSIDE, CA, 92054",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2205','VISTA WAY','210', 'OCEANSIDE','92054']
+    }
     
     
 ]

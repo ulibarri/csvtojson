@@ -498,6 +498,18 @@ module.exports=[
     replacement:'GROSSMONT CENTER DRIVE'},
     {typo: '16950 VIA TEZON FIRST FLOOR SAN DIEGO',
     replacement:'16950 VIA TAZON SAN DIEGO'},
+    {typo: 'LA JOLLA VILLA DR',
+    replacement:'LA JOLLA VILLAGE DR'},
+    {typo: '4168 FRONT,',
+    replacement:'4168 FRONT ST,'},
+    {typo: 'ENTRY CODE #8053776939,',
+    replacement:' '},
+    {typo: 'PENSSYLVANIA',
+    replacement:'PENNSYLVANIA'}
+
+    
+    
+    
 
 
     
