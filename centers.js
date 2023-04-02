@@ -2713,7 +2713,7 @@ let centers=[
     {  
         name: "UC SAN DIEGO",
         address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
-        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, LA JOLLA , CA, 92121',
+        reference:'9400 CAMPUS POINT DRIVE, 2ND FLOOR, SAN DIEGO, CA, 92121',
         abbrev: null,
         category: null,
         phone: '858 657-8200',
@@ -4848,6 +4848,14 @@ let centers=[
         criteria: ['385 P','WAY','CHULA','91910']
     },
     { 
+        name: "PARKWAY AQUATIC CENTER",
+        address: "385 PARK WAY, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: '619-409-1985',
+        criteria: ['385 P','WAY','CHULA','91911']
+    },
+    { 
         name: "UCSD ALLERGY",
         address: "8899 UNIVERSITY CENTER LN, SUITE  230, SAN DIEGO, CA, 92122",
         abbrev: null,
@@ -5350,6 +5358,14 @@ let centers=[
         category: null,
         phone: '619-583-7002',
         criteria: ['6367','ALVARADO C','101','DIEGO', '92120']
+    },
+    { 
+        name: "SAN DIEGO DERMATOLOGY AND COSMETIC SURGERY, INC.",
+        address: "6367 ALVARADO COURT, SUITE 107, SAN DIEGO, CA, 92120",
+        abbrev: null,
+        category: null,
+        phone: '619-583-7002',
+        criteria: ['6367','ALVARADO C','107','DIEGO', '92120']
     } ,
     { 
         name: "MOUNTAIN HEALTH FAM MED DENTAL",
@@ -6716,6 +6732,15 @@ let centers=[
         criteria: ['12395','CAMINO REA','207','DIEGO','92130']
     },
     { 
+        name: "DERMATOLOGY",
+        address: "12395 EL CAMINO REAL, SUITE 200, SAN DIEGO, CA, 92130",
+        reference:"12395 EL CAMINO REAL SUITE 200 SAN DIEGO, CA 92130",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['12395','CAMINO REA','200','DIEGO','92130']
+    },
+    { 
         name: "Pain Management",
         address: "3969 4TH AVENUE, SUITE 208, CHULA VISTA, CA, 92103",
         abbrev: null,
@@ -7298,6 +7323,46 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['2205','VISTA WAY','210', 'OCEANSIDE','92054']
+    },
+    { 
+        name: "CARDIOLOGY",
+        address: "2131 3RD AVE, SAN DIEGO, CA, 92101",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2131','3RD AV','DIEGO', '92101']
+    },
+    { 
+        name: "CARDIOLOGY",
+        address: "2131 3RD AVE, SAN DIEGO, CA, 92101",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2131','THIRD AV','DIEGO', '92101']
+    },
+    { 
+        name: "ILF",
+        address: "5752 MICHAEL ST, SAN DIEGO, CA, 92105",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['5752','MICHAEL ST', 'DIEGO', '92105']
+    },
+    { 
+        name: "DMV",
+        address: "1450 GRAVES AVE, EL CAJON, CA, 92021",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1450','GRAVES AV', 'CAJON', '92021']
+    },
+    { 
+        name: "JAMES KIM, MD",
+        address: "5358 JACKSON DR, SUITE 1, LA MESA, CA, 91942",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['5358','JACKSON DR', 'SUITE 1', 'MESA', '91942']
     }
     
     

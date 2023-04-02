@@ -164,8 +164,9 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 									SDP542305 este COMPLETA, contiene 3737 Moraga Ave., Suite B-107, Suite B-107 S el drop off address es:
 									SDP004319 contiene gate code/ entry
 									SDP003598 le falta "chula vista"
-									BUSCAR 9112 WAKARUSA ST LA MESA, CA 91942
+									BUSCAR SDP003684 9112 WAKARUSA ST LA MESA, CA 91942 REVISAR GOING ALF
 									SDP221613 contiene gate code/ entry
+									SDP002670 435 H ST, , CA 91910, CHULA VISTA, CA 91910 
 
 									REVISAR EN OUT4
 									477 N EL CAMINO REAL,SUITE 102, ENCINITAS, CA, 92024
