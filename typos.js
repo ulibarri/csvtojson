@@ -508,5 +508,24 @@ module.exports=[
     replacement:'PENNSYLVANIA'},
     {typo: 'ALVARDO R',
     replacement:'ALVARADO R'},
+    {typo: 'CITRICADO',
+    replacement:'CITRACADO'},
+    {typo: '408 DICKINSON ST SD',
+    replacement:'408 DICKINSON ST SAN DIEGO'},
+    {typo: '4520 EXCUTIVE',
+    replacement:'4520 EXECUTIVE'},
+    {typo: '9400 CAMPUS DR',
+    replacement:'9400 CAMPUS POINT DR'},
+    {typo: 'SUITE P2 SD 92121',
+    replacement:'SUITE P2, SAN DIEGO, 92121'},
+    {typo: '978 HANGMAN',
+    replacement:'978 HAGMANN'},
+    
+    
+    
+
+    
+    
+    
         
 ]

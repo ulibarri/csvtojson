@@ -156,6 +156,7 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 
 									TEZON
 									16950 VIA TAZON, RANCHO BERNARDO, CA, 92127
+									VIA DE LAS
 									1184 30TH ST. APT #103 BUILDING #3 - MAIN GATE CODE #5150 SAN DIEGO, CA 92154 
 									1184 30th St. Apt 103,  San Diego, CA 92154
 									SDP003232 avisar cuando aparezca
@@ -166,7 +167,21 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 									SDP003598 le falta "chula vista"
 									BUSCAR SDP003684 9112 WAKARUSA ST LA MESA, CA 91942 REVISAR GOING ALF
 									SDP221613 contiene gate code/ entry
-									SDP002670 435 H ST, , CA 91910, CHULA VISTA, CA 91910 
+									SDP002670 435 H ST, , CA 91910, CHULA VISTA, CA 91910
+									SDP518929 tiene gate code
+									SDP412181 tiene gate code
+									SDP544887 tiene gate code
+									gate
+									code
+									entry
+									going
+									SDP462378 contiene 637 W  Washington Ave El Cajon, CA, El Cajon, CA 92020
+									REVISAR SDP518929
+											SDP428340
+									salieron intercambiados los origenes
+									SDP002426 contains 435 H St, , CA 91910Chula Vista, CA 91910 619-691-7000
+									MANOR
+									CASTLE
 
 									REVISAR EN OUT4
 									477 N EL CAMINO REAL,SUITE 102, ENCINITAS, CA, 92024
@@ -174,12 +189,16 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 									revisar al final
 									SDP002729	36536 OLD HWY,80 UNIT D,PINE VALLEY,CA, 91962
 												36536 OLD HWY 80, UNIT D,PINE VALLEY,CA, 91962
+									
+									
 
 									arreglar todos los HWY
-
+									HIGHWAY
 									VIA CENTRE
 									VIA CTR
+									CUMBRES
 									SP REEMPLAZAR CON SPC
+									GATE CODE
 									
 									Archivo fuente "subido" al manifest parser
 									Email content
