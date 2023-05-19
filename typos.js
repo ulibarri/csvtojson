@@ -520,6 +520,26 @@ module.exports=[
     replacement:'SUITE P2, SAN DIEGO, 92121'},
     {typo: '978 HANGMAN',
     replacement:'978 HAGMANN'},
+    {typo: '1811 J ST.',
+    replacement:' 1811 J AVE'},
+    {typo: '1811 J ST ',
+    replacement:'1811 J AVE '},
+    {typo: '4690 E CAJON BLVD SD CA',
+    replacement:'4690 E CAJON BLVD SAN DIEGO CA'},
+    {typo: '8910 VILLLA LA JOLLA',
+    replacement:'8910 VILLA LA JOLLA'},
+    {typo: ' LA JOLA CA ',
+    replacement:' LA JOLLA CA '},
+    {typo: ' ASAN DIEGO',
+    replacement:' SAN DIEGO'},
+    {typo: ' SAN DEIGO',
+    replacement:' SAN DIEGO'},
+    
+    
+   
+    
+    
+    
     
     
     

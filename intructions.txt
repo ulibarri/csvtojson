@@ -145,9 +145,9 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 									105 DURIAN 105 Durian St, Vista, CA, 92083
 									STB SUITE B
 									ST B
-									
 									288 'F'
 									394 BROADWAY ROOM 112 CHULA VISTA, CA, 91911 CASTRO ROSALIO	394 BROADWAY, # 112, CHULA VISTA, CA, 91911
+									contiene 394 Broadway, Room #110 Chula Vista, CA 91910
 
 									1330 MADERA ST,  ENCANTO, CA, 92114  	1330 MADERA ST, SAN DIEGO, CA, 92114
 																			1347 MADERA ST, SAN DIEGO, CA, 92114
@@ -171,6 +171,7 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 									SDP518929 tiene gate code
 									SDP412181 tiene gate code
 									SDP544887 tiene gate code
+									SDP001686 tiene gate code
 									gate
 									code
 									entry
@@ -182,6 +183,11 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 									SDP002426 contains 435 H St, , CA 91910Chula Vista, CA 91910 619-691-7000
 									MANOR
 									CASTLE
+									SDP381330 CARRILLO, DOMINGO EL ORIGEN ES 	424 S V AVE,NATIONAL CITY,CA, 91950, REEMPLAZARLO por		
+																				424 SOUTH V AVENUE, NATIONAL CITY, CA, 91950
+									
+									V AVE,NATIONAL  REEMPLAZARLO por		
+									SOUTH V AVENUE,NATIONAL
 
 									REVISAR EN OUT4
 									477 N EL CAMINO REAL,SUITE 102, ENCINITAS, CA, 92024
@@ -189,6 +195,7 @@ NORTH COUNTY DAY CENTER 			2095 W VISTA WAY, VISTA, CA, 92083 ahora es 1840 WEST
 									revisar al final
 									SDP002729	36536 OLD HWY,80 UNIT D,PINE VALLEY,CA, 91962
 												36536 OLD HWY 80, UNIT D,PINE VALLEY,CA, 91962
+									SDP001569 revisar al final, salio SIN destination
 									
 									
 

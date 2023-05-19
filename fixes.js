@@ -29,6 +29,12 @@ module.exports=[
     replacement:'VIA CENTRE'},
     {typo: 'VIA,FELICIA',
     replacement:'VIA FELICIA'},
+    {typo: 'VIA,CANTEBRIA',
+    replacement:'VIA CANTEBRIA'},
+    {typo: 'VIA,LAS CUMBRES',
+    replacement:'VIA LAS CUMBRES'},
+    {typo: 'VIA,VALARTA',
+    replacement:'VIA VALARTA'},
     {typo: 'PALM AVE,',
     replacement:'PALM AVENUE,'},
     {typo: 'CA 9',
@@ -37,9 +43,10 @@ module.exports=[
     replacement:'28730 HIGHWAY 94,CAMPO,CA, 91906'},
     {typo: 'HIGHWAY,94',
     replacement:'HIGHWAY 94'}
+
     
     
-       
+    
 ]
 
 
