@@ -222,7 +222,7 @@ let centers=[
         name: "THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
         address: "3686 4TH AVE, SAN DIEGO, CA, 92103",
         abbrev: null,
-        category: null,
+        category: "ALZHEIMER",
         phone: null,
         criteria: ['3686','FOURTH AV', 'DIEGO','92103']
     },
@@ -230,7 +230,7 @@ let centers=[
         name: "THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
         address: "3686 4TH AVE, SAN DIEGO, CA, 92103",
         abbrev: null,
-        category: null,
+        category: "ALZHEIMER",
         phone: null,
         criteria: ['3686','4TH AV', 'DIEGO','92103']
     },
@@ -238,7 +238,7 @@ let centers=[
         name: "THE GEORGE G GLENNER ALZHEIMER'S FAMILY CENTERS INC.",
         address: "335 SAXONY RD, ENCINITAS, CA 92024",
         abbrev: null,
-        category: null,
+        category: "ALZHEIMER",
         phone: null,
         criteria: ['335','SAXONY RD', 'ENCINITAS','92024']
     }    

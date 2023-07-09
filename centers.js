@@ -849,7 +849,7 @@ let centers=[
     },
     {
         name: "HEARING AID IMPRESSIONS- SONUS 07",
-        address: "310 THIRD AVE, STE B21, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE B21, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVE, STE C11, 3RD FLOOR, CHULA VISTA, CA, 91910-3965",
         abbrev: null,
         category: "HEARING",
@@ -858,7 +858,7 @@ let centers=[
     } ,
     {
         name: "SONUS HEARING CARE PROFESSIONALS",
-        address: "310 3RD AVENUE, STE B21A, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE B21A, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "HEARING",
         phone: null,
@@ -866,7 +866,7 @@ let centers=[
     } ,
     {
         name: "SONUS HEARING CARE PROFESSIONALS",
-        address: "310 3RD AVENUE, STE B21A, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE B21A, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "HEARING",
         phone: null,
@@ -874,7 +874,7 @@ let centers=[
     } ,
     {
         name: "HEARING AID IMPRESSIONS- SONUS 07",
-        address: "310 THIRD AVE, STE B21, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE B21, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVE, STE B21, 3RD FLOOR, CHULA VISTA, CA, 91910-3965",
         abbrev: null,
         category: "HEARING",
@@ -883,7 +883,7 @@ let centers=[
     },
     {
         name: "SONUS 07",
-        address: "310 THIRD AVE, STE C11, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE C11, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVE, STE C11, 3RD FLOOR, CHULA VISTA, CA, 91910-3965",
         abbrev: null,
         category: "HEARING",
@@ -892,7 +892,7 @@ let centers=[
     },
     {
         name: "SONUS 07",
-        address: "310 THIRD AVE, STE C11, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE C11, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVE, STE C11, 3RD FLOOR, CHULA VISTA, CA, 91910-3965",
         abbrev: null,
         category: "HEARING",
@@ -902,7 +902,7 @@ let centers=[
     ,
     {
         name: "SONUS 07",
-        address: "310 THIRD AVE, STE B21, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE B21, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVENUE, SUITE B-21, 3RD FLOOR, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "HEARING",
@@ -911,7 +911,7 @@ let centers=[
     },
     {
         name: "SONUS 07",
-        address: "310 THIRD AVE, STE B21, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE B21, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVENUE, SUITE B-21, 3RD FLOOR, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "HEARING",
@@ -920,7 +920,7 @@ let centers=[
     },
     {
         name: "SONUS 07",
-        address: "310 THIRD AVE, STE B21, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE B21, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVENUE, SUITE B-21, 3RD FLOOR, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "HEARING",
@@ -929,7 +929,7 @@ let centers=[
     },
     {
         name: "SONUS 07",
-        address: "310 THIRD AVE, STE B12, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE B12, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVENUE, SUITE B-12, 3RD FLOOR, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "HEARING",
@@ -938,7 +938,7 @@ let centers=[
     },
     {
         name: "SONUS 07",
-        address: "310 THIRD AVE, STE B12, CHULA VISTA, CA, 91910",
+        address: "310 3RD AVE, STE B12, CHULA VISTA, CA, 91910",
         reference:"310 THIRD AVENUE, SUITE B-12, 3RD FLOOR, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "HEARING",
@@ -1535,7 +1535,7 @@ let centers=[
     },
     {
         name: "VITALI AIZIN, MD",
-        address: "321 E STREET, STE A, CHULA VISTA, CA, 91910",
+        address: "321 E ST, STE A, CHULA VISTA, CA, 91910",
         abbrev: null,
         category: "CARDIOLOGY",
         phone: '619-573-4779',
@@ -1861,6 +1861,14 @@ let centers=[
         criteria: ['769','MEDICAL C','202','CHULA','91911']
     },
     {
+        name: "SOUTH COUNTY HEMATOLOGY & ONCOLOGY, KENNETH JOHNSON, MD",
+        address: "769 MEDICAL CENTER CT, SUITE 201, CHULA VISTA, CA, 91911",
+        abbrev: null,
+        category: 'HEMATOLOGY & ONCOLOGY',
+        phone: '619-482-8430',
+        criteria: ['769','MEDICAL C','201','CHULA','91911']
+    },
+    {
         name: "MEDIC",
         address: "769 MEDICAL CENTER CT,CHULA VISTA,CA, 91911",
         abbrev: null,
@@ -1967,6 +1975,14 @@ let centers=[
         category: 'IMAGING',
         phone: '866-558-4320',
         criteria: ['6386','ALVARADO C','121','DIEGO','92120']
+    },
+    {
+        name: "IMAGING HEALTHCARE SPECIALISTS IHS - ALVARADO COURT",
+        address: "6386 ALVARADO COURT, SUITE 121, SAN DIEGO, CA, 92120",
+        abbrev: null,
+        category: 'IMAGING',
+        phone: '866-558-4320',
+        criteria: ['6386','ALVARADO C','121','MESA','92120']
     },
     {
         name: "HEART AND WELLNESS",
@@ -2259,6 +2275,14 @@ let centers=[
         phone: null,
         criteria: ['2452','FENTON ST','205', 'CHULA','91914']
     },
+    {
+        name: "SOUTHERN CALIFORNIA GI & LIVER CENTERS",
+        address: "2436 FENTON ST, CHULA VISTA, CA, 91914",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2436','FENTON ST', 'CHULA','91914']
+    },
     
     {
         name: "BIONICS ORTHOTICS & PROSTHETICS",
@@ -2355,6 +2379,14 @@ let centers=[
         category: 'ORTHOPEDIC',
         phone: '619-291-8930',
         criteria: ['7485','MISSION V','VALLEY R', '104A','92108','DIEGO']
+    },
+    {
+        name: "CALIFORNIA ORTHOPEDIC INSTITUTE MEDICAL ASSOC. INC.",
+        address: "7485 MISSION VALLEY RD, SUITE 104 A, SAN DIEGO, CA, 92108",
+        abbrev: null,
+        category: 'ORTHOPEDIC',
+        phone: '619-291-8930',
+        criteria: ['7485','MISSION V','VALLEY R', '104','92108','DIEGO']
     },
     {
         name: "CALIFORNIA ORTHOPEDIC INSTITUTE MEDICAL ASSOC. INC.",
@@ -2513,7 +2545,7 @@ let centers=[
     },
     {
         name: "SHARP CHULA VISTA",
-        address: "751 MEDICAL CENTER COURT, CHULA VISTA, CA, 91911",
+        address: "751 MEDICAL CENTER CT, CHULA VISTA, CA, 91911",
         abbrev: null,
         category: 'CARDIOLOGY',
         phone: '619-502-5935',
@@ -2521,7 +2553,7 @@ let centers=[
     },
     { 
         name: "SHARP CHULA VISTA",
-        address: "751 MEDICAL CENTER COURT, CHULA VISTA, CA, 91911",
+        address: "751 MEDICAL CENTER CT, CHULA VISTA, CA, 91911",
         abbrev: null,
         category: null,
         phone: null,
@@ -2947,6 +2979,23 @@ let centers=[
         phone: null,
         criteria: ['9400','CAMPUS POINT','POINT D','92122','JOLLA']
     },
+    { 
+        name: "UC SAN DIEGO",
+        address: "9400 CAMPUS POINT DR, SAN DIEGO, CA, 92121",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9400','CAMPUS POINT','POINT D','92193','JOLLA']
+    },
+    { 
+        name: "UC SAN DIEGO",
+        address: "9400 CAMPUS POINT DR, LA JOLLA, CA, 92037",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9400','CAMPUS','POINT D','92307','JOLLA']
+    },
+    
     {  
         name: "UC SAN DIEGO",
         address: "9300 CAMPUS POINT DRIVE, SUITE 1-001, LA JOLLA, CA, 92037",
@@ -3257,6 +3306,15 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['9350','CAMPUS','POINT D','2B1','JOLLA','92057']
+    },
+    { 
+        name: "UCSD",
+        address: "9350 CAMPUS POINT DRIVE, SUITE 2B1, LA JOLLA, CA, 92037",
+        reference: '9350 CAMPUS POINT DRIVE, SUITE 2B1, LA JOLLA, CA, 92037',
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['9350','CAMPUS','POINT D','2B1','JOLLA','92027']
     },
     { 
         name: "SHILEY EYE INSTITUTE",
@@ -4275,6 +4333,14 @@ let centers=[
         criteria: ['550','WASHINGTON ST','DIEGO','92103']
     },
     { 
+        name: "SAN DIEGO SPINE AND SPORT",
+        address: "2240 E PLAZA BLVD, SUITE B-E, NATIONAL CITY, CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2240 E','PLAZA B','B-E ','NATIONAL','91505']
+    },
+    { 
         name: "DR. PATEL",
         address: "2240 E PLAZA BLVD SUITE FG, NATIONAL CITY, CA, 91950",
         abbrev: null,
@@ -4910,6 +4976,14 @@ let centers=[
         category: null,
         phone: '858-715-0465',
         criteria: ['7910','FROST ST','DIEGO','92123']
+    },
+    { 
+        name: "SHARP MRI CENTER",
+        address: "7910 FROST STREET, SUITE 100, SAN DIEGO, CA, 92123",
+        abbrev: null,
+        category: null,
+        phone: '858-715-0465',
+        criteria: ['7910','FROST ST','100','DIEGO','92123']
     },
     { 
         name: "NEPHRO DR. ALEXANDER BULLEN ",
@@ -5888,6 +5962,14 @@ let centers=[
     },
     { 
         name: "UCSD GYN",
+        address: "3750 CONVOY ST, #201, SAN DIEGO, CA, 92111",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3750','CONVOY S','201','DIEGO', '92111']
+    },
+    { 
+        name: "UCSD GYN",
         address: "3750 CONVOY ST, SAN DIEGO, CA, 92111",
         abbrev: null,
         category: null,
@@ -6425,6 +6507,14 @@ let centers=[
         criteria: ['6699','ALVARADO R','301','DIEGO','92120']
     },
     { 
+        name: "RICHARD MAYER, MD",
+        address: "6699 ALVARADO RD, SUITE 2309, SAN DIEGO, CA, 92120",
+        abbrev: null,
+        category: null,
+        phone: '619-462-9010',
+        criteria: ['6699','ALVARADO R','2309','DIEGO','92120']
+    },
+    { 
         name: "DENTAL COSMETIC DENTISTRY CENTER OF SAN DIEGO",
         address: "940 B STREET, SAN DIEGO, CA, 92101",
         abbrev: null,
@@ -6575,6 +6665,14 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['2216 S','CAMINO REAL','122','OCEANSIDE','92058']
+    },
+    { 
+        name: "TRUCARE DENTAL",
+        address: "2216 S EL CAMINO REAL, OCEANSIDE, CA, 92054",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2216 S','CAMINO REAL','OCEANSIDE','92054']
     },
     { 
         name: "NOT AVAILABLE",
@@ -7036,6 +7134,14 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['2210','MESA DR',' 5','OCEANSIDE','92054']
+    },
+    { 
+        name: "TRUECARE",
+        address: "2210 MESA DR, SUITE 5, OCEANSIDE, CA, 92054",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['2210','MESA DR','#5','OCEANSIDE','92054']
     },
     { 
         name: "AUDIOLOGY HEARING SONUS",
@@ -7671,6 +7777,14 @@ let centers=[
         criteria: ['134','GRAPEVINE R', 'VISTA', '92083']
     },
     { 
+        name: "VISTA COMMUNITY-PODIATRY ",
+        address: "134 GRAPEVINE RD, VISTA, CA, 92083",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['134','GRAPEVINE R', 'VISTA', '92084']
+    },
+    { 
         name: "UCSD NEPHROLOGY DEPARTMENT",
         address: "4180 FRONT ST, SAN DIEGO, CA, 92103",
         reference:'4180 FRONT ST 2ND FLOOR SAN DIEGO CA 92103',
@@ -7840,6 +7954,14 @@ let centers=[
         criteria: ['345','F ST', 'CHULA','91910']
     },
     { 
+        name: "SOUTH BAY FOOT AND ANKLE SPECIALISTS, INC",
+        address: "345 F STREET , SUITE 100, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['345','F ST','100', 'CHULA','91910']
+    },
+    { 
         name: "PAIN MANAGEMENT",
         address: "9500 CAMPUS POINT DRIVE, SUITE 1-300, LA JOLLA, CA, 92037",
         abbrev: null,
@@ -7910,8 +8032,129 @@ let centers=[
         category: null,
         phone: null,
         criteria: ['780','DENNERY RD', '301', 'DIEGO','92154']
+    },
+    { 
+        name: "SPINE&HANGER CLINIC",
+        address: "475 N GRAPE ST, ESCONDIDO, CA, 92025",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['475 N','GRAPE ST', 'ESCONDIDO','92025']
+    },
+    { 
+        name: "TROLLEY COURT",
+        address: "940 PARK BLVD, #229, SAN DIEGO, CA, 92101",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['940','PARK BL', '229','DIEGO','92101']
+    },
+    { 
+        name: "SHARP HEALTHCARE",
+        address: "8010 FROST ST, SUITE 100, SAN DIEGO, CA, 92123",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['8010','FROST ST', '100','DIEGO','92123']
+    },
+    { 
+        name: "JACOB HEALTH CENTER",
+        address: "4075 54TH ST, SAN DIEGO, CA, 92105",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['4075','54TH ST','DIEGO','92105']
+    },
+    { 
+        name: "SS VASCULAR",
+        address: "6791 ALVARADO RD, SAN DIEGO, CA, 92120",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['6791','ALVARADO R','DIEGO','92120']
+    },
+    { 
+        name: "PETER H BELOTT, M D",
+        address: "8857 CENTER DR, SUITE 305, LA MESA, CA, 91942",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['8857','CENTER DR','305','MESA','91942']
+    },
+    { 
+        name: "KIDNEY TRANSPLANT ORIENTATION",
+        address: "7930 FROST ST, SUITE 308, SAN DIEGO, CA, 92123",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['7930','FROST ST','308','DIEGO','92123']
+    },
+    { 
+        name: "COUNCELER",
+        address: "3045 BEYER BLVD, #101, SAN DIEGO, CA, 92154",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3045','BEYER BLVD','101','DIEGO','92154']
+    },
+    { 
+        name: "CHULA VISTA FAMILY HEALTH CENTER",
+        address: "251 LANDIS AVE, CHULA VISTA, CA, 91910",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['251','LANDIS AVE','CHULA','91910']
+    },
+    { 
+        name: "CONSULT ALBERTO CHAVIRA",
+        address: "334 VIA VERA CRUZ, #257, SAN MARCOS, CA, 92078",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['334','VIA VERA CRUZ','257','MARCOS','92078']
+    },
+    { 
+        name: "PODIATRY AT NHC",
+        address: "460 N ELM ST, ESCONDIDO, CA, 92025",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['460 N','ELM ST','ESCONDIDO','92025']
+    },
+    { 
+        name: "PODIATRY AT NHC",
+        address: "1136 D AVE, NATIONAL CITY,CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1136','D AV','NATIONAL','92173']
+    },
+    { 
+        name: "VISION SPECIALIST OF CALIFORNIA",
+        address: "233 LEWIS ST, SAN DIEGO, CA, 92103",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['233','LEWIS ST','DIEGO','92103']
+    },
+    { 
+        name: "NORTH COASTAL FAMILY RESOURCE CENTER",
+        address: "3708 OCEAN RANCH BLVD, OCEANSIDE, CA, 92056",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3708','OCEAN R','RANCH B','OCEANSIDE','92056']
+    },
+    { 
+        name: "GENESIS RADIATION ONCOLOGY DR VAKALIAN",
+        address: "701 E GRAND AVENUE, #200, ESCONDIDO, CA, 92025",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['701','GRAND AV','200','ESCONDIDO','92025']
     }
-    
+
+
     
     
     

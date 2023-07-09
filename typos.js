@@ -534,16 +534,49 @@ module.exports=[
     replacement:' SAN DIEGO'},
     {typo: ' SAN DEIGO',
     replacement:' SAN DIEGO'},
+    {typo: 'VIA VISO',
+    replacement:'VÍA VISO'},
+    {typo: 'VIA DE LAS CUMBRES',
+    replacement:'VIA LAS CUMBRES'},
+    {typo: ' APT303',
+    replacement:' APT 303'},
+    {typo: ' ROOM #110',
+    replacement:' #110'},
+    {typo: ' APT158',
+    replacement:' APT 158'},
+    {typo: ' WASHINGTON AVE EL CAJON, CA, EL CAJON, CA',
+    replacement:' WASHINGTON AVE, EL CAJON, CA'},
+    {typo: ' APPT 120',
+    replacement:'  APT 120'},
+    {typo: ' SUITE B-107 SUITE B-107SAN DIEGO',
+    replacement:' SUITE B-107, SAN DIEGO'},
+    {typo: ' SEELEY AVE JACUMBA HOT SPRINGS',
+    replacement:' SEELEY AVE JACUMBA'},
+    {typo: ' WASHIGHTON',
+    replacement:' WASHINGTON'},
+    {typo: ' GROSSMO0NT',
+    replacement:' GROSSMONT'},
+    {typo: 'AVE EL CAJON, CA, EL CAJON, CA',
+    replacement:'AVE EL CAJON, CA, '},
+    {typo: '435 H ST, , CA 91910 CHULA VISTA, CA, 91910',
+    replacement:'435 H ST, CHULA VISTA, CA, 91910'},
+    {typo: '637 W. WASHINGTON AVE EL CAJON, CA, EL CAJON, CA',
+    replacement:'637 W WASHINGTON AVE, EL CAJON, CA,'},
+    {typo: '637 W  WASHINGTON AVE EL CAJON, CA, EL CAJON, CA',
+    replacement:'637 W WASHINGTON AVE, EL CAJON, CA,'},
+    {typo: '435 H ST, , CA 91910, CHULA VISTA, CA 91910',
+    replacement:'435 H ST, CHULA VISTA, CA, 91910'},
+    {typo: 'MOLLISON ST, #1, , C EL CAJON',
+    replacement:'MOLLISON ST, #1, EL CAJON'},
+    {typo: '#1 SD CA 92103',
+    replacement:'#1, SAN DIEGO, CA, 92103'},
+    {typo: '9400 CAMPUS POINT DRIVE SECOND FLOOR EAST',
+    replacement:'9400 CAMPUS POINT DR '},
+    {typo: '303NATIONAL',
+    replacement:'303 NATIONAL'},
+    {typo: '1845 E 12 ST',
+    replacement:'1845 E 12TH ST'},
     
-    
-   
-    
-    
-    
-    
-    
-    
-
     
     
     
