@@ -35,6 +35,8 @@ module.exports=[
     replacement:'VIA LAS CUMBRES'},
     {typo: 'VIA,VALARTA',
     replacement:'VIA VALARTA'},
+    {typo: 'VIA,VERA CRUZ',
+    replacement:'VIA VERA CRUZ'},
     {typo: 'PALM AVE,',
     replacement:'PALM AVENUE,'},
     {typo: 'CA 9',

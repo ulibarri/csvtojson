@@ -1,6 +1,8 @@
 module.exports=[
     {typo: 'PODIATRY APPOINTMENT=SEASIDE FOOT AND ANKLE=',
     replacement:' '},
+    {typo: '91914-3509',
+    replacement:'91914'},
     {typo: 'SSN',
     replacement:'SAN'},
     {typo: 'VSITA',
@@ -148,6 +150,8 @@ module.exports=[
     replacement:'PICK UP PTP AT DTR. HOUSE 3987 BATEMAN AVENUE, EXT 2120, SAN DIEGO,CA , 92154 TO TAKE PTP BACK HOME'},
     {typo: 'GENNESSEE',
     replacement:'GENESEE'},
+    {typo: '9834 GENESS ',
+    replacement:'9834 GENESEE '},
     {typo: '4303 LA JOLLA VILLAGE DR.',
     replacement:'4303 VILLAGE DR,'},
     {typo: 'TRASPORTATION',
@@ -240,6 +244,8 @@ module.exports=[
     replacement:'211, CHULA'},
     {typo: '570 S. MOLLISON ST, #1, , C',
     replacement:'570 SOUTH MOLLISON ST, #1C'},
+    {typo: 'MOLLISON ST, #1, , C EL',
+    replacement:'MOLLISON ST, #1C, EL'},
     {typo: '1845 E 12TH ST, NATIONAL CITY , CA 92021',
     replacement:'1845 E 12TH ST, NATIONAL CITY, CA, 91950'},
     {typo: '3364 BEYER BLVD #102 SAN DIEGO',
@@ -576,9 +582,66 @@ module.exports=[
     replacement:'303 NATIONAL'},
     {typo: '1845 E 12 ST',
     replacement:'1845 E 12TH ST'},
+    {typo: '385 PARK WAY CV',
+    replacement:'385 PARK WAY, CHULA VISTA'},
+    {typo: '129 ALBERTSON R',
+    replacement:'129 ALVERSON R'},
+    {typo: 'PRAIRIE MOUNT W',
+    replacement:'PRAIRIE MOUND W'},
+    {typo: 'CORTE VISTA APPT',
+    replacement:'CORTE VISTA APT'},
+    {typo: '2340 #A GREENBRIAR DR,',
+    replacement:'2340 GREENBRIAR DR, SUITE A,'},
+    {typo: '517 WEST SY BLVD,',
+    replacement:'517 WEST SAN YSIDRO BLVD,'},
+    {typo: '3907 WARNING R',
+    replacement:'3907 WARING R'},
+    {typo: '90 SHERLE L',
+    replacement:'90 SHIRLE L'},
+    {typo: '477 NO EL CAMINO REAL',
+    replacement:'477 N EL CAMINO REAL'},
+    {typo: '1010 WEST LA PACIFICA SPC 96',
+    replacement:'1010 W SAN YSIDRO BLVD, SPC 96 '},
+    {typo: '200W ',
+    replacement:'200 W '},
+    {typo: '3120 FAIRMONT SAN',
+    replacement:'3120 FAIRMONT AVE, SAN'},
+    {typo: '1203 LAMPSHINRE',
+    replacement:'1203 LAMPSHIRE'},
+    {typo: '200 W ABOR',
+    replacement:'200 W ARBOR'},
+    {typo: ' SA SAN YSIDRO, CA',
+    replacement:' SAN YSIDRO, CA'},
+    {typo: '3855 HELTH SCIENCE ',
+    replacement:'3855 HEALTH SCIENCES '},
+    {typo: '7910 FROST SUITE 100',
+    replacement:'7910 FROST ST SUITE 100'},
+    {typo: 'Y, SAN DIEGO, CA SAN DIEGO, CA ',
+    replacement:'Y, SAN DIEGO, CA, '},
+    {typo: 'ESCONDICO',
+    replacement:'ESCONDIDO'},
     
     
     
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+   
     
         
 ]
