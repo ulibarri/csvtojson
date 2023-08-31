@@ -558,8 +558,6 @@ module.exports=[
     replacement:' SUITE B-107, SAN DIEGO'},
     {typo: ' SEELEY AVE JACUMBA HOT SPRINGS',
     replacement:' SEELEY AVE JACUMBA'},
-    {typo: ' WASHIGHTON',
-    replacement:' WASHINGTON'},
     {typo: ' GROSSMO0NT',
     replacement:' GROSSMONT'},
     {typo: 'AVE EL CAJON, CA, EL CAJON, CA',
@@ -598,8 +596,8 @@ module.exports=[
     replacement:'3907 WARING R'},
     {typo: '90 SHERLE L',
     replacement:'90 SHIRLE L'},
-    {typo: '477 NO EL CAMINO REAL',
-    replacement:'477 N EL CAMINO REAL'},
+    {typo: '477 NO EL CAMINO',
+    replacement:'477 N EL CAMINO'},
     {typo: '1010 WEST LA PACIFICA SPC 96',
     replacement:'1010 W SAN YSIDRO BLVD, SPC 96 '},
     {typo: '200W ',
@@ -620,9 +618,21 @@ module.exports=[
     replacement:'Y, SAN DIEGO, CA, '},
     {typo: 'ESCONDICO',
     replacement:'ESCONDIDO'},
+    {typo: ' OLDE H',
+    replacement:' OLD H'},
+    {typo: ' WASHIGHTON SPACE 98 ',
+    replacement:'WASHINGTON AVE SPC 98'},
+    {typo: ' WASHIGHTON',
+    replacement:' WASHINGTON'},
+    {typo: 'YSIDRO CALIFORNIA 92173',
+    replacement:'YSIDRO CA 92173'},
+    {typo: 'REAL A102',
+    replacement:'REAL, APT 102, '},
     
     
     
+    
+
     
     
     

@@ -6025,7 +6025,44 @@ let centers=[
         phone: null,
         criteria: ['316','25TH ST','DIEGO','92102'],
         funding_source:[0,1]
+    },
+    { 
+        name: "HEART AND WELLNESS",
+        address: "1415 E 8TH ST, NATIONAL CITY, CA, 91950",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['1415 E','8TH ST','NATIONAL','91950'],
+        funding_source:[0]
+    },
+    { 
+        name: "MONEY TREE",
+        address: "7475 BROADWAY, LEMON GROVE, CA, 91945",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['7475','BROADWAY','LEMON','91945'],
+        funding_source:[0]
+    },
+    { 
+        name: "MYPOINT CREDIT UNITION",
+        address: "780 JAMACHA ROAD, EL CAJON, CA, 92019",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['780','JAMACHA R','CAJON','92019'],
+        funding_source:[0]
+    },
+    { 
+        name: "MISSION FEDERAL/COLLEGE GROVE",
+        address: "3470 COLLEGE AVE, SAN DIEGO, CA, 92115",
+        abbrev: null,
+        category: null,
+        phone: null,
+        criteria: ['3470','COLLEGE AV','DIEGO','92115'],
+        funding_source:[0]
     }
+    
     
     
 
